@@ -1,0 +1,89 @@
+du Pater, il peut arriver que la modulation en s’élevant se
+porte avec une certaine insistance sur la note d’accent, c'est-à-
+dire sur le 57, jusqu'à même s'y maintenir de façon à transfor-
+mer cette note en dominante transitoire. L'importance donnée
+au sz dans cette circonstance ne permet plus en descendant de
+faire entendre le /z, à cause de la relation de triton qui serait
+alors renfermée, du moins implicitement, dans la modulation.
+C'est pourquoi dans ce cas le /a est supprimé et la cadence se
+fait par degrés disjoints.
+
+ 
+
+nr
+
+__s 8 9 ____ =
+8 _ mé
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TELLE est la progression ordinaire de la mélodie, non-seule-
+ment dans les récitatifs, mais aussi dans un certain nombre de
+chants plus modulés, où la place du /a est toujours vide. Quel-
+quefois cependant, au lieu de la tierce disjointe qui résulte de la
+suppression du /a, se rencontre la tierce conjointe ou simplement
+la seconde. Mais alors, pour éviter la relation de triton,
+instinétivement et forcément le demi-ton s’est trouvé un degré
+plus haut, et au lieu du tétracorde primitif descendant d’un
+ton, puis d’un ton et enfin d'un demi-ton, on a eu un tétracorde
+d'un autre genre, c'est-à-dire composé d’un ton, d'un demi-
+ton et d'un ton. Une conséquence immédiate de ce fait a été
+la transposition de la mélodie à un degré plus bas. La note
+so! est ainsi devenue la corde récitante, au lieu de /. Celle-ci
+est devenue la note d’accent et aussi parfois, comme nous le
+disions, une dominante d'occasion. En montant encore, au lieu
+de #f on a eu Ô mo/. D'autre part la cadence qui se faisait sur
+mi s'est faite sur re
+
+Modulation notée sur l’échelle ordinaire. Même modulation écrite un degré plus bas
+| u
+2 — "2 | 02 —
+s = a ss )s, à,
+1 —a—
+
+Pater noster qui es in cœlis. Pater noster qui es in cœlis.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CETTE seconde échelle, moins primitive et moins commune
+que la première, est cependant une échelle normale, l’échelle
+propre d’un certain nombre de chants et particulièrement des
+

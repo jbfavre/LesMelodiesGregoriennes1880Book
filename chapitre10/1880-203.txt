@@ -1,0 +1,73 @@
+exécution du chant; il y aurait peu de chose à y ajouter, et rien
+à en retrancher.
+
+Nous avons vu que d'une part le texte se divise en mots, en
+membres de phrase et en phrases, et que d'autre part la mélodie
+se partage en syllabes musicales, en neumes et en distinétions.
+Les syllabes musicales sont comme les mots de la mélodie,
+les neumes en sont les membres, et les distinctions les phrases.
+Quand la mélodie est syllabique, c’est-à-dire qu’à chaque syllabe
+du texte répond dans la mélodie une note simple, il arrive que
+la syllabe musicale finit réellement avec le mot du texte, le
+neume avec le membre de phrase, et la distinétion avec la
+phrase : le texte et la mélodie marchent alors parallèlement et
+se développent simultanément,en sorte que l’on suit alors absolu-
+ment à la lettre ce que recommande Gui d’Arezzo lorsqu'il dit :
+in unum terminentur partes et distinlliones neumarum aîque ver-
+Gorum. (Microl. c. XV.) Exemple :
+
+ 
+
+ 
+
+.
+———
+HR __, 1m _R | nm mn _n R
+
+Grâ-ti-as a-gâmus | Démino De- o nostro.
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHAQUE mot donne ici une syllabe musicale; après les deux
+premiers, le son est légèrement suspendu; ce qui permet de
+diviser la phrase en deux membres comprenant, l’un ces deux
+premiers mots, Gréfias agémus:; l'autre les trois suivants, D6-
+mino Deo nostro; le chant présente une division naturelle au
+même endroit, ce qui donne deux neumes ou parties mélodi-
+ques répondant aux deux membres de la phrase: avec celle-ci se
+termine la distinétion musicale. Cette harmonie entre le texte
+et le chant existerait également si, au lieu d’une note simple
+répondant à chaque syllabe du texte, il se rencontrait une seule
+formule ou groupe de notes indivisible. On peut prendre pour
+exemple les mêmes paroles chantées sur le ton solennel:
+
+ 
+
+—d..
+
+a a a CE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— r
+Grâ-ti- as a-gâmus | Démi-no De- o nostro.
+
+Mais lorsqu’à une même syllabe du texte se rapportent plu-
+sieurs formules, le développement donné dans ce cas à la mélo-
+

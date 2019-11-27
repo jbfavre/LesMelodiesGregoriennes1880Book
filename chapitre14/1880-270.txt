@@ -1,0 +1,47 @@
+ON voit que dans les ligatures, comme dans les séries de
+notes simples, le même signe n'a pas toujours le même sens :
+ainsi la note commençant par une queue est brève en descen-
+dant, longue en montant; la carrée, au contraire, est brève en
+montant, longue en descendant.
+
+LA dernière note du groupe complète régulièrement le rhy-
+thme, et le perfettionne; car c’est sur cette dernière note que
+l'on arrive au ternaire obligé, et qu'ainsi l'on atteint la fer-
+fettion; c'est pourquoi un groupe qui finit d’une façon normale
+est un groupe parfait, #0/4 CUM PERFECTIONE; Si on modifie la
+forme de la dernière note pour lui donner moins de valeur, le
+groupe est dit #of4 SINE PERFECTIONE; il faudra alors ajouter
+d'autres notes pour parfaire le nombre trois, perfectionner le
+groupe qui par lui-même est si#e perfeétione. Ainsi ce groupe f'e
+est sine perfectione; pour le perfectionner il faudra faire entrer
+
+. 1 1
+en ligne de compte d’autres notes; exemple : fox on total : 3.
+
+LE groupe imparfait que nous venons de donner présente
+beaucoup d'analogie avec la plique des mensuralistes; seule-
+ment, dans celle-ci le son bref qui termine le groupe, au lieu
+d’être représenté par une losange, l’est par une simple queue;
+de plus, sa valeur est prise sur celle du son précédent.
+
+Toure ligature finissant par une caudée est une ligature pli-
+quée ; sf; "a: M: %; L etc.
+
+LA plique de deux sons a deux queues, dont l’une est plus
+courte que l'autre. Lorsque c’est la première qui est plus courte,
+la note a la valeur de la carrée, c’est-à-dire qu’elle est brève
+si la voix doit monter, et longue si la voix doit descendre.
+Lorsque c'est le contraire, la valeur de la note est celle de la
+caudée : brève en descendant, longue en montant.
+
+1 2 !
+PLIQUES LONGUES : L , A PLIQUES BRÈVES : ‘, F
+2 ! # #
+
+ON voit que comme figures de notes la plique ascendante
+dérive de l'epzfhonus, et la plique ascendante du cephalicus :
+mais, comme nous l'avons fait remarquer déjà, la signification
+des signes a complètement changé.
+
+Le tableau suivant résume la théorie des mensuralistes.
+

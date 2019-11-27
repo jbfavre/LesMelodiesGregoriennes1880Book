@@ -1,0 +1,79 @@
+C'EST pourquoi il devenait nécessaire de tracer une seconde
+ligne qui, en fixant la place de la note distante d'une quinte de
+la première ligne, rendait certaine la leéture de cette note et de
+ses voisines.
+
+ 
+
+C s
+
+£ a.
+Ï  .
+re mi fa so la si ut re mi
+SANS cette seconde ligne, la distance de s7 et #/{ restait ambi-
+guë; plus haut, celle de r# et #3 impossible à voir; mais avec
+les deux lignes, il devient plus facile de fixer tous les degrés de
+l'échelle; pourvu toutefois, en ce qui concerne la note /, que
+celle-ci soit bien au milieu des deux lignes; et aussi que le 74
+grave ne monte pas trop près de la ligne du bas, et enfin que le
+mi aigu n'approche pas trop de la ligne supérieure. Si donc le
+copiste n'était pas guidé par un coup d'œil sûr, il y avait encore
+là matière à erreur; il ne restait plus, pour couper court à toute
+confusion et à tout embarras, que de tracer une ligne au milieu
+des deux autres, répondant à la note 2.
+
+C
+
+£
+
+L
+. Enfin, selon que le chant s'étend vers les sons graves ou vers
+les sons aigus, on ajoutait une quatrième ligne
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+soitau C soit au :
+dessous + - dessus € nl
+def: 1! dec: #
+
+ 
+
+ 
+
+Ï
+
+Et c'est ainsi que se trouva inventée la portée actuelle de
+quatre lignes; et avec elle, les clefs : celle de C ou d’xé, celle de F
+ou de /a. L'on employait quelquefois simultanément ces deux
+clefs, comme nous l'avons écrit plus haut; mais plus souvent une
+seule suffisait; on trouve, selon le besoin,
+
+ 
+
+ 
+
+tantôtla € tantôt la £&
+clefd’uf: - clefde /a:
+
+ 
+
+ 
+
+ 
+
+ 
+
