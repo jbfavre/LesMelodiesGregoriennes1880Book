@@ -1,0 +1,199 @@
+soit ceux qui dérivent de l'accent, ont par euxmêmes un triple but, une triple signification. Ils indiquent : 1° Quels sons doivent être liés dans le chant, quels sons au contraire doivent être disjoints.
+
+2° Dans quel cas la voix doit monter, dans quel cas elle doit descendre.
+
+3° En quelles circonstances particulières, il convient de faire entendre des sons érémulants, liguescents, aphuyés, syncopés, réperculés.
+
+La liaison ou la division des sons est le point capital, et sous ce rapport les neumes ont été parfaits dès l'origine.
+
+LE mouvenient de voix, ou à l'unisson, ou du grave à l'aigu, ou de l’aigu au grave, n’est indiqué d’abord dans les neumes, que d'une manière vague, ainsi que nous l'avons vu. Nous avons expliqué les perfeétionnements successifs de la notation neumatique, pour suffire aussi sous ce rapport à tous les besoins.
+
+QUANT à ce qui touche aux ornements mélodiques, les premiers neumes étaient d’une très- grande richesse, et il serait difficile de reproduire aujourd’hui, soit dans l'écriture soit dans l'exécution, des nuances d'expression aussi multiples et aussi délicates.
+
+ON a voulu chercher autre chose dans les neumes. Habitué que l'an est à diviser les notes musicales modernes en longues et brèves, fortes et faibles, on s’est tout de suite préoccupé de trouver également dans les neumes du chant grégorien, des valeurs diverses en durée ou en force; comme si le rhythme grégorien était établi sur les bases de la musique mesurée. De là des erreurs et des confusions nombreuses que nous voudrions prévenir, en montrant que les neumes, par rapport à la durée ou à la force des sons, n’ont nullement le sens que l'on s’est trop hâté de leur attribuer.
+
+| F neumes, soit les neumes à points superposés,  LES neumes par eux-mêmes ne déterminent pas la durée relative des sons.
+
+Sans doute il se trouve parmi les neumes certains signes, comme par exemple le fressus et aussi le sérophicus, qui supposent toujours et indiquent par conséquent une prolongation du son. De même, lorsque deux groupes sont unis de la manière que nous avons décrite à propos des sons syncopés, il y a aussi dans ce cas une tenue de la voix sur la même corde, c’est-à-dire deux notes qui équivalent à un son d’une durée plus longue. Mais en dehors de ces signes spéciaux, il y a la note simple, virga où punilum; il y a les formules communes et ordinaires, telles que le Sodatus, la clivis, le torculus, le climacus, le scandicus, etc. Or nous disons que rien dans les notes simples, rien non plus dans les traits essentiels dont les groupes de notes sont composés, n'indique la durée relative des sons qui leur correspondent.
+
+EN effet, les éléments constitutifs des formules, on s’en souvient, sont : 1° la ligne penchée vers la droite /; 2° la ligne inclinée vers la gauche \ ; 3° le point *. S'il se présente dans quelques manuscrits, des neumes plus variés, cette plus grande variété tient à des traits accessoires ou à des modifications accidentelles dont nous parlerons : ici nous étudions les formules telles qu'elles sont en elles-mêmes, abstraction faite de tout accessoire.
+
+Or qu'est-ce que la virga isolée ? et dans les formules, qu'est-ce que le trait incliné sur la droite? nous l'avons vu : c'est le signe d'une élévation de la voix, d'un son plus aigu. Qu'est-ce que le punélum seul ou dans une formule ? qu'est-ce que le trait incliné sur la gauche? le signe d'un mouvement contraire, c'est-à-dire d'un abaissement de la voix, d’un son plus grave.
+
+TELLE est la signification propre de ces éléments, qui se combinent de diverses manières, selon la diversité des groupes, mais qui sont les mêmes pour tous et doivent avoir dans tous le même sens.
+
+Les auteurs modernes qui ont vu dans la virga, soit isolée soit en composition, une note qui par elle-même serait plus longue, et dans le ##n{lum seul ou faisant partie d'un groupe, une note brève, ne se sont pas sans doute aperçu de ce qu'il y a  d'étrange et d'absolument inadmissible dans les conséquences auxquelles leur système les a conduit, ou logiquement devrait les conduire. Voyons-en quelques-unes.
+
+Ex étudiant les manuscrits les plus anciens et les plus corrects, ceux de S. Gall par exemple, on a vite remarqué que la vzrga des neumes, conformément à ce que nous avons dit, répond toujours et dans tous les cas à un son plus élevé que le suivant ou que le précédent; tandis que le fan?um au contraire indique toujours un son relativement plus grave. Mais quel chant obtiendrait-on, si toute note plus élevée était par le fait seul de sa position culminante nécessairement une note plus longue, et toute note grave, une note forcément plus brève? Ainsi, par exemple, dans le Gloria in excelsis indiqué au Missel pour les fêtes doubles, on trouve les mots /oneæ voluntatis avec la virga sur chacune des deux dernières syllabes, et un peu plus loin les mots #2serére nobts finissant au contraire avec deux funtlum.
+
+$ e HT)
+
+/ / bonæ volunta-tis. mise-rere nobis.
+
+Pourquoi cette différence ? Pourquoi #obrs serait-il bref, et les syllabes {ais longues ? N'’est-il pas plus simple de voir dans cet exemple que la voix monte pour arriver sur la fin du mot 2luntatis et descend sur nobsts ?
+
+TEL est en effet le motif qui explique la présence ici du fuxlum, là de la virga; motif qui à la vérité n'existe plus depuis que les notes sont échelonnées sur la portée musicale, mais qui se comprend très-bien à l'époque où les neumes étaient encore écrits 2# campo aperto, sans aucune ligne. Veut-on un autre exemple? Dans le Ÿ. du Graduel CzAristus faitus est, on remarque une suite de 2z7ga sur les mots exa/tavit illum; tandis que plus loin sur les mots guod est super, dans les manuscrits, c'est le funilum qui affecte uniformément chaque syllabe.
+
+tt Ç
+
+1 + T —_
+
+——8 3 — 2 1111 /7/ . _ et exaltavit illum. quod est super.
+
+ CETTE différence de notation s'explique très-bien d'après nos principes et en même temps les confirme : dans le premier passage la voix se maintient sur les cordes aiguës, on a la v#rga; dans la seconde le chant est sur les cordes graves, on a le funélum.
+
+Sr la virga était une longue et le #wnélum une brève, il faudrait logiquement chanter ici toutes notes brèves et 1à toutes notes longues. Non seulement dans ce morceau de chant, mais partout et toujours nous devrions procéder de la sorte, puisque partout et toujours c’est la même manière de noter; puisque partout et toujours les notes qui se suivent à l'unisson, quelque longue qu'en soit la série, sont uniformément ou toutes des vz7ga, ou toutes des pfaunélum.
+
+Pour les groupes, la conséquence du système que nous combattons serait que dans chaque formule toute note culminante devrait être toujours longue, sans exception aucune, et celle-là seulement; ainsi la seconde note du fodatus, la seconde du #orculus, la première et la troisième du forreilus seraient autant de longues : conséquence inadmissible. Nous ne devons donc pas chercher dans la différence du punélum et de la virga un moyen de déterminer la valeur temporaire des sons dans le chant grégorien.
+
+Mais puisque la virga est originairement l'accent aigu, n'indiquerait-elle pas du moins un son fort, accentué? Non, encore. Il est impossible en effet de rien comprendre à la théorie des anciens sur l’accentuation et de bien interpréter leur système de notation musicale, si l’on ne consent pas à se mettre à leur point de vue; si l’on s'obstine, par exemple, à confondre dans le chant, comme dans la lecture, d’une part l’acuité avec la durée du son, l'accent avec la quantité; et d'autre part, cette même acuité du son avec la force ou l'intensité qu’on peut lui donner. Bien que souvent simultanées, ces modifications de la voix chantante ou parlante demeurent en elles-mêmes toujours indépendantes et séparables; souvent aussi de fait elles se trouvent séparées.
+
+QuE dans le simple langage le mouvement alternatif d'arsis et de fhesis amène grammaticalement, d’une façon régulière, le temps fort sur la syllabe aiguë, et le temps faible sur les syllabes graves, la chose est facile à comprendre; mais lorsque  le langage, au lieu d'être simplement accentué, se trouve chante, c'est bien différent; car alors le chant absorbe l'accent; et puisque déjà, comme nous l'avons remarqué, la modulation plus variée du débit oratoire vient souvent modifier l'accent grammatical, à plus forte taison, celui-ci devra-t-il facilement disparaître en présence de l'accent musical et du chant proprement dit.
+
+IL est donc inutile et même impossible d'identifier, au point de vue du temps fort, l'accent aigu du discours ou l'accent tonique qui vient relever de distance en distance certaines syllabes, et l'accent aigu de la musique qui n’a ni la même régu:larité, ni la même alternance. Souvent, par exemple, celui-ci maintient la voix sur plusieurs syllabes de suite à une égale hauteur; ce qui obligerait à donner plusieurs temps forts successifs, sans mélange de temps faibles, et serait destructif de tout rhythme et de tout accent.
+
+LES motifs qui nous ont empêché plus haut de regarder la virea comme une note longue, s'opposent donc également à ce que nous puissions la considérer comme une note forte par ellemême. C'est un fait, comme nous l'avons dit, que la virga dans les anciens manuscrits se poursuit uniformément sans mélange de panélum sur des lignes entières de chant; ce qui arrive toutes les fois que la voix ne doit ni monter ni descendre, comme par exemple, dans le chant d'un Psaume, entre l'intonation et la médiante, et depuis celle-ci jusqu'à la terminaison; dès lors, pour être logique, il faudrait dire que ces notes successives sont toutes également accentuées, ce qui est impossible: ou bien alors avouons que la visa n’est pas le signe de l'accent entendu dans le sens d'un temps fort. La vraie signification de la virga est donc celle que nous lui avons donnée et que nous lui maintenons, en la considérant simplement comme une note relative ment plus élevée que le panéZum.
+
+LES neumes primitifs transportés sur la portée furent ce qu'ils étaient auparavant et demeurèrent intacts, tant que subsistèrent les saines traditions; sauf les modifications purement graphiques et vraiment accidentelles que nous avons décrites. Toutefois plusieurs choses avaient perdu leur raison d’être. Ainsi, la distinétion entre la virga et le funé?um, l'une désignant, comme nous venons de le prouver,un son relativement plus élevé,  l'autre un son relativement inférieur, devenait inutile : puisque la place de la note sur l'échelle en déterminait désormais avec netteté l’intonation. On pouvait donc employer, chaque fois qu'il s'agissait d'exprimer un son unique, grave ou aigu, l'un ou l'autre de ces signes indifféremment, ou seulement l’un des deux, c’est-àdire toujours la v27ga ou toujours le funéZum. Mais ce ne fut que très tard que l'on en arriva à cette pratique. Pendant longtemps encore, on vit la virga et le purnélumm paraître simultanément sur la portée, sans que l'on puisse toujours bien deviner la raison qui a pu à tel endroit motiver le choix de la note caudæ à tel autre, de la note carré, ou même dans certains livres, de la note losange. 1] semble souvent que l'arbitraire et la pure fantaisie du calligraphe ont présidé à ce choix; et quand on voit percer une pensée, il est rare que l'écrivain y demeure fidèle jusqu'au bout. Quelquefois cependant la note caudée marque assez régulièrement le commencement ou la fin d'une syllabe musicale ou d’un petit membre de phrase mélodique. D'autres fois les notes sont caudées, carrées ou même losanges à l’imitation de ce qui se ferait régulièrement si ces mêmes notes, au lieu d'appartenir chacune à une syllabe du texte, se trouvaient réunies en scaxdicus, climacus, où en un autre groupe.
+
+1° Notes caudées répondant à la v:7ga de la notation primitive:
+
+e
+
+ME ER ++ A — CE —_e_ Victimæ paschali laudes immolent christi-ani.
+
+2° Notes caudées marquant la fin des mots : mora ulfimoæ vorts.
+
+E
+
+a By =
+
+8— 8 —;@ —— 85 + : EE ———Victimæ | paschali | laudes | immolent | christi-ani.
+
+3° Notes caudées, carrées ou losanges, en rapport avec les formules mélodiques :
+
+7 A? A le.
+
+— s = 2e 2 +
+
+Victimæ paschali laudes immolent christi-ani.
+
+ CHAQUE manuscrit, sous ce rapport, a son système, quand ce n’est pas, comme nous le disions, fantaisie pure. L'accent onique a aussi quelquefois eu son influence pour motiver la caudée: mais l’idée de donner à cette note une vraie valeur de longue ou d'accent est une idée toute moderne. Guidetti au seizième siècle ne l'avait pas encore soupçonnée, et ce n'est que dans les éditions posthumes de son DireéZorium que l'on voit la note caudée avec une valeur spéciale. Le système de Guidetti, qui est né de lui et est mort avec lui, consistait à signaler certaines notes, qu'il voulait qu'on exprimât différemment des autres, en les surmontant d’un signe de son invention.
+
+Vorci le texte de l’auteur, que nous empruntons à la seconde édition de son Diretlorium. (Romæ. 1580.)
+
+NorTÆ autem sunt hujusmodi a + a à ao HÆc nota # vocatur brevis cui subjecta syllaba ita profertur
+
+ut in canendo tempus unum insumatur.
+
+Hzæc * dicitur semibrevis … dimidium unius temporis.
+
+Hzæc altera s … paulo tardius.
+
+HÆc a …. duorum temporum.
+
+HÆ #6 conjunétæ. Tunc syllaba subjacens leni quodam spiritus impulsu pronunciabitur; proinde ac si duplici scriberetur vocali, ut Doominus pro Dominus, sed cum decore et gratia, quod hic doceri non potest. Citons un exemple : (Sage 481.)
+
+Em e
+
+De-us in adjutori-um me-um intende.
+
+Ex général, surtout en Italie, dans les premiers imprimés comme dans les manuscrits, toute note isolée est une note caudée. En France, les imprimeurs font volontiers usage de la simple carrée; en Espagne, de la note losange. Ces divergences n'ont d'importance qu’au point de vue calligraphique ou typographique; elles ne font rien à l'exécution du chant, comme nous le verrons en exposant plus loin les principes du rhythme grégorien. |
+
+La thèse que nous soutenons sur l'insuffisance des neumes à exprimer, soit les intervalles précis que la voix doit successive ment franchir, soit la durée ou l'intensité relatives des sons, concerne, comme nous l'avons dit, les neumes pris en eux-mêmes, c'est-à-dire dans les éléments qui les constituent, abstraction faite de tout accessoire. Mais dans plusieurs manuscrits, ceux de S. Gall par exemple, et quelques autres de la même école, les signes que nous avons décrits présentent des particularités et des adjonétions remarquables, dont il nous faut tout de suite expliquer la nature et le but.
+
+ON voit en effet, dans ces manuscrits, certaines lettres accompagnant çà et là les neumes, puis certains petits traits ou points semblant faire corps avec les formules elles-mêmes, mais devant en être soigneusement distingués.
+
+Pour ce qui concerne ces lettres, il faut également bien se garder, comme nous l'avons dit déjà, de les confondre avec celles qui constituent la notation alphabétique.
+
+L'ORIGINE des lettres et des signes accessoires dont nous parlons est connue: il peut être utile de la rappeler ici brièvement.
+
+À LA demande de Pépin et de Charlemagne, les Papes, on le sait, envoyèrent à plusieurs reprises des chantres habiles pour apprendre aux Francs et aux Germains les mélodies grégoriennes. PETRUS et RoMANUs furent deux de ces députés. Ils partirent ensemble de Rome; mais on raconte qu'au passage des Alpes, Romanus tomba malade, et alla pour se rétablir demander l'hospitalité à la fameuse abbaye de S. Gall, laissant son compagnon poursuivre sa route jusqu'à Metz, où se trouvait alors le centre d'instruction pour l'enseignement du chant romain. Romanus se plut à S. Gall et y fixant son séjour il fonda là une école de chant qui devint l’heureuse rivale de celle de Metz. Il avait apporté avec lui des livres notés en neumes ; mais, comme le disent les auteurs, c’est plutôt par la parole que par l'écriture, pofius colloquendo quam conscribendo, qu'il est possible d'enseigner la manière de bien chanter. Vu en effet la nature des neumes, vu surtout l'allure libre et naturelle du chant
+
+La bibliothèque de S. Gall conserve encore en assez bon nombre des Antiphonaiïres et des Graduels très-anciens dont l’un d’eux, publié en /&c-simile par le P. Lambillotte, paraît être contemporain de ROMANUS; mais quand même on en douterait, il est impossible de ne pas voir dans ce monument vénérable, et dans les autres de la même école, la reproduction du chant, tel que Romanus l’enseignait.  grégorien, il fallait à S. Gall comme ailleurs, pour interpréter les neumes, le secours de l’enseignement oral. D'un autre côté, pour aider ses élèves à retenir ses leçons, Romanus a eu recours à certaines lettres et à certains signes particuliers ajoutés aux neumes. Ces adjonétions ne sont peut-être pas de l'invention de Romanus, car on en trouve de semblables dans quelques manuscrits de différentes provenances; maïs il a fait un usage spécial de ces signes, qui pour cela sont appelés signes Romaniens.
+
+Les lettres, mises également en vogue par le chantre Romanus, sont nommées significatives par le bienheureux Notker, qui en donne la clef, Elles sont destinées à avertir le chantre, dans les endroits où l'on peut présumer qu'il sera plus exposé à se tromper. Parmi ces lettres, 1° les unes ont rapport à l’intonation; ainsi :
+
+a, d, s avertissent d'élever la voix : a/fius — levatur — sursum.
+
+d et z indiquent au contraire une dépression du son : déprimalur — 1USUM.
+
+e, entre deux notes, signifie qu'elles sont unissonnantes, e7waliter (sonantes),
+
+2° D’autres concernent la nature du son :
+
+f et # marquent un son éclatant : frende, klanpe (pour clange).
+
+£ — un son guttural.
+
+h — une aspiration.
+
+r — une crispation du son. 0 — une certaine emphase.
+
+3° D'autres insinuent le mouvement lent ou rapide de la note ou de la formule :
+
+c exprime la célérité : celeriter — cilius.
+
+£ et f marquent la tenue de la voix : ene, freme.
+
+x indique un retard, une certaine pause : eXfe//a.
+
+4° Certaines lettres ont un sens plus général:
+
+ê se joint à une autre lettre pour dire de bien faire ce que celle-ci recommande : #4, c'est-à-dire 0ene lenete.
+
+m invite à la modération : m#ediocriter.
+
+n appelle l'attention : #ofa.
+
+5° D'autres lettres enfin n'ont aucun sens. Notker veut dire sans doute qu'elles sont inusitées. Ce sont 9, v, y, z.
+
+Pour mieux faire comprendre l'usage et la portée des lettres significalives, nous allons en donner un exemple.  À LA fin des versets de Graduel ou d’A//eluia, on rencontre tantôt l’une tantôt l’autre des modulations suivantes :
+
+E— Ë # SR 7: A Em
+
+ON comprend combien il est facile au chantre de prendre l’une pour l'autre. Pour prévenir toute ambiguité, le notateur des manuscrits de S. Gall a mis dans la seconde modulation un z (zusum) au-dessous du dernier point du cmacus, c'est-à-dire à l'endroit même où les deux phrases mélodiques commencent à être différentes; comme pour dire au chantre: prenez bien garde, vous pourriez être tenté de ne descendre ici qu’au ré, c'est l'us que vous devez atteindre en omettant le ré.
+
+VIENNENT avec les lettres, ies traits ou points surajoutés aux neumes. Ces traits ont pour inventeurs, les inventeurs mêmes des lettres sigwiffcalives : comme celles-ci, ils se présentent là seulement où le chantre est jugé avoir besoin d'indication, et doit être mis en garde contre une erreur. On remarque donc dans les manuscrits de S. Gall un trait surmontant la c/ivis, un point occupant la tête de la virgu"; de plus, certains Pfunélum, dans le c/imacus* par exemple, se trouvent plus marqués. De même l'accent grave ou le pied du fodatus, les traits du forculus sont plus forts que dans les formules ordinaires.
+
+VIRGA. CLIVIS. PODATUS. TORCULUS. CLIMACUS. PES SUDIATESSERIS. SCANDICUS SUBBIPUNCTIS. / À / e L D gs 4 y
+
+1Ce point au sommet de la virga a une origine toute différente de celui que nous voyons apparaître à l’époque guidonienne. La signification en est également toute autre : dans l'écriture romanienne, la tête de la wsrga a une valeur pour le rhythme ; dans lécriture guidonienne, elle est purement graphique.
+
+?Le point final du c/macus, dans certains manuscrits, comme celui de Montpellier, allonge régulièrement en forme de virgule. Cette virgule n’a rien de commun avec la notation romanienne ; elle est le résultat d’une habitude de copiste, semblable à celle qui a fait transformer en y grec li final de certains mots, ex. Henry; ou qui a fait donner la forme du j au dernier i, lorsqu'il y en a plusieurs à se suivre dans un nombre en chiffres romains, ÿ. iij. vi. etc.  La présence du point ou petit trait surajouté, comme aussi le renforcement du fanélum, indique un ralentissement de la voix. Ce retard correspond souvent à ce que Gui d'Arezzo appelle mora ullimæ vOcts.
+
+le / 5
+
+é Te
+
+Ici la voix se repose un peu sur la fin de chaque groupe; et même pour le dernier, le retard devant être plus sensible commence dès la pénultième note. Aussi voyons-nous que ces points, ou ajoutés ou renforcés, affectent de préférence la fin des groupes et se multiplient davantage lorsque la pause est plus importante. Ces retards de la voix, marqués par certaines lettres ou par des traits et des points forts, peuvent toujours facilement s'observer, même lorsque la notation ne reproduirait pas ces particularités; pourvu toutefois que les groupes soient bien distribués et bien espacés sur la portée.
+
+Pari ces signes, lettres ou traits, qui viennent comme accessoires dans les neumes, et qui sont propres à un petit nombre de manuscrits, ceux qui ont rapport à l’intonation a, /, 5, z sont devenus inutiles, une fois que les neumes ont été disposés sur les lignes de la portée. Ceux qui indiquent un son éclatant, guttural, aspiré, etc. sont rares, ou sont ad Zôifum, comme en général dans la musique, tout ce qui est ornement pur.
+
+Nous devons remarquer qu'il y a trois sortes de c/vis dans les manuscrits romaniens: la première ne porte aucun signe particulier, parce que l'exécution en est facile; la seconde est surmontée d'un €, indiquant qu'il n'y a pas à s'arrêter sur cette formule, mais à la couler légèrement; la troisième est marquée d'un trait horizontal, qui est l'indice d'un ralentissement dans le mouvement.
+
+CLIVIS ORDINAIRE. CLIVIS BRÈVE. CLIVIS LONGUE. C A A1 A LE trait horizontal, analogue à celui qui surmonte la simple
+
+virga, a été pris par quelques interprêtes, mais à tort, pour un e couché; on n’a pas pris garde que dans une écriture cursive,  les traits de cette nature ne peuvent ressembler à ceux que J'on tracerait à la règle, et que facilement ils sont un peu arqués.
+
+UXE particularité également nécessaire à signaler dans les manuscrits de S. Gall, reproduite dans plusieurs autres, c'est la manière dont sont écrits, en certaines circonstances, le forcu/us et le Des subbipunétis. On rencontre en effet ces deux neumes sous une forme qui semblerait empruntée à la notation à points super posés, bien qu'en réalité elle n'appartienne pas à ce système. Sous la seconde forme dont nous parlons, le forculus est nommé éripunélum, et le pes subbipunilis est désigné par le simple qualificatif neutre swbbipunéle.
+
+TORCULUS ORDINAIRE. TRIPUNCTUM. PES SUBBIPUNCTIS. SUBBIPUNCTE.
+
+7 . J. .
+
+CE qui caractérise pratiquement et distingue le fripfunélum et le swébipunéle, c'est que dans l'une et l’autre formules, les premiers sons se trouvent ou sur le même ton ou à un demiton de distance. Il y a aussi dans les manuscrits romaniens une sorte de fes guassus où de salicus ainsi figuré Ç,/; il ressemble pour la forme et l'effet melodique au guzt/isma, avec cette différence qu'il répond à une tierce majeure au lieu d'une tierce mineure, et qu’il n’a que deux courbes au lieu de trois.
+
+Pour ces particularités, que la plupart des manuscrits ne présentent pas, on comprend que ceux qui les contiennent les donnent avec plus ou moins d’abondance; on comprend aussi comment les uns sont plus explicites, sans contredire ceux qui le sont moins, ou ceux qui se taisent absolument. Cette variété apparente des neumes, sous ce rapport comme sous celui du genre d'écriture, prouve que les manuscrits ne sont pas la simple copie les uns des autres; et comme tous, quoique chacun à sa manière, expriment le même sens, et conduisent aux mêmes conclusions pratiques, la tradition grégorienne ne s'en trouve par là que plus puissamment confirmée.
+
+Les signes d'écriture, quelque parfaits qu'on les suppose, sont toujours impuissants à exprimer les nuances multiples du rhythme de la parole qui est aussi celui du plain-chant. Beaucoup de ces nuances doivent être laissées, dans la musique  comme dans le discours, non pas à l'arbitraire, mais au bon sens et à la nature. Le signe matériel sert à guider l'intelligence, mais ne peut la donner. L'intelligence, en s'emparant des mots pour rendre la pensée, leur comrnunique sous le souffle de la pensée elle-même, les inflexions voulues. Ce souffle est le véritable accent du langage : c'est lui qui coordonne et assouplit les éléments matériels de la phrase, c'est-à-dire les syllabes et les mots, et fait mouvoir dans le chant comme dans le discours les articulations diverses, dont le jeu est nécessaire à la vie de l’un comme de l’autre. Celui qui ne comprend pas une langue peut mettre plus ou moins d'adresse à imiter celui qui a l'intelligence de ce qu’il prononce; mais si pour arriver à ce résultat les signes d'accentuation, de ponétuation ou de notation peuvent avoir leur utilité, encore faut-il reconnaître que toujours insuffisants par eux-mêmes, ils peuvent souvent devenir une entrave; ce qui arrive lorsque, dans la fausse persuasion qu'on doit leur demander à eux seuls le secret de la bonne prononciation, on cherche à concentrer toute l'attention du lecteur ou du chantre sur ces signes; les précautions prises alors pour assurer un meilleur résultat, deviennent par leur exagération même la cause de l’insuccès.
+
+Quiz nous soit permis, au sujet des lettres sigw£/cafives, d'y voir une confirmation éclatante de notre manière d'expliquer la valeur propre des neumes; car si par eux-mêmes ces neumes avaient indiqué et les intervalles et la durée et la force des sons, Romanus n'aurait pas songé à ces signes accessoires, destinés dans sa pensée, non pas encore à préciser absolument ces intervalles, cette durée ou cette force, mais à guider les chantres, pour que ceux-ci pussent mieux saisir et mieux observer ce qu'il leur enseignait là-dessus dans ses leçons pratiques.
+
+Tour ceci prouve également que les notes grégoriennes ont une grande variété d'expression; on peut la leur donner sans qu’il soit nécessaire de chercher dans les neumes ce qui ne doit pas s'y trouver.
+
+EN suivant, comme nous l'avons fait, les modifications qui marquent les divers âges de l'écriture musicale grégorienne, chacune d'elles apparaît avec son vrai caractère; on voit celles de ces modifications qui résultent d’un développement normal  et celles qui constituent une altération; on comprend ce qui appartient à l'archéologie pure et ce qui a conservé une portée pratique.
+
+EN reproduisant ainsi, et aussi fidèlement que possible, les anciens neumes, dans une forme devenue facilement intelligible à tous, et en même temps consacrée par la tradition, nous concilions le respect dû à l'antiquité avec les besoins du temps présent; nous suivons le progrès sans être révolutionnaires.
+
+Nous allons au chapitre suivant reprendre la série des signes traditionnels de la notation grégorienne et en expliquer de nouveau la nature, afin de pouvoir plus sûrement ensuite en déterminer la valeur. 

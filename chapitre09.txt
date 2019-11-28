@@ -1,0 +1,213 @@
+UR que le texte demeure intelligible, soit dans le
+
+chant soit dans le discours, les syllabes qui frappent
+
+successivement l'oreille doivent avant tout être
+
+proférées de telle sorte que l'on sache toujours à
+
+* quel mot chacune d'elles appartient. Une syllabe
+
+qui, de quelque manière que ce soit, est isolée de son centre,
+
+se trouve former monosyllabe ou bien faire corps avec un
+
+autre mot : dans les deux cas, c'est une faute, et une faute
+
+capitale, contre laquelle les chantres ne peuvent trop se mettre
+
+en garde; on nous permettra donc d'entrer à ce sujet dans quelques explications pratiques un peu détaillées.
+
+Pour plus de clarté, nous devons examiner à part les diverses circonstances que le chant peut présenter dans son rapport avec le texte.
+
+ON remarque en effet sur les différentes syllabes du texte, tantôt une note simple, tantôt une ou plusieurs formules; il faut savoir ce qui doit être observé dans chacun de ces deux cas, pour ne point diviser les mots.
+
+Nous nous occuperons d’abord du cas de la note simple.
+
+Les notes simples, comme nous l'avons dit plus haut, ont une forme invariable. De ce que cette note a toujours la même forme, il ne faut pas en conclure qu’elle doit toujours avoir la même valeur. La valeur de la note simple est au contraire très-variable, plus variable peut-être quecelle de toute autrenote.
+
+QUELLE est-elle donc, et par quoi est-elle déterminée ?
+
+TourTe la valeur que peut avoir la note simple, nous avons déjà eu occasion de le dire, ne lui appartient pas en propre; elle l'emprunte à la syllabe à laquelle elle est jointe. Or la valeur de la syllabe est celle que lui donnent les lois de la bonne lecture. Il faut donc se rappeler les règles que nous avons données plus haut pour la bonne prononciation des syllabes dans la lecture de la langue latine et les appliquer au chant : si la note du chant correspond à une syllabe accentuée, elle sera accentuée; si elle se rapporte au contraire à une syllabe faible  et obscure, elle sera faible et obscure. Il existe à la vérité une différence entre le chant et la letture, en ce que dans le chant les syllabes sont toutes proférées d'un ton plus ferme et plus vibrant, et par conséquent moins rapide que dans la simple lecture. Il n'en reste pas moins toujours vrai que l'attention doit se porter sur les syllabes et que celles-ci ont dans le chant la même valeur relative que dans le discours.
+
+DE ce principe général nous tirons quelques conclusions pratiques.
+
+1° C'est une faute de marquer par une insistance spéciale de la voix une syllabe qui ne doit pas régulièrement porter l'accent; car on détruit par ce déplacement ou cette reduplication de l’accent, la physionomie du mot. Ainsi la syllabe qui dans chaque mot est destinée à recevoir l'accent doit le conserver et le conserver seule; en ce sens du moins que cette syllabe sera toujours plus fortement marquée, car le mouvement de la mélodie ne permet pas toujours de l’élever conformément à la tendance naturelle de l'accent. Prenons pour exemple ce commencement d'antienne :
+
+R
+
+a_ [a _ Maj6rem charitätem
+
+Nous avons ici plusieurs notes simples : la valeur de chacune d'elles, selon ce qui a été dit, est celle de la syllabe correspondante. Il y aura donc dans cet exemple deux notes fortes, puisqu'il y a deux syllabes accentuées. Bien qu'elles ne répondent ni l’une ni l’autre à une note culminante, elles ne perdent pas cependant le privilège que leur confère l'accent grammatical; c'est pourquoi elles devront être marquées par une impulsion spéciale de la voix. Cette impulsion serait, à la vérité, plus forte si la note était culminante, comme si on avait à chanter par exemple :
+
+a s* s
+
+Majôrem charitätem
+
+CETTE différence se produit d'elle-même et il n’est nullement nécessaire de l’exprimer dans la notation. Remarquons seule ment que dans aucun cas l'accent ne doit complètement disparaître. D'un autre côté, dans l'exemple cité d'abord, la note /z du mot charifétem recevra naturellement un certain éclat à cause du ton plus aigu sur lequel cette note est proférée.
+
+— 8 a
+
+Majorem charitétem
+
+TouTterois cet éclat sera moindre que dans le cas où la syllabe serait accentuée. Il faut surtout éviter de la tenir en suspens par une prolongation de la voix qui ferait de cette syllabe comme une exclamation monosyllabique. Le mouvement d’ impulsion qui commence sur cette note culminante, doit se poursuivre jusqu’à l'accent; celui-ci consistera à frapper la note sans dilater le son, parce que ce serait empiéter sur la formule finale, où la voix va se reposer à son aise et doucement s’éteindre.
+
+2° Une seconde faute à éviter consisterait à prolonger certaines syllabes, sous prétexte qu'elles sont ou accentuées dans la prose ou longues en poésie. Nous ne parlons pas ici de la syllabe finale des mots; celle-ci peut être plus ou moins longue, comme nous venons de linsinuer et comme nous l'expliquerons plus loin; mais dans le corps d’un mot, on ne doit prolonger le son d'aucune syllabe marquée d'une note simple, mais seulement accentuer celles qui doivent l'être.
+
+LA raison en est que cette prolongation interrompt la suite des syllabes et coupe nécessairement les mots.
+
+Donxnons quelques exemples :
+
+Orémus Dominati-é6nibus in tentati-6-nem.
+
+Les règles d’une bonne leéture ne permettent pas de s'arréter sur les syllabes o, #a et a, qui ne sont pas d'ailleurs accentuées; il ne faudra donc pas le faire en chantant. Il est facile en effet de reconnaître que si l'on vient à prolonger les syllabes dont nous parlons, l'oreille entendra ce qui suit : O XÀemus; Domina tionibus; in tenta lionem. Les auditeurs heureusement ne remarquent pas toujours ces sortes de coupures,  parce que leur intelligence, suppléant comme instinétivement au défaut de la prononciation, relie entre elles les parties disjointes; mais la disjonétion n’en est ni moins réelle, ni moins fautive.
+
+IL ne faut donc pas non plus imiter les chantres qui appuient sur la première syllabe de chaque phrase, alors même que cette syllabe ne porte pas l'accent. Il n'est pas rare en effet d'en rencontrer qui, arrivés par exemple à ce verset : À softs ortu usque ad occasum, au lieu de passer légèrement sur la première syllabe pour faire retentir la seconde syllabe qui est accentuée, donnent l'effort de leur voix à cette première et semblent vouloir la jeter comme une exclamation: 44/ solis ortu.….
+
+L'ACCENT lui-même ne peut motiver l'arrêt de la voix sur la syllabe qui en est affectée; car, ne l’oublions pas, la note accentuée est moins une note longue qu'une note forte. Ainsi, par exemple, en chantant :
+
+ss Oremus.
+
+on doit marquer avec plus de force, quoique sans affeétation, la seconde syllabe du mot, puisque cette syllabe porte l'accent; mais il faut la quitter et passer à la syllabe suivante avant que l'impulsion donnée à la voix sur l'accent ne soit épuisée. Pour bien accentuer, il faut savoir imprimer à la note ce mouvement un peu vif qui tend à l'élever plutôt qu’à la prolonger. Tout en évitant de laisser glisser le son, on fait pressentir, dès le début de la note accentuée, la chute de la voix sur la note finale.
+
+3° Si c’est une faute de mal accentuer ou d’accentuer mal à propos, ou de prolonger plus qu'il n'est nécessaire telle ou telle syllabe, c'en est une aussi et une plus grave de ne donner aucun accent à la récitation, ou d'appuyer avec une force égale sur toutes les notes. On ne saurait trop proscrire comme barbare cette manière de chanter, qui consiste à peser lourdement sur toutes les syllabes ou à marteler toutes les notes, sans respett pour l'oreille ni pour l'intelligence. Quintilien trouve insupportable dans le discours cette façon de frapper les syllabes comme  si on voulait les compter; elle ne l'est pas moins dans le chant. Ita imputare et velut annumerare lilleras, molestum et odiosum. (Inst. or. XI.)
+
+CE qui précède ne suffit pas encore pour apprendre à unir en un seul tout les syllabes qui appartiennent au même mot, car jusqu'ici nous n'avons parlé que du cas où ces syllabes sont surmontées chacune d’une note simple; mais ce cas n'est pas le seul, car il arrive souvent aussi dans le chant grégorien, qu'à une même syllabe du texte correspond soit une formule, soit même une série plus ou moins longue de formules.
+
+Les formules, comme la note simple, doivent être exécutées de telle sorte que l'oreille de l'auditeur puisse toujours facilement saisir le lien qui doit unir entre elles les syllabes de chaque mot. Pour obtenir ce résultat deux choses sont principalement à observer :
+
+1° Pour unir en un seul tout les syllabes qui appartiennent à un même mot, il faut, quand on le peut, les émettre toutes d’une seule haleine. C’est ainsi que l'on chantera l'A //e/uia suivant sans le couper par aucune pause de respiration :
+
+SZ
+
+Maïs il n’est pas toujours possible d’en agir ainsi; le développement donné à la mélodie nécessite parfois une ou même plusieurs respirations avant la fin du mot. Dans ce cas, on doit ménager de telle sorte les pauses de respiration que tout en partageant la mélodie, elles n'’isolent pas les syllabes du texte. Pour cela il faut placer ces pauses entre deux formules appartenant à la même syllabe, mais jamais immédiatement avant de passer d’une syllabe à une autre dans le même mot. Prenons pour exemple cet autre ÆA/elura qui annonce la Pâque, au samedi saint; le voici tel que nous le donnent les manuscrits.
+
+7 0 _ Al-]16- lû ia.
+
+ IL serait difficile d'exprimer cette suite de notes toute entière sans reprendre haleine. D’après ce que nous avons dit, on pourra respirer, pourvu que ce ne soit pas 2médiatement avant de prononcer l’une des syllabes du mot. Zicite polest pausari dummodo non debeat exprimi syllaba dillionis inchoatæ. Rien n'empêche donc, dans l'exemple que nous avons donné, de reprendre haleine aux deux endroits où nous avons mis des barres de repos. Celles-ci ne pourraient être transportées ailleurs, sans briser soit les formules soit les mots. Ainsi on ne pourrait
+
+chanter : ere CI 8
+
+Al-le— lû — ia.
+
+DÉTACHER ainsi de ce qui précède les syllabes qui suivent chaque pause, ce serait couper le mot en plusieurs tronçons et en détruire le sens.
+
+Pour éviter ces coupures maladroites, vulgairement appelées points de savetier, il faut donc, lorsqu'on est obligé de respirer dans le corps d’un mot, réserver avant chaque syllabe trois ou quatre notes qui, émises après la pause, opèrent ainsi pour l'oreille la liaison désirée. Nous disons trois ou quatre notes; car une seule ne pourrait suffire, ni même un groupe, s’il est trop léger. Que l'on ait à chanter, par exemple, lA//e/gia suivant :
+
+Re
+
+Al- le
+
+EviDEMMENT, si on ne peut l’émettre tout entier d'une seule haleine, la pause sera après le /a de la c/ivis et non après le fa du groupe suivant; autrement la note /z, qui vient immédiatement avant la syllabe /, se trouverait jetée contre cette syllabe, et celle-ci n'en parattrait guère moins détachée du corps du mot que si elle avait été précédée immédiatement de la pause. Lors même que la note simple serait changée en fodatus, la pause immédiatement avant n'en serait guère moins vicieuse. Ce podatus, en effet, serait ici trop faible et les syllabes du mot se trouveraient reliées d’une manière insuffisante. Pour pouvoir  donc conserver la pause après le podatus subbipunétis, 1] faudrait ensuite, ou un double mouvement de podatus (torculus resupinus), comme nous l'avons écrit ici en dernier lieu, ou un autre groupe de même force.
+
+| BON MAUVAIS
+
+; ù an gl è TT 1" 0, T "1
+
+Al- le lû la, Al- le lû ja.
+
+MAUVAIS e BON È 0
+
+CON CU Ep épis pe
+
+Al- le- lû- la. Al- le lû- ia.
+
+RETENONS donc bien cette règle que nous donne Elie Salomon et qu'il nomme une règ{e d'or : JAMAIS IL NE PEUT Y AVOIR DE PAUSE QUAND ON DOIT IMMÉDIATEMENT EXPRIMER UNE SYLLABE DANS UN MOT DÉJÀ COMMENCÉ. Ztetle poltest pausart dummodo non debeat exprimi syllaba diéfionis inchoate. Ke£gula aurea : quod non debet fieri pausa, quando debet exbrimi syllaba inchoatæ difliontis. (Scientia artis musice. Cap. XI.) Notre auteur appuie sa règle sur deux motifs, l’un et l’autre fort importants, puisqu'il ne s’agit de rien moins que de sauvegarder du même coup et le texte et la mélodie. Premièrement, dit-il, respirer ainsi c’est changer la nature du chant et altérer la mélodie; secondement c’est briser les mots et altérer le texte. £f gu2 Ppausam fecerit contra naturam cantus peccat et cantum deturpal : secundo peccal contra orationem quam profert, quia scindit eam quasi ad modum scissure tunicæ Dominti inconsutilis. (Ibid.) Un autre auteur appelle ces sortes de pauses des fautes choquantes, des barbarismes : Veguaguam syllabam incibiat post pausam, en1s1 forte prima syllaba fuerit ditionis : talis enim scissio in cantando faceret barbarismum, etiam incongruam offensionem. (Joann. de Muris. Summa Musice. Cap. XIII.)
+
+2° Outre la pause de respiration, il y a celle que nous appellerons pause de prolongation; celle-ci, sans interrompre la récitation par un silence comme fait la première, suspend néanmoins le mouvement par un instant d’arrêt plus ou moins  marqué. Cette seconde sorte de pause existe même dans le discours, comme l'observe Quintilien : sum’ a/iguando, dit-il, et sine respiratione qguædam more. (Inst. or. XI. 3.) Nous verrons plus loin l'usage qu'il faut en faire dans le chant: nous en parlons ici pour signaler une circonstance où elles disjoindraient les syllabes du mot, et où par conséquent elles ne sauraient être permises. Cette circonstance est celle-là même où nous venons de dire que les pauses de respiration sont interdites, c’est-à-dire z”médiafement avant une syllabe dans un mot déjà commencé. La suspension de la voix sur une note est une véritable pause, bien qu’elle ne soit pas suivie d’un silence, et nous devons la traiter comme telle; par conséquent en régler l'usage d’après ce qui a été dit de la pause de respiration.
+
+AInsi1 nous répétons à son sujet les principes que donne Elie Salomon : Zicite potest pausari, dummodo non debeal exprimi syllaba inchoatæ di£lionis. Les pauses sont permises dans le chant, pourvu que ce ne soit pas avant d'exprimer une syllabe dans un mot déjà commencé.
+
+Nous pourrions ici reproduire les exemples qui nous ont servi à expliquer la règle précédente : là où nous avons dit qu'il ne faut pas respirer, nous disons maintenant qu'il ne faut pas même s'arrêter en prolongeant le son. Cette seconde règle a le même fondement que la précédente: la pause de prolongation aux endroits dont nous parlons, en arrêtant le mouvement de récitation, isole les syllabes du texte, et rend ainsi les mots inintelligibles : Quz pausam fecerit..…. peccat contra orationem quam profert, quia scindit eam. De plus cet arrêt, en suspendant mal à propos le mouvement mélodique, dénature le chant : Qui pausam fecerit contra naturam cantus peccat el cantum delurpat.
+
+DémonrroNs la chose par un nouvel exemple, également pris parrni les 4 //elura.
+
+Ea Ne =
+
+NoN-SEULEMENT il faudra, d’après ce que nous avons dit plus
+
+haut, chanter cet AYelura d'une seule haleine, mais il est encore  nécessaire de le proférer d’un seul trait: une pause ou arrêt quelconque après le fodafus amènerait infailliblement la séparation des syllabes du mot.
+
+——— BR Al-le= | 1ü— | ia.
+
+C'EST ici le lieu de protester contre l'enseignement des auteurs modernes, lorsque ceux-ci recommandent d'appuyer, de doubler même la note pénultième avant un repos; comme, par exemple, sur la dernière note 50/ de la syllabe /# dans l'exemple précédent. Ils oublient qu’en s’arrêtant ainsi sur une vraie note de passage, qui dans les manuscrits est même indiquée comme liquescente, c'est-à-dire presque muette, on coupe le mot et la mélodie. Celle-ci se complète trop tôt, car on la termine à la pénultième, et la dernière note cause à l'oreille la même impression qu'une syllabe superflue à la fin d'un vers.
+
+Mélodie complète. Note superflue.
+
+ss
+
+= * :
+
+ÎÏL y a, comme nous le verrons, une manière plus heureuse d'amener le repos dans le cas dont il s’agit : elle consiste, non pas à appuyer exclusivement sur la note pénultième, mais à ralentir le mouvement de récitation sur la fin de la phrase, c'est-à-dire sur les trois ou quatre dernières notes, ou même sur un plus grand nombre, selon les circonstances.
+
+ON objettera peut-être à ce que nous venons de dire les nombreux exemples que nous présentent les anciens livres, de notes doubles ou même triples précédant immédiatement une syllabe dans le corps des mots. Bien que ces notes, appelées apostropha, distropha ou tristropha, semblent équivaloir à une note double ou triple, elles en diffèrent cependant d’une façon essentielle.
+
+EN effet, les anciens pour rendre ces formules ne se contentaient pas de prolonger purement et simplement le son, ils imprimaient à la voix un léger mouvement de vibration.  KRépercussam dicimus quam Berno distropham vel tristropham vocat. (J. Cotto. Musisa. XXIII.) Grâce à cette ondulation légère de la voix, le s#ropkicus avant une syllabe ne la disjoignait pas plus du corps du mot que ne le fait le fodatus, ou la «Avis ou le forculus, qui sont aussi des ondulations de voix, avec cette différence seulement que ces ondulations sont plus marquées dans un cas que dans l’autre; mais l'effet rhythmi. que est analogue, pour ne pas dire identique. Prenons pour exemple ce début d’une phrase finale de Graduel :
+
+RE Su- per coe- 1os
+
+QUELLE que soit du reste l'interprétation que l'on donne du strophicus, il est certain qu’il diffère de la note longue, surtout de la note longue destinée à marquer la pause; et il peut, émis avec grâce et légèreté, servir à passer d’une syllabe à une autre sans diviser les mots.
+
+LA note de transition d'une syllabe à l'autre dans le corps des mots a donc ainsi toujours le caractère d’une note relativement brève. Ce n'est pas à dire qu'il faille pour cela la marquer par un mouvement de voix saccadé, suivant ce qui se pratique pour la note brève ou losange des méthodes modernes. C'est donc une faute de prolonger le son culminant dans chacun des mots qui suivent :
+
+=
+
+Sursum corda
+
+comme l'indiquent les méthodes qui mettent ici une note: caudée et lui donnent la valeur d’une note double.
+
+UE 3 que lon exé- Ére CC - | [= _ cute ainsi: |
+
+Sur-sum corda Sur- sum cor- da
+
+D'ux autre côté, il serait également fautif, comme nous l'avons dit, de faire de ces notes culminantes des notes saccadées suc cédant à des longues comme si elles étaient écrites en caraétères modernes de cette façon :
+
+ets 7 :
+
+Sur- sum cor- da
+
+Ox ne doit songer à faire ni notes brèves ni notes longues, mais seulement à lier les sons de chaque formule, et à unir les syllabes de chaque mot; quand ce double résultat est obtenu, les notes ont, par le mouvement même de la mélodie, la valeur qui leur convient.
+
+Dans le cas où la note qui sert ainsi à passer d’une syllabe à une autre, n'est pas plus élevée que la note suivante, il faut la considérer non seulement comme une note brève dans le sens que nous avons expliqué, mais aussi comme une note faible.
+
+LA seconde note de la «Avis et la seconde du fodaéus, dans l'exemple suivant N° 1, sont des notes faibles : elles servent simplement à adoucir la transition d’une syilabe à l’autre, et à
+
+prévenir ce qu'il y aurait de dur dans l'attaque immédiate des syllabes. N° 2
+
+Ne: hrs Nes
+
+Ma- ri- a Ma- ri- a
+
+Ces notes faibles, dont nous parlons, sont parfois à peine perceptibles : le son en est obscur et comme étouffé. C’est ce qui arrive principalement en deux circonstances, à savoir : 1° lorsque deux voyelles se suivent pour former diphthongue, comme par exemple dans le mot /aws (prononcez laoùs); 2° lorsque deux consonnes doivent être articulées de suite, comme dans ces mots: Confundantur, Verbum, Sursum corda, etc., qui se prononcent Con fun dan tur, Ver bum, Sur'sum cor da, presque comme s’il y avait un e muet entre les consonnes.
+
+Dans ces deux cas, s'il se présente une formule servant de transition d’une syllabe à l’autre, le son final de cette formule devient ce que Gui d’Arezzo nomme un son liquescent, c'està-dire un son qui coule doucement et s'efface dans la prononciation de manière à ce qu’on ne le sent pour ainsi dire point finir.  Laguescunt vero in mullis voces more literarum:, ila ut inceptus modus unius ad alteram limpide transiens nec finiri videatur. (Microl. CXV.) Pour mieux faire comprendre ces paroles, voyons l'exemple que donne Gui d’Arezzo lui-même :
+
+EE
+
+Ad te levävi.
+
+Des deux sons représentés ici par le cephadicus, le premier est fort, le second est faible; ce dernier sert à porter la voix de la syllabe a7 à la syllabe /e, syllabes que le sens ne permet pas de séparer. Or dans cette transition, il y a deux consonnes à faire entendre de suite : Z £. Ceci oblige à un mouvement des organes .qui comprime le son de la voyelle az. Cette voyelle d’abord proférée d’un son plein et clair, se change insensiblement en une voyelle muette; de telle sorte qu'il devient impossible de saisir le moment où elle cesse : zmceplus modus sntius ad alleram limpide transiens nec finir videatur. Supposons que les syllabes 47 fe se trouvent remplacées par celles-ci : a te; dans cette hypothèse le son de la voyelle s’affaiblit sans doute, mais il n'est pas étouffé comme dans le cas précédent.
+
+E—— A te
+
+IL le serait si au lieu de 47 fe on avait à chanter Verbw», ou tout autre mot présentant le concours de deux consonnes.
+
+LE son serait encore liquescent, si la première syllabe offrait une diphthongue comme Gaude, pourvu toutefois que l'on prononce réellement les deux voyelles, comme dans le cas précédent la note liquescente suppose l'émission des deux consonnes; une prononciation dans laquelle on donnerait à la diphthongue
+
+111 ya quatre lettres (/ #7) que les grammairiens nomment liquides ou liquescentes, parce que, disent-ils, elles coulent presque inaperçues dans la prononciation : Liquentes litteræ suni Imar Liquentes vero dicuntur quod fluant et quasi intereant. (Max. Viétorinus.) Earwm sonus liquescit et tenuatur (Val. Probus); et c’est parce qu’on peut dire la même chose de certaines notes dans la musique que ces notes sont appelées liguescenles par analogie : liguescuns voces more litierarum.  au le son de la voyelle o, aux syllabes e# et 2# le son d’une voyelle nazale, rendrait impossible dans la plupart des cas la note liquescente. Ainsi pour reproduire celle-ci aux endroits où elle se trouve indiquée dans les anciens manuscrits, qui ont pour cela des signes spéciaux, à savoir l'ifhonus, le cephalicus et leurs dérivés, il est nécessaire de prononcer le latin à la manière italienne.
+
+TELLEs sont les circonstances ordinaires dans lesquelles la note est régulièrement liquescente; nous devons ajouter ici que d’après les anciennes notations, où ces nuances d'expression et de prononciation étaient nettement écrites, le son est encore liquescent devant un # simple et devant un g suivi de # ou &. La raison en est sans doute que la lettre #, même seule, obligeant à comprimer les lèvres’, étouffe le son de la voyelle précédente; la lettre g de son côté a la valeur d'une double consonne dy: car c’est ainsi que les Italiens la prononcent. D'après ce que nous avons dit, la note n’est susceptible de devenir liquescente que lorsqu'elle est faible de sa nature. Ainsi, par exemple, la note culminante du mot dicenfes qui finit la Préface, a une valeur propre dans la mélodie; ce qui empêche de la considérer comme une simple note de passage : tout en demeurant brève elle a naturellement, à cause de sa position, une certaine force; c'est pourquoi on ne peut la traiter comme note liquescente, bien qu'elle se trouve sur une voyelle suivie de deux consonnes. Lorsque dans les cas analogues à celui-ci, les anciens veulent faire usage de la note liquescente, ils l'ajoutent à celle dont nous parlons, de cette sorte :
+
+x — au lieu de or — di-cen-tes di-céntes
+
+Mais le plus souvent dans ce dernier cas, ils ne l’écrivent pas. Il ne serait nécessaire dans aucun cas de recourir à des signes particuliers pour marquer la note liquescente puisqu'elle découle pratiquement de la manière dont on prononce les syllabes. Si l’on
+
+1 Secända (littera #) mugit intus abditum et cæcum sonum. (Terentianus de sy/labis. Putsche p. 2401.) Tertia (#) clauso quasi mugit intus ore. (De diféeris, p. 2388.)  a soin de bien prononcer les syllabes et d’unir celles qui doivent l'être, le son qui devra être liquescent le sera facilement de luimême, sans qu'il soit nécessaire de songer à le rendre tel, et sans qu'il soit absolument besoin de le voir écrit. Au reste Gui d'Arezzo nous dit que l’on peut remplacer, sans nuire à la mélodie, le son liquescent par le son plein (pourvu toutefois qu'il demeure faible). Sz aufem eam vis flenius proferre non liquefactiens, nthil nocet, saepe autem magis flacet. Neanmoins l'usage du son liquescent contribue beaucoup à alléger le chant et à lui donner un mouvement facile et agréable; c’est pourquoi nous l'expliquons ici, le considérant comme toujours pratique.
+
+Pour se rendre compte des variantes que les manuscrits peuvent présenter dans le cas de la note liquescente, il ne faut pas oublier qu'en certaines circonstances cette note compte parmi celles qui constituent la mélodie, et qu’en d’autres elle ne compte pas. Ainsi plus haut dans dentes, la mélodie ne demande que deux notes sur la syllabe pénultième du mot, comme on le voit aux autres endroits de la Préface où cette même mélodie apparaît, et apparaît avec un simple fodatus. C'est ainsi que dans l’/#éroif du premier Dimanche de l'Avent, sur la dernière syllabe du mot animam, il y a un fodatus auquel vient se joindre un son liquescent qui répond, comme toujours dans ce cas, au degré de la note suivante, et qui par conséquent serait ici non un s0/ mais un /a. Il est mieux de ne pas l'écrire, étant de surcroit pour la mélodie. Il en serait autrement, si au lieu du fodatus la contexture normale de la phrase mélodique présentait un orculus; car alors, si le troisième son doit être liquescent, il n’en appartient pas moins, quoique presque muet, à la formule, comme une de ses parties intégrantes. On pourrait alors le rendre plein, comme le permet Gui d'Ârezzo, mais on ne pourrait le supprimer. C'est dans ce cas surtout que le terme semszivocalis servant, comme nous l'avons expliqué, à désigner la note liquescente, doit s'entendre d’un demi-son, non pas comme durée, mais comme résonnance. La preuve en est qu'un même chant appliqué à des paroles différentes, lorsqu'arrive la diphthongue ou la double consonne, change la «vis en cephalicus, le fodatus en épiphonus, etc.;
+
+mais évidemment le rhythme demeure le même; seuls les sons  se trouvent modifiés, en ce qu'ils sont, dans le premier cas, pleins et ouverts; dans l'autre, sourds et fermés. Cependant si, lorsque le texte change, c'est la :7ga qui dans les manuscrits devient cephalicus et le punélum, cpiphonus; alors la semivocalis doit être considérée comme ajoutée aux notes constitutives de la mélodie, et dans ce cas la plupart des manuscrits ne le marquent pas, mais conservent soit la virga soit le #unélum, même avec la double consonne ou la diphthongue. Ici comme dans beaucoup d'autres circonstances, les manacrits diffèrent les uns des autres sans se contredire; la variante n’est que pour les yeux; l'effet pour l'oreille demeure le même.
+
+OBSERVONS. en finissant que la note n'est pas seulement liquescente dans le corps d’un mot, mais qu’elle peut l'être aussi dans le passage d’un mot à un autre, lorsque ces mots sont unis par le sens.
+
+IL est temps de parler maintenant du rapport que les mots doivent avoir entre eux. Car si d'un côté, comme nous l'avons vu, il importe pour la bonne intelligence du texte de ne point isoler en chantant les syllabes qui composent chaque mot; d’un autre côté, comme nous allons le voir, il est nécessaire aussi de ne point débiter confusément la suite des mots. 

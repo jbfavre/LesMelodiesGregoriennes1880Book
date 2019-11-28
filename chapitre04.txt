@@ -1,0 +1,251 @@
+N se servait autrefois, pour noter le chant, de certains signes appelés #ewmes, dont la forme particulière n'a de rapport avec les caraétères d'aucun
+
+alphabet.
+
+IL importe à l'intelligence, comme à la bonne exécution, des mélodies grégoriennes toujours écrites en neumes dans les anciens monuments, que l'on comprenne la nature de ces signes et la valeur qui leur est attribuée par la tradition.
+
+Pour cela il est nécéssaire de les étudier dans leur forme primitive et de suivre dans le cours des siècles les diverses transformations qu'ils ont subies jusqu’à l'époque assez récente de leur totale destruction.
+
+ON rencontre, dans les monuments liturgiques, des neumes de deux sortes: les uns dérivés des accents grammaticaux diversement combinés, les autres composés de points groupés par superposition ou par conjonction.
+
+LES neumes les plus ordinaires, et probablement les plus anciens, ont pour élément constitutif le signe même de l'accent dans le discours; c’est-à-dire le trait dont le sommet est incliné tantôt à gauche tantôt à droite, employé par les grammairiens pour exprimer que le son de la voix sur telle ou telle syllabe est relativement grave ou aigu. Tel est le point de départ de la notation neumatique, du moins de celle de la première espèce, que nous voulons d’abord expliquer. Que ceux-ci aient leur origine dans les accents, c'est une vérité, croyons-nous, définitivement acquise à la science; bien que ceux qui ont le plus viétorieusement soutenu cette thèse, comme M. de Coussemaker par exemple;' n'en aient pas toujours tiré toutes les conséquences, et qu'ils aient même, par la manière dont ils ont ensuite interprété les neumes, paru en avoir oublié la véritable origine.
+
+LES neumes sont primitivement de véritables accents, et ce fait n’a rien qui doive surprendre, si l’on songe à l'affinité
+
+dns
+
+| Histoire de l'harmonie au moyen âge. p. 154  naturelle qui existe entre la musique et ce que l’on nomme accent dans le discours. Celui qui parle élève naturellement la voix sur certaines syllabes et la fléchit sur d’autres; ce sont ces divers mouvements de voix que les anciens ont appelés accents.
+
+CES accents, graves ou æigus, constituent dans le langage une espèce de modulation dont la modulation proprement musicale n'est pour ainsi dire qu'un développement. Ce rapport qui existe dans les choses se remarque aussi dans les noms : accent (accentus), veut dire chant {ad cantus). De plus, comme le font observér plusieurs auteurs, les accents sont nommés fons (loni, tenores); et c'est aussi le nom que l’on donne aux modes de la musique.
+
+RIEN n'était donc plus naturel que de se servir, comme on l’a fait, des mêmes signes pour marquer les accents et pour noter les mélodies.' Peu importe d’ailleurs que ce soit un véritable emprunt fait par les musiciens aux grammairiens, ou bien que les uns et les autres, obéissant simultanément à la même pensée, aient traduit de la même manière, d'une part les modulations du langage, d'autre part celle du discours : toujours est-il que les signes sont les mêmes, l’idée qui les a fait naître est la même, et la valeur qui doit leur être attribuée également identique.
+
+IL est facile de nous représenter comment ces accents ont été inventés, soit par les grammairiens, soit par les musiciens. Qu'il s'agisse par exemple d'indiquer que la voix qui parle ou qui chante doit proférer une syllabe ou un son sur un ton plus élevé, le stylet de l’écrivain imite ce mouvement d’ascension et trace un trait montant / dans la direction du geste que ferait dans le même cas la main d’un maître de musique ou de déclamation; et il est en effet remarquable que dans les plus anciens textes accentués, l'accent aigu est tracé de bas en haut / et que, contrairement à l'usage actuel, il va en s’éfilant vers la partie supérieure.
+
+1 On conçoit également que ce genre de notation, dont la simplicité même prouve ‘la haute antiquité, ait encore pu suffire à l’époque primitive du chant ecclésiastique, alors que ce chant, au rapport de S. Augustin et de S. Isidore, était parfois si simple, qu’il différait à peine des inflexions ordinaires du discours. Primifiva Ecclesia ita psallebat ui modico flex vocis faceret psalleniem resonare, ita st pronuncianti vicinior esses quan psallents. (de Officiis c.7. Cf. S. Augustin, Confessions. liv. x.)  Casr À l'accent aigu, l'accent tonique, dont les grammairiens surmontent la syllabé qui dans chaque mot doit être mise en relief, et que les langues de l'antiquité, plus musicales que les nôtres, distinguaient par un ton de voix plus élevé. Exemple :
+
+Adjutorium nostrum in nomine Domini. Ce que l’on pourrait traduire musicalement de la sorte : s KI = _s
+
+nn 3
+
+Adjutori-um nostrum in nomine Domi-ni.
+
+ou bien en modulant davantage, mais en conservant toujours le carattère de syllabe culminante à la syllabe accentuée :
+
+no e — | | = — 8 0 "0 — n 8 à B_#
+
+Adjutori-um nostrum in nomine Domi-ni.
+
+CE. n'est pas que la musique se soit toujours astreinte, même à l'origine, à imiter dans ses modulations, la modulation même du discours, et à faire ainsi toujours marcher parallèlement son propre accent, l'accent musical, avec l'accent grammatical. Nous devons même faire tout de suite ici une remarque importante. Dans la parole, outre l'atcent tonique qui module chaque mot selon certaines lois purement grammaticales, il y a l'accent oratoire qui affette plutôt la phrase, et en varie la modulation d’après les pensées ou les sentiments divers qui sont exprimés. Ainsi, en ce qui touche les pensées, la phrase peut être affirmative, négative, dubitative, interrogative; et ces diverses circonstances, appartenant à l'ordre logique, amènent des inflexions de voix différentes les unes des autres. En ce qui concerne les sentiments, la phrase exprimé la joie ou la tristesse, la crainte ou l'espérance, le désir ou la répulsion, l'amour ou la haine; et ces impressions diverses, venant agiter diversement le cœur de l’homme, communiquent à sa voix un accent qui varie avec la nature du sentiment lui-même. L'accent oratoire, soit logique soit pathétique, vient alors se substituer à l'accent grammatical et modifier les  inflexions de voix que l'accent tonique, laissé à lui seul, donnerait régulièrement à la phrase. Reprenons l'exemple déjà cité, et donnons-lui une forme interrogative : l'élévation de voix va changer de place, et se porter sur d’autres syllabes.
+
+Adjutorium nostrum, nonne sit in nomine Domini?
+
+Ce que nous pourrions traduire musicalement de cette manière: Bee 0 0 0 0 0 0 0 © 0 0e
+
+Adjutori-um nostrüum nonne sit in pnomine Domini?
+
+ou mieux encore, mais toujours dans le même genre de mouvement :
+
+fs 555. 8 _ a-_® 9 2e , _» nn
+
+Adjutori-um nostrum nonne sit in nomine Domini?
+
+CETTE manière de provoquer la réponse en suspendant la voix, a fait dire à plusieurs grammairiens, que l'accent, dans les interrogations, affecte la syllabe finale : ils ont confondu l'accent tonique et l'accent oratoire. Ainsi donc, sans sortir du domaine de la simple parole, nous voyons déjà, comme dans l'exemple précédent, l'accent tonique se modifier ou même s’effacer en présence de l'accent oratoire; à plus forte raison, comme nous l'expliquerons plus loin en exposant, à propos du rhythme, le but et la nature de l'accent tonique, celui-ci doit-il souvent disparaître ou se transformer lorsqu'il se trouve en concurrence avec le chant. Quelle que soit d’ailleurs la différence des modulations, il n'en existe pas moins un rapport réel entre les mouvements de voix propres au langage et ceux de la musique, ainsi qu'entre les signes dont on s’est servi pour les exprimer. Poursuivons notre étude comparative.
+
+Il suffit aux grammairiens de noter la syllabe qui, dans chaque mot, a le privilège de l'accent tonique, et qui doit en conséquence être régulièrement proférée d'un ton de voix plus aigu; les autres par rapport à celles là sont graves,  c'est-à-dire moins élevées dans l'échelle des tons, plus humbles d'intonation, et par là même aussi moins éclatantes. Les syllabes graves ne portent ordinairement aucun signe; Le signe existe cependant : c’est également un trait, mais tracé dans le sens opposé à celui de l'accent aigu; il descend de gauche à droite \, au lieu de monter ‘, et son sommet se trouve incliné sur la gauche au lieu de l'être sur la droite : l'accent grave est ainsi en tout l'inverse de l'accent aigu.
+
+— Tr nee
+
+nn
+
+VO V9 , 4 «+ PANAN FA Adjutori-um nostrum in nomine Domi-ni.
+
+Nous avons écrit cet exemple comme s'il n'y avait qu'un accent sur chaque syllabe : souvent en effet les grammairiens, pratiquement et même théoriquement, n'en comptent pas davantage; toutefois si l'on veut avoir égard à ce que l'on appelle la quantité des syllabes, c’est-à-dire à leur durée relative, et que l'on veuille observer rigoureusement la proportion des longues et des brèves, comme les. Latins ont parfois essayé de le faire dans leur langue, à limitation de ce que les Grecs: faisaient dans la leur, la longue devra être considérée comme valant deux brèves.
+
+Ainsi, par exemple, Aoma se prononcera Æooma; nous aurons ici trois temps comme on le voit ci-après, N° 1 ; les deux premiers temps sont sur la première syllabe et le troisième sur Ja dernière: ceci est la quantité; voyons l'accent.
+
+LE mouvement naturel de la voix est de redescendre après avoir monté, et non pas de finir en montant. Dans la langue latine en particulier, cette loi est absolue en ce qui concerne
+
+1 Nous ne voulons pas dire ici que tout soit d'importation étrangère dans les lois de la quantité latine. Parmi les voyelles longues, il y en a qui sont telles en vertu d’une cause naturelle, facile à comprendre. Par suite du travail qui préside à la formation des langues, il est arrivé en latin comme dans les autres langues, que deux voyelles successives se sont d’abord assimilées, puis fondues en une seule par contratlion ; le souvenir des deux voyelles primitives, ayant chacune leur durée propre, a dû évidemment subsister plus ou moins de temps après qu'elles se sont ainsi contraétées en une voyelle unique ; et celle-ci, prenant pour elle seule la durée des deux syllabes originaires, n’a pas dissipé incontinent son héritage, mais a conservé le temps double auquel Poreille était habituée.  l'accent grammatical. Régulièrement, dans un mot, la voix monte sur le temps antépénultième, N° 2; elle ne fait exception à cette règle que dans le cas où il lui est impossible de l’observer. Ainsi dans l'exemple ci-dessous, N° 3, k voix, après avoir monté sur la première partie ou le premier temps de la première syllabe du mot, redescend sur la deuxième partie ou le deuxième temps de cette même syllabe, puis vient se reposer sur la finale.
+
+rs 3 r PNA NA vw Li VV v vw w
+
+N° 1. Rooma N°2. Rooma N° 3 Rooma
+
+Unissons les deux accents de la voyelle longue, R6d, et nous aurons un nouveau signe, formé par la jonétion de l'accent aigu et de l'accent grave, et appelé accent circonflexe, R6.
+
+Au lieu de Roma prenons Romae et étudions-en la quantité et l'accent. La quantité est celle que nous indiquons ci-dessous, N° 4. Nous avons ici quatre temps au lieu de trois; et d’après le principe que nous émettions, c'est-à-dire en plaçant l'accent aigu au troisième temps avant la fin, nous obtiendrons ce que l'on voit au N°5; puis en marquant aussi les accents graves, nous aurons ce qui est écrit au N°6.
+
+ze 3 4 ve vw
+
+N° 4 Roomaëe N°5. Roomae N°6 Roomae
+
+? V7 AA VV VS VX OVY
+
+Joignons les deux accents de la première syllabe, nous aurons R&ô, l'accent opposé au circonflexe Y, c'est-à-dire l'anticirconflexe, l'avravaxlatéuevos des grammairiens grecs.
+
+S1 nous voulions traduire musicalement la modulation de l'accent circonflexe, et celle de l'anticirconflexe, nous aurions
+
+A « Ye «1 pour le Le e— pour le 5 0 premier: second:
+
+SL 5 ès Sù
+
+Rooma Roomae
+
+D'APRÈS ce que nous avons dit plus haut on doit s'attendre à rencontrer aussi ces accents dans la notation musicale, où ils se trouvent en effet et avec la même signification : nous les avons mis au dessus de la portée dans l'exemple ci-dessus. Toutefois,  pas plus dans le cas présent que dans les précédents, la musique n’a l'obligation de se mouler sur ces formes de quantité ou d'accentuation, telles que nous venons de les analyser : ce que nous avons encore ici à retenir, c'est simplement que la musique a des mouvements de voix analogues à l'accent circonflexe et à l’anticirconflexe, et que ces mouvements ont été primitivement traduits par les mêmes signes d'écriture.
+
+REMARQUONS encore que, déjà dans la grammaire, le sens propre des divers accents se rapporte à une idée de ton, de modulation, nullement à celle de force ou d'intensité; bien qu'en fait, du moins dans le discours, les deux choses, c'est-à-dire l'élévation du ton et l'intensité du son puissent et doivent même souvent coincider. À plus forte raison dans le chant faut-il s’en tenir, pour l'interprétation de ces signes, à leur valeur purement musicale, sans égard aucun aux degrés différents de durée ou de force qui peuvent leur convenir, mais que ces signes n'indiquent pas.
+
+Dans la grammaire, les accents sont restés tels que nous venons de les décrire; mais étant dans la musique d’un usage plus multiplié et plus compliqué, ils ont subi des modifications que nous devons signaler, et ont pris là des développements que nous aurons aussi à faire connaître:
+
+Les accents grammaticaux, devenus notes de musique, ont ensuite reçu des noms particuliers, en rapport surtout avec la forme spéciale qu'ils ont revêtue.
+
+Dans le tableau que nous allons mettre sous les yeux du lecteur, nous indiquons d’abord le nom des neumes ; puis la forme qui les distingue; et enfin nous énumérons, dans leur ordre constitutif, les accents graves ou aigus, qui entrent dans la composition de chacun d’eux. L'accent aigu n'a presque subi. aucune modification, et il demeure toujours facile à reconnaître. L'accent grave, par suite d'une tendance naturelle au calligraphe, s'est insensiblement raccourci, jusqu’à devenir souvent un simple point; ce qui arrive toutes les fois qu'il est seul sur une syllabe; ou encore lorsque plusieurs accents graves se suivent, soit en montant, soit en descendant. Ce changement du trait en un simple point était nécessaire pour disposer dans une même direction une succession de mêmes accents.  TABLEAU DES NEUMES LES PLUS USITÉS.
+
+N° NOM. FORME. ÉLÉMENTS CONSTITUTIFS.
+
+I. | PUNCTUM. ° Accent grave.
+
+2. | VIRGA Accent aigu.
+
+3 | CLIvISs. A Accent aigu, et accent grave.
+
+4 | PODATUS. V4 Accent grave, et accent aigu. SCANDICUS. s
+
+s. ° Deux accents graves, et un accent
+
+/ aigu.
+
+SALICUS. “
+
+6. | CLIMACUS. /. Accent aigu, et deux accents graves
+
+Accent grave, accent ai accent 7. | TORCULUS. s 7 grave. BTAVE) 8° 8. | PORRECTUS. AN Accent aigu, accent grave, accent aigu.
+
+PODATUS  SUB
+
+9. PUNCTIS. / Accent aigu, deux accents graves. CLIMACUS RE- 2 Accent aigu, deux accents graves, 10 | SUPINUS. / accent aigu. SCANDICUS FLE- / Deux accents graves, accent aigu, 11. AUS. os accent grave. SCANDICUS SUB- | Deux accents gravés, un accent aigu F# | PUNCTIS. /: deux accents graves. : TORCULUS RE- W Accent grave, accent aigu, accent > | suPINUS. grave, accent aigu. 4. PORRECTUS FLE- Accent aigu, accent grave, accent XUS. M aigu, accent grave. 1e | PORRECTUS SUB- NM Accent aigu accent grave, accent 5 PUNCTIS. , aigu, deux accents graves.
+
+ Pour l'intelligence du tableau qui précède, comme de ceux qui pourront suivre, il ne faut pas oublier qu'en parlant d'accent dans les neumes, nous prenons ce mot, comme nous l'avons dit, dans un sens exclusivement musical. Ainsi l’accent grave indique simplement un son inférieur à un autre sur l'échelle; et l'accent aigu, un son plus élevé. Faisons maintenant quelques observations sur chacun des signes contenus dans notre tableau; du moins sur les premiers; car une fois que ceux-ci seront expliqués, les derniers se comprendront d'eux-mêmes.
+
+1° L'accent grave \, dans le cas où il n’est pas joint à l'accent aigu, a pris avec la forme, le nom même du point :, et s'est appelé punéium.
+
+2° L'accent aigu / employé comme note isolée, a pris en musique le nom de v1rga.
+
+Dans certains manuscrits il est tracé perpendiculairement : |
+
+3° L'accent circonflexe À, a conservé chez certains auteurs le nom de fexa et s'est appelé chez d'autres, «vis ou chnts, pour snclivis où inclints : termes synonimes de //exa. Le nom complet serait vz7ga flexa ou virga inclivis, virga inclinis.
+
+4° L'anticirconflexe _J, sans doute à cause de sa forme, s'est appelé fes ou pfadatus.
+
+ON remarque souvent dans les manuscrits, pour le fodatus, la flexa et le torculus, l'effet de la tendance dont nous parlions plus haut, et qui porte le scribe, sans qu'il y songe, à faire le trait de l'accent grave moins long que celui de l'accent aigu :
+
+DE plus, quand l'écriture devient cursive, on voit peu à peu l'angle du point de jonction s’arrondir : / 7
+
+Les signes précédents suffisent à marquer la simple modulation du discours; mais pour noter les mouvements de voix plus étendus et beaucoup plus variés que comporte le chant, il est nécessaire d'augmenter le nombre des combinaisons.
+
+LA notation musicale, outre le funélum, la virga, la clivis et le fodatus, comprendra donc d'autres formules plus compliquées, mais toujours produites par la combinaison de l'accent grave et de l'accent aipu.
+
+5° Dans le scandicus la voix monte trois degrés : il faut alors, avant d'arriver à la virza, deux accents graves, qui dans ce cas se changent nécessairement en autant de fwnélum. Dans  quelques manuscrits, le scæwdicæs monte tout droit | . Lorsque les deux fanclum expriment deux sons qui se suivent sur le même degré, ou à demi-ton de distance : c'est le sa/zcus.
+
+6° Dans le c/imacus, dont le mouvement est l'inverse du précédent, les deux accents graves qui suivent l'accent aigu ou 2:rva deviennent régulièrement deux pané}um.
+
+7° Le torculus commence comme un fodafus et finit comme un ffexa : aussi est-il quelquefois appelé ges ffexus ou fodatus flexus.
+
+8° Le forreflus' après avoir fléchi comme la cvis, remonte ‘en manière de podatus : c'est une chvis resupina, l'inverse du dorculus.
+
+9° Le fodatus suivi de deux points en descendant, est appelé podatus subbipunétis" ; s'il en a trois on le nomme fodasus subtripunéiis; subdiatesserris, s'il en a quatre, et swédiapentis, dans les cas plus rares où il y en a cinq.
+
+Les mêmes qualificatifs, dans certains tableaux de neumes, se trouvent appliqués à la virge, pour désigner le s/imacus, qui est une 2irva subbipunétis, subtripuniiis, etc. Lorsque la virga est, non plus suivie, mais précédée de points, ce qui est le cas du scandicus, elle est dite, dans les mêmes tableaux, #ræbzpunéhs, pratripunétis. Si les points sont à la fois avant et après, c'est la virga combipunélis, contripunils, etc.
+
+LA série des points, dans les formules où ils entrent comme éléments, peut avoir en effet plus ou moins d’étendue : ainsi on rencontre quelquefois des formules telles que les suivantes :
+
+{A Je fe nee fe free LE fe etc. /./ l'y N. NV. MN. / etc.
+
+1 Ce nom existe dans les tableaux de neumes, avec un signe qui a la plus grande analogie avec celui que nous appelons forrec?us, sans qu’il soit bien certain cependant qu’il s'agisse du même signe. L’appellation du reste ne fait rien au fond des choses. Nous ne sommes pas les premiers qui nommons forrréfus l'inverse du torculus : nous le faisons pour n’avoir pas un signe dépourvu de nom et un nom qui ne s’appliquerait à aucun signe vraiment usité.
+
+2 Bipunéiis est un adjectif formé à l'instar de Oigensis, biremés, etc.  DE toutes les formules que nous avons données, les plus simples sont les plus communes; et les tableaux de neumes, chez les auteurs, ne contiennent souvent que des groupes de trois sons au plus.
+
+Le chant grégorien,comme nous le savons par le témoignage des anciens, admet certains ornements d’un caraétère spécial, certaines nuances d'exécution qui, sans appartenir à l'expression passionnée du théâtre, sans consister non plus en des effets de voix trop recherchés, plus déplacés encore à l'Église qu'ailleurs, demandent cependant, au moins quelquefois, particulièrement pour le sérophicus et le qguz/isma, une souplesse d'organe que les chantres romains envoyés en Gaule et en Germanie, du temps de Charlemagne, reprochaient à nos pères de ne pas posséder. Il y a donc dans le chant grégorien, des sons diversement nuancés, que nous distinguerons en sons sy#copés, appuyés, répercutés, tremblés, et éouffés.
+
+1° SONS SYNCOPÉS.
+
+LoRsQUE deux formules, comme par exemple un scandicus et un c/macus, viennent à la suite l’un de l’autre, de manière à ce que le premier groupe finisse sur le même degré de l'échelle où commence le second, et qu'ainsi les deux notes à l'unisson doivent s’émettre d’une façon continue; nous verrons, en traitant plus loin du rhythme, que cette réduplication du même son produit un effet analogue à celui de la syncope en musique. Nous en parlons ici, simplement pour énumérer ensemble toutes les particularités d'exécution, quoique celle dont il s'agit n'ait pas de signe spécial, et qu'elle s’indique seulement par la juxtaposition des signes: // Ici les deux zirga font syncopes. 7
+
+2° SONS APPUYÉS.
+
+Ur circonstance qui présente beaucoup d’analogie avec le cas précédent, est celle où la voix, dans un mouvement descendant, doit s'arrêter et appuyer fortement sur l’avant-dernière note du groupe. Le son qui doit être ainsi renforcé et prolongé se trouve représenté dans la plupart des manuscrits par un petit trait horizontal brisé # qui surmonte un petit point #; le point indique un son faible pour terminer le groupe. Ce trait brisé est le pressus. Il s'adjoint tantôt à une virga /” tantôt à la  seconde note d'une clivis : 4 Le groupe entier dans le premier cas représente deux sons, et dans le deuxième cas trois sons; mais c'est toujours le son pénultième qui est pressus. Dans quelques manuscrits, le #ressws consiste en une petite virgule d'une forme particulière, mise à côté des notes d'un groupe ordinaire comme, par exemple, près de la seconde note du climacus |,$ ce qui équivaut à 4.
+
+3° SONS RÉPERCUTÉS.
+
+ÎL n'est pas rare de rencontrer dans la notation neumatique, une sorte de virgule, différente du signe ordinaire appelé virga, c'est-à-dire plus courte et un peu plus arquée, du moins dans la plupart des manuscrits. Cette note est simple ” double ” ou triple ” et se nomme suivant le cas, afostropha ”, distropha ‘ ou tristropha ‘”’ et d'une manière générale sérophicus. L'apostropha se trouve toujours jointe à une autre formule, à la clivis par exemple, soit avant ,4 soit après 4,. Ce même signe lorsqu'il se trouve redoublé ” gistropha, ou triplé ”” {ristropha peut aussi être joint, comme l’apfos{ropha *” à une formule, ” 4 "A, Mais souvent aussi il est seul. I] peut encore s'accompagner lui-même ” ”” et quelquefois se trouver sous cette forme ? Dans ce dernier cas, l'asostropha n'est plus à l'unisson mais à une tierce de distance du dis{ropha.
+
+Au strophicus se rapporte l'oriscus $, qui. indique comme le distropha une note jointe à une autre à l’unisson, avec cette différence que l'émission en est plus liée, et se rapproche de la syncope.
+
+4° SONS TREMBLÉS.
+
+LoRSQUE dans un mouvement ascendant, qui est ordinairement d'une tierce mineure, se rencontre, comme nous l'expliquerons plus loin, un son vibré ou tremblé, la note qui représente cette particularité d'exécution se nomme gwz/rsma : c'est un fodatus ou un £orculus dont le trait initial est triplé : …/ A Le guilisma est toujours précédé d’une note qui est le point de départ du mouvement ascensionel : cette note est ou un Punitum / ,f} ou la dernière note d'un groupe 4,/
+
+5° SONS ÉTOUFFÉS.
+
+Nous entendons ici par sons #ouffés ceux que Gui d’Arezzo nomme Zgwescents. Nous en déterminerons plus loin la nature  et l'usage; disons seulement ici, pour apprendre à discerner dans l'écriture la présence du son liquescent, que celui-ci ne peut se rencontrer qu'à la fin d’une formule, et seulement quand on passe d’une syllabe à une autre dans des circonstances que nous indiquerons.
+
+Pour marquer dans la notation neumatique le son liquescent, le trait final de la formule se trouve modifié de la manière que nous allons expliquer :
+
+1° S1 la formule se termine par un son aigu, /& virga se trouve écourtée comme on le voit dans les exemples suivants :
+
+v au lieu de ;/ Cette modification du fodatus se nomme epifhonus.
+
+On trouve de même: # au lieu de / ou ;’. A au lieu de 7 etc.
+
+2° Si la formule se termine par un son grave, le trait final, ou accent grave, est bouclé de cette manière :
+
+/ pour 4. C'est le cephalicus, modification de la c/ivis.
+
+De même encore :  / pour L7. swf pour y.
+
+3° Si l'on doit ajouter une note liquescente au s/rophicus le dernier trait se trouve allongé de cette sorte ;
+
+? au lieu de ” ” au lieu de ”
+
+Pour l'oriscus, le procédé d'écriture est le même que pour l'apostropha.
+
+Dans certains tableaux de neumes, il n’est question ni de l'piphonus ni du cephalicus : toutes les formules avec son liquescent conservent chacune son nom ordinaire, auquel on ajoute le qualificatif de kewmzvocalis ou semivocalis; qui exprime parfaitement du reste la nature du son liquescent : un son proféré à demi-voix. Ainsi l'efifhonus est appelé es ou fodatus semivocalis v ;le cephalicus se nomme ffexa semivocalis f ; il y a aussi le orculus semivocalis f le guilisma semivocalis A A etc.  QuELQUEFroIs il arrive qu’au lieu d’un seul son liquescent ter: minant une formule, comme dans les cas précédents, il s’en présente deux, ou même dans quelques cas très-rares, trois ou quatre, surtout dans le mouvement descendant. Le trait bouclé de la formule devient alors un trait arqué, et le signe se nomme ancus /? pour le climacus; f° pour le pes subbipunétis.
+
+CEs formules s'appellent aussi ffexa cornuta où sinuosa, pes cornutum Où Sinuosus, quiisma cornulum Où Sinuosum.
+
+L'ancus présente dans un certain nombre de manuscrits une forme un peu différente : il s'écrit à la maniète d’une c/zvrs, d’un lorculus etc. augmenté d'un crochet répondant au dernier son du groupe qui en effet est celui qui s'efface davantage dans l'émission de l'ancus / au lieu de /©.
+
+LA note semivocalis est devenue plus tard la ligue; mais, celle-ci n'a plus la même valeur que la semévocalis primitive.
+
+Nous venons de faire connaître la forme primitive et régulière des signes principaux de la notation neumatique, de ceux du moins qui dérivent de l’accent grave et de l'accent aigu diversement combinés. Il existe, avons-nous dit, des neumes d'une autre espèce, plus rares que les premiers, mais qui dans certains pays, comme par exemple dans l'Aquitaine, paraissaient avoir été longtemps les seules connues; ou du moins ce sont ceux que les monuments liturgiques de ces régions méridionales nous offrent le plus communément : on les appelle les #esmes à points superposés.
+
+LE système des accents, qui consiste à représenter les tons graves et les tons aigus par des traits diversement inclinés parle plus à l'intelligence qu'aux yeux. Pour figurer d'une manière plus sensible et moins abstraite les mouvements divers de la voix dans le chant, on a imaginé de se servir du point comme signe du son.
+
+LE point n'est plus ici, comme tout à l'heure, une forme dérivée; il est l'élément propre et constitutif de cette seconde espèce de neumes.
+
+LE son, dans ce système, est donc représenté par le fornf, tout aussi bien le son aigu que le son grave; et c’est par la combinaison des points que se figure la combinaison des sons.  Les formules sont des groupes composés d'autant de formés distinéts qu’il y a de sons différents, et les foi#fs sont disposés de manière à diriger le mouvement de la voix de l’aigu au grave ou du grave à l'aigu.
+
+1° Si le mouvement est descendant, la formule est composée de simples foinfs ainsi superposés verticalement : et le foi placé au sommet de la perpendiculaire s'exprime le premier.
+
+2 Chuts. + Climacus.
+
+2° S1 le mouvement est ascendant, les fornts suivent une ligne ascendante tant soit peu inclinée vers la droite, et le foënf culminant qui termine la série est allongé en forme de virga ou de petit cercle.
+
+# Podatus. S Scandicus.
+
+3° IL en est toujours ainsi de Îa dernière note d’une formule, quand cette note est plus élevée que la précédente. Exemple :
+
+SL Porreilus. s8 Climacus resupinus.
+
+4° Si la note culminante de la formule n’est pas la dernière, le point n'est pas allongé. Exemple :
+
+«: Torculus. ° Pes subpunétis.
+
+5° QUANT aux signes d'ornement, voici la forme qu'ils affectent dans la notation à fornts superposés.
+
+eo S/rophicus. Ÿ Quilisma. «mn Pressus. 9 Semivocalis grave ou Cephalicus. d/ Semivocalis aigu ou Epiphonus.
+
+TEL est le mode primitif et ordinaire de combiner les notes dans ce système.
+
+BIENTÔT, en disposant les foi#és, comme il vient d'être dit, on est arrivé à les relier entre eux et à former de la sorte des groupes, qui présentent une grande analogie avec les figures provenant de la combinaison des accents. Ainsi la cAvts présente cette forme £% le forculus celle de la chvis liée précédée d’un point. À Les points primitifs du forrellus également se sont allongés en forme de traits, et soudés entre eux, surtout dans le porrellus præpunétis où torculus resupinus ainsi écrit: /Ÿ  Nous voyons ici les deux systèmes, celui des accents et celui des fornts arriver aux mêmes termes par des voies différentes. Partis de principes opposés, mais en réalité tendant au même but, qui est d'indiquer des groupes de sons, ils finissent par se rencontrer, par se compénétrer, par s'identifier même, du moins en partie; soit par simple coïncidence, soit peut-être aussi que les deux notations se sont emprunté mutuellement quelques signes; qui sont devenus communs aux deux systèmes. C'est du moins ce que nous remarquons dans un certain nombre de manuscrits; tandis que d’autres restent fidèles à la tra dition propre à chaque système. 

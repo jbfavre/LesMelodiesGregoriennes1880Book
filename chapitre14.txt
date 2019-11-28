@@ -1,0 +1,363 @@
+N confond souverit, mais à tort, le rhythme et la mesure, qui sont en réalité deux choses très-distinétes, pouvant exister l’une sans l’autre. Dès lors en effet que l'on peut distinguer plusieurs parties dans un tout, ces parties ont une mesure quelconque dans l’espace ou dans le temps; seulement cette mesure a plus ou moins de régularité, et cette régularité, quand elle existe, est plus ou moins facile à apprécier; il peut souvent y avoir mesure sans que cette mesure donne une proportion, ou un rhythme. D'autre part, les div'sions qui dans la musique partagent la suite des sons, peuvent être comparées les unes aux ‘autres sous d'autres rapports que sous celui de la durée; et lorsque sous l'un ôu sous plusieurs de ces autres rapports le calcul, ou simplement l'oreille, reconnaît une proportion entre les divisions, il y a rhythme, bien que l’on ne tienne pas compte de la mesure.
+
+Pour le rhythme musical fondé sur la mesure, comme pour celui qui en est indépendant, la condition première, nous l'avons dit, est que dans la succession des sons il y ait des divisions, et que ces divisions soient bien proportionnées entre elles et avec le tout. Si dans un chant les sons se suivent d'une manière continue sans division aucune, ou avec des divisions que l'oreille ne saisit pas, il n'y a pas de rhythme possible : numerus in continuatione nullus est : une rivière qui coule sur une surface unie n’a pas de rhythme, parce qu'il n'y a rien qui en divise le cours; mais une eau qui bondit, comme aussi celle qui tombe goutte à goutte, offre matière à un rhythme, si ces bonds ou ces gouttes se succèdent avec un certain ordre, une certaine proportion. Distintho ef sæpe variorum intervallorum Percussio numerum conficit, quem in cadentibus guttis quod intervallis distinguuntur notare possumus : in amni prœcipitante non possumus. (Ciceron. De oratore.)
+
+Tour ce qui dans la suite des sons introduit une variété, comme un son plus lié ou plus détaché, un son plus fort ou plus faible, un son plus grave ou plus aigu, un son plus long ou plus bref, un silence, l'articulation d’une consonne ou l'émission
+
+ d'une voyelle : tout cela peut servir à marquer une limite, et par conséquent des divisions.
+
+SurPosons une suite de six notes comme ci-dessous. Si l’on attaque la première note et que l'on continue le son sans variété aucune, n° 1, il n'y a là ni division, ni mesure, ni rhythme, mais un son unique : il n'est même pas possible de savoir alors quand il faut s'arrêter. Si on varie l'émission du son en détachant chaque note uniformément, soit par l'articulation d’une syllabe, n° 2, soit par un changement de voyelles, n° 3, soit plus simplement par une impulsion de la voix sur chaque note, n° 4, il ya division, il ya mesure; mais il n'y a pas proprement rhythme, parce qu'il n'y a pas matière suffisante à proportion dans le rapport de un à un.
+
+SON CONTINU : N°1. &@ & « a a «a a SONS DÉTACHÉS : N2z A a ss ae «ana N°3 2 #4 4 4 «a «a la la la la la la a 6e 1 o u ou
+
+N°4 # 8 à à a a a a a a a Si l'on donne à la première note un son plus aigu et à la seconde un son plus grave, et que l'on répète la même alternative sur les deux suivantes, puis sur les deux dernières, les huit notes se trouvent alors groupées deux par deux, n° 5. Il en serait de même en faisant alternativement l’une plus forte et l'autre plus faible, n° 6; ou en changeant soit de consonnes, n° 7, soit de voyelles, n° 8; ou encore en alternant les longues et les brèves, n° 9; ou enfin en interposant un silence ou une simple suspension après chaque deux notes, n° 10.
+
+RHYTHME BINAIRE : N° 5. —2—à———
+
+a a a N°8 a Ram a ana
+
+A à 4 4 à a A 6 a 6e a e N°6 # a = a 8 « N°9 an a an a aa A A A A a a A à A a a a N°07 € 8 & An an na N°oro & 8’ & 2’ « «’ la ta la ta la ta Aa A4, 4 à, à a  Dans ces exemples, l'alternative des sons forts et faibles, longs et brefs, aigus et graves, etc. pourrait être dans l'ordre inverse.
+
+Au lieu de cette division par groupes binaires, nous pourrions par les mêmes moyens partager différemment la série des notes, c'est-à-dire par groupes ternaires, ou par groupes alternativement binaires et ternaires, ou de toute autre façon.
+
+RHYTHME TERNAIRE :
+
+a a —# a 2 2 Rasa a a a e 1 a e li a a à a a a a 8 «a « A « a 2 nn en a a a a a a à a a a a a 127 2 na a en a RAA 2 nn ga la ta ga la ta A A à 4 a a LA manière de lier ou de détacher les sons peut aussi changer le rhythme. RHYTHME BINAIRE : RHYTHME TERNAIRE : —8 —8—s PTS TS CA CA CA ns a a a a a
+
+Les divisions, dans les exemples que nous venons de donner, sont régulières, et le rhythme en est nettement déterminé. Comme nous l'avons dit, elles pourraient être régulières sous un rapport et ne pas l'être sous un autre, sans que pour cela elles manquassent de rhythme. S'il n'existait de proportion entre elles sous aucun rapport, le rhythme serait nul.
+
+Parmi les différents genres de rhythme, celui qui est fondé sur la mesuré des longues et des brèves est de tous le plus matériel : il est loin, par conséquent, d’être le plus parfait, et nous avons vu que ce n'est pas celui du chant grégorien. Toutefois il y a certaines hymnes dans la liturgie et quelques séquences qu'il faut nécessairement chanter en mesure, ou pour lesquelles du moins oh doit tenir compte du mètre.
+
+LES traités de prosodie expliquent comment, par les diverses combinaisons des longues et des brèves, on forme ce que l'on appelle des pieds; avec des pieds, des mètres ou des vers; avec des vers, des strophes.  Ics distinguent principalement, en fait de pieds : l'izmée, composée d'une brève et d'une longue; le #rockée ou chorée qui, à l'inverse de l'ame, comprend une longue et une brève; le spondée, formé de deux longues; le daéiyle, d'une longue et de deux brèves; l’anapeste, de deux brèves et d’une longue; le pyrrhique, de deux brèves; le #ribrague, de trois brèves; le molosse, de trois longues; enfin le dickorée ou double chorée, qui présente une longue, une brève, une longue et une brève. En prenant la brève pour un temps et la longue pour deux, on voit que les pieds comprennent les uns deux temps, les autres trois, quatre, cinq et même six temps. Le pied ne peut pas avoir moins de deux temps, et le mètre moins de quatre; il faut deux mètres au moins pour un vers, et deux vers au moins pour la strophe.
+
+OUTRE la quantité déterminée pour chaque sorte de pieds ou de mètres par les grammairiens, il faut distinguer un élément dont ils ne parlent pas, mais qui n'en est pas moins essentiel: si essentiel même qu'il tient souvent lieu de quantité : c’est l'accent métrique. Le vers, en effet, est caractérisé moins par les longues et les brèves que par une certaine régularité dans le mouvement de récitation; les longues et les brèves peuvent aider à le donner, mais il est indépendant d'elles. Ce mouvement est comme un flux et reflux qui a ses limites marquées dans le vers, et amène l'effort de la voix sur certaines syllabes, qui reçoivent ainsi ce que nous appelons l'accent métrique. Nous allons, en passant en revue les différents mètres en usage dans la liturgie, indiquer pour chaque espèce de vers la place régulière qu'occupe l'accent métrique.
+
+LE mètre le plus anciennement usité, et qui encore maintenant se présente le plus fréquemment, est le mètre iambique. Il se compose de quatre pieds où l’iambe domine; il a deux accents métriques, dont l’un est sur la seconde syllabe, et l’autre plus fort, sur la syllabe antépénultième.
+
+Nunc san£le nobis Spiritus.
+
+Si cependant, comme il arrive par exception, le premier pied comprend trois syllabes, c'est la troisième qui reçoit l'accent métrique : , , Oculos in altum tollite.  LA strophe régulière se compose de quatre pieds.
+
+Nous ne devons pas oublier que, d'après Cicéron lui-même, ces sortes de vers, lorsqu'ils sont destinés à être chantés, ne sont pas soumis aux lois du mètre classique : ce n’est pas la quantité, mais la mélodie, qui doit servir à les mesurer; de telle sorte que dépouillés du chant, ces vers ressemblent à de la prose. À modis quibusdam cantu remoto soluta esse videatur oratio, maximeque 14 1n oplimo quoque eorum poelarum qui ivpuoi a Græcis nominantur ,; quos quum cantu Spoliaveris, nuda pæne remanet oralio. quorum similia sunt quædam eliam apud noséros, que nist quum libicen accessit, orationt sunt solutæ simillima. (Or. LV.)
+
+C'EST, en effet, ce que nous remarquons dans les hymnes les plus anciennes. S. Ambroise, S. Hilaire, S. Grégoire connaissaient les règles de la versification, mais ils n'ont pas cru devoir s’y astreindre; négligeant la quantité, ils se sont contentés d'observer l'accent métrique, en faisant coïncider celui-ci tantôt avec une syllabe longue, tantôt simplement avec l'accent tonique. Du reste, il est rare qu'il faille, en chantant les hymnes dont nous parlons, marquer les iambes autrement que par lalternative de temps fort et de temps faible; la mesure à trois temps qu'amènerait la brève suivie de la longue, si l'on suivait les lois de la quantité, n’est pas dans le caractère de la musique liturgique; c'est pourquoi dans la plupart des hymnes dont Île chant est syllabique, les notes sont égales en durée, et inégpales seulement en intensité.
+
+É 4j
+
+8 | 8 [as RS 8 sinfoll A, Nunc sancte nobis Spiritus, Unum Patri cum Fili-0o, DignäFE, = 15,_ Ts
+
+=
+
+re promptus fingeri Nostro refüsus pecto-ri.
+
+Il y a ici, du moins dans le premier vers, coïncidence parfaite entre l'accent tonique et l'accent métrique; mais il n'en est -pas toujours ainsi. Quelquefois il y a opposition, comme dans ce vers : Xertm Deus tendx vigor; ou en suivant l'accent tonique, on aurait ce qui suit : Lérum Déus fénax végor.  ComME dans ces hymnes il y a un accent qui n'est pas dans Je texte, mais dans la mélodie, nous le marquons au moyen de la note caudée; ce que nous ne ferions pas si l’on devait suivre l'accent tonique, parce que celui-ci appartient au texte. .
+
+Si l'on voulait observer à la fois l'accent métrique, l'accent tonique et la quantité, voici comment on pourrait chanter :
+
+GR L/ = d a —s a aa aa | < a an PS a ae aa aa aa
+
+Rerum De-us tenax vigor, Immô- tus in te permanens,
+
+re
+
+< e + ae — se 00" +.
+
+Lucis di- ürnæ témpora Succéssibus determinans.
+
+LA note simple et la note double expriment ici l’iambe:; l'élévation de voix accentue les mots, et la ##esis sur les longues marque l'accent métrique; mais on conçoit qu'il serait impossible de faire toujours ainsi coïncider ces trois choses : il faudrait pour cela une mélodie différente à chaque strophe.
+
+LE chant, du reste, gagne en gravité et en douceur par la suppression des longues :
+
+—a{ M —+
+
+Rerum De-us tenax vigôr, Immôtus in te pérmanens,Lucis
+
+ge — To a à
+
+di-ûrnæ tempora Succéssi-bus de-términans.
+
+PRATIQUEMENT, nous le répétons, lorsque ces hymnes sont syllabiques, il faut leur donner un mouvement naturel de récitation, en appuyant quelque peu sur l'accent métrique, sans s’inquiéter beaucoup de l'accent tonique, et en laissant absolument de côté la quantité.
+
+OUTRE le vers iambique dimètre, dont nous venons de parler, on trouve le vers iambique trimètre, composé de six pieds ou de douze syllabes, au lieu de quatre pieds ou de huit syllabes. Ces grands vers exigent pour le chant une pause au milieu du  troisième pied. L'accent métrique est surtout bien marqué à la quatrième et à la dixième syllabe.
+
+? ? Aurea luce' et decore roseo.
+
+Les réviseurs du Bréviaire sous Urbain VIII. ignorant les vraies règles de l’hymnodie, ont cru bien faire d'écrire :
+
+Decora lux eternitatis auream.
+
+LA pause après la cinquième syllabe est ici impossible, et le rhythme est détruit.
+
+La strophe est de quatre vers ou de cinq.
+
+L'INVERSE du mètre iambique est celui qui se compose de trochées. Le vers /rochaïque se compose de huit pieds dont le dernier manque d’une syllabe; cette syllabe est remplacée par une pause ou un silence. Îl y a aussi une suspension après les quatre premiers pieds : ce qui a fait prendre ces quatre pieds comme un vers distinét, et le reste comme un second vers composé de trois pieds et demi. La strophe comprend trois fois ces deux vers. L'accent métrique, dans le vers de quatre pieds, appartient à la troisièine syllabe et à la septième; et dans le vers de trois pieds et demi, à la première syllabe et à la cinquième.
+
+Pange lingua gloriost Pralium certaminis.
+
+Dans le Séabat mater, chaque strophe contient trois vers dont les deux premiers ont quatre pieds êt le troisième quatre et demi, avec l'accent métrique ainsi placé :
+
+Stabat mater dolorosa, Fuxta crucem lacrymosa, Dum pendebat F: ins. Dans l'hymne Ave maris stella, la strophe se compose de quatre vers de trois pieds, accentués à la manière des trochées : cet accent est plus fort sur la pénultième.
+
+Ave méris stella , Déi méter alma, dique sémper vÉrgo, Félix cœlh porta.  LE vers saphique est un vers de onze syllabes avec pause après la cinquième, et accent sur la quatrième et la dixième.
+
+Ut queant laxis * resonare fbris.
+
+La strophe se compose de trois vers saphiques auxquels on ajoute un vers de cinq syllabes, nommé adonique.
+
+# r Sanéle Foannes.
+
+CELUI-ci ressemble, pour le nombre des syllabes et pour la place de l'accent, à la première partie du vers saphique; mais au point de vue de la quantité il en diffère, en ce que dans le vers saphique la seconde syllabe seule est brève, tandis que dans le vers adonique la troisième l’est également. Si donc, comme certaines mélodies le demandent ou du moins le permettent, le chant est rhythmé d’après la mesure du vers, les deux premières syllabes du vers saphique auront un temps, c’est-àdire que l’on donnera trois quarts de temps à la première, un quart à la seconde, et un temps à chacune des trois suivantes; tandis que pour le vers adonique, la première syllabe aura un temps complet, la seconde et la troisième chacune un demitemps, et les deux dernières un temps.
+
+LE vers asclépiade comprend douze syllabes dont la troisième, la septième et la dixième ont l'accent métrique : la pause partage le vers en deux parties égales. |
+
+Sanfiorum meritis" inclita gaudia.
+
+Trois vers de cette sorte, suivis d'un vers plus court appelé glyconten, font une strophe. Le vers glyconien est de huit syllabes, dont la troisième et la sixième sont accentuées.
+
+Viélorum £enus optimum.
+
+Das le chant de l'asc/épiade et du glyconten, il faut aller lentement sur les trois premières syllabes, et bien marquer les accents, surtout les deux derniers.
+
+EX remplaçant, dans le vers g/yconien, les deux brèves finales par une seule longue, on a le vers fkérécratien.
+
+Per vestigia gressus.  ON trouve quelques hymnes, comme par exemple celle de S. Hermenegilde, dont chaque strophe se compose de deux asclépiades, d'un fhérécratien et d'un glyconien.
+
+PUISQUE nous en sommes aux mètres exceptionnels, nous devons mentionner ici l'hymne Domare cordïs, pour la fête de sainte Élisabeth, composée de deux vers iambiques trimètres, d'un vers de six syllabes dont la première et la troisième sont accentuées, et enfin d’un iambique dimètre. Cette combinaison irrégulière, pour donner un rhythme, a besoin d'être modifiée par le chant.
+
+ON trouve aussi dans plusieurs Eglises d'autres mètres, parmi lesquels nous remarquerons d’abord le diséique, composé, comme on le sait, du vers keramètre et du penfamètre.
+
+r r Virgo Der genitrix " quem lotus non capit orbis r Le În tua se clausit' viscera failus homo.
+
+Nous n'avons ici indiqué que quatre accents; les autres varient de place comme aussi la pause de /'kexamètre.
+
+Dans presque toutes les Eglises autrefois, on chantait en l'honneur de la sainte Vierge une très-belle hymne, dont chaque strophe comprend quatre vers semblables, composés d’une syllabe de moins que /'asclépiade; comme dans celui-ci la pause vient après la sixième syllabe, et l'accent sur la troisième, la septième et la dixième. En voici le chant d’après d'anciens manuscrits : .
+
+. a Mr. _ | —.
+
+ET un"
+
+O quam glori-fica luce corüscas Stirpis Davidicæ
+
+na Là —ee ee
+
+re-gi-a proles, Sublimis residens Virgo Mari- a Supra
+
+RE CU Me + me
+
+_T
+
+cœ-]ligenas ætheris omnes.
+
+Ex dehors des hymnes proprement dites, un certain nombre d'Antiennes, de Versets ou de Répons sont empruntés à des pièces de poésie. L’Antienne Alma Redemptéris est en vers  hexamètres. Les Antiennes Æ% vir despiciens des Confesseurs, et © magnum pretétis de l'Office de la sainte Croix, sont des distiques. Nous avons déjà cité le Verset Virgo Dei Génitrix, qui forme également un distique. Le G/6ria laus du Dimanche des Rameaux est tout entier composé d’#exaemètres et de pentamètres. L'hexamètre paraît également, mais seul, dans les passages liturgiques qui suivent :
+
+Salve santla parens, ' entxa puérpera Kegem : Qur cælum terrémque regut” per sæcula… Géudia matris habens ” cum virginitaits honÛre, Nec Primam stmilem visa es‘ nec habére sequéntem. Sola sine exémplo” placutsti fémina Christo. (Sedulius, carmen pasch.) Qur regnt claves ‘ el curam tradit ovtlis, Qui cœli terreque Petro' commtitit habénas Ut réseret clausis, ‘ et solvat vincla ligétis. (Simplicius Papa.) Solve quoénte Deo” terrérum Petre caténas, Qui facis ut péteant’ cœléstia regna bedtis; Îpse per hunc nostros’ dignétur séluere nexus.
+
+ÎL est évident que ces paroles se chantent sur le rhythme grégorien ordinaire ; seulement, pour le partage de la phrase, au lieu de suivre simplement le sens du texte, comme dans la prose, on observe de préférence les coupures régulières du mètre, c'est-à-dire les pauses après la césure. Il en est du reste souvent ainsi, même pour les hymnes proprement dites, qui toutes ne sont pas dans le chant nécessairement mesurées, ni toutes mesurées avec la même rigueur et selon les mêmes principes.
+
+Au point de vue de l'exécution ou du rhythme, nous devons distinguer trois sortes d'hymnes; à savoir :
+
+1° Les hymnes dont la mélodie offre des groupes variés sur les syllabes du texte, à la manière du chant grégorien ordinaire. Ces hymnes, par conséquent, ne sont pas mesurées, si ce n'est en ce sens que les phrases y ont une longueur plus égale, et le chant une allure plus symétrique; mais les principes d’exécution sont les mêmes que pour les Antiennes et les Répons du répertoire grégorien.  2° Les hymnes dont le chant est syllabique, et qui appartiennent au genre ambrosien. Celles-là ont une mesure, mais une mesure qui repose sur l'accent métrique ou le temps fort, marquant la dernière syllabe de chaque pied. Relativement à la durée, les notes sont égales.
+
+3° Les hymnes de composition récerite, dont le rhythme suit la mesure de la musique moderne.
+
+Que les hymnes soient mesurées à la manière ambrosiénne ou autrement, toujours le mouvement doit avoir de la largeur et de l’aisance. Il n’est pas utile de marquer trop fortement la mesure, et lorsqu'il est possible, sans s'en écarter, d'observer en même temps le léger retard de la fin des mots, #ora ultime vocis, qui sert à les distinguer et à rendre les paroles intelligibles; on ne doit pas s'en dispenser.
+
+Les chants syllabiques, mesurés à la manière ambrosienne, n'ont pas été acceptés par toutes les Eglises. On les trouve rarement dans les hymnaires des régions septentrionales, où elles ont été remplacées par des mélodies plus chargées de notes, rhythmées à la manière grégorienne.
+
+À PART les hymnes qui elles-mêmes, comme nous venons de le dire, ne font pas toujours exception, la musique liturgique ne connaît pas d'autre rhythme que le rhythme libre : celui qui consiste à appliquer tout simplement au chant le mouvement de la déclamation, à observer le nombre oratoire. Vers le onzième siècle on tente autre chose, du moins pour certains chants auxquels on donne une forme plus symétrique, et que l'on soumet à une mesure de plus en plus précise, de plus en plus compliquée.
+
+Nous voyons cette marche progressive à la fois dans la composition des séquences et dans celle de la musique harmonique.
+
+Les séquences et les tropes du commencement sont de vraies proses, de simples récitatifs; les neumes du plain-chant donnent le thème mélodique, et donnent aussi le rhythme, La séquence de Pâques, extraite des drames liturgiques de la Résurrection, est encore dans le genre primitif. Bientôt l'allure change, les phrases deviennent plus symétriques. Les syllabes sont comptées, et les accents occupent une place déterminée; ce qui donne déjà une mesure. C’est ainsi que sont composées les  Séquences d'Adam de S. Viétor, entre autres celle de la sainte Croix, Laudes Crucris attollimus, sur laquelleS. Thomas, comme l'on sait, a calqué le Zauda Sion. Plus tard on arrive à une mesure très-marquée et moins grave, à la façon du Venz sanéle Sptritus, et des séquences Miftit ad Virginem, Gaude prole Grectra, etc.
+
+LA transformation est plus frappante dans les chants harmonisés, mais elle est toute différente. Pour les séquences, le développement est naturel et reste dans le domaine de l’art; dans ce que nous allons voir, tout est artificiel et de convention.
+
+TANT qu'il ne s'agit que de l'Organum primitif ou de la simple diaphonie, on se contente de ralentir le mouvement du chant; il le fallait pour que les parties pussent marcher du même pas : canendo modesta et concordi morositate. (Hucbald. p. 166.) Pour faciliter la concorde des voix, on arrive bien vite à marquer le pas, à battre le chant; ce n’était pas encore toutefois le chant mesuré, tel qu'il le fut plus tard. Voici que l'harmonie se complique : au lieu d’une même mélodie, produite simultanément à divers intervalles, (quinte, quarte ou oétave,) nous avons un double chant, discantus, un triple ou quadruple chant, à faire concorder. Pour cela il faudra que les parties tantôt hâtent, tantôt ralentissent leur marche, dans la crainte qu'elles n'’aillent se heurter malencontreusement ou manquer maladroitement l'effet de certaines consonnances obligées, surtout à la fin des phrases; les mélodies s’en trouvent parfois étrangement torturées, le rhythme prend les formes les plus bizarres; mais rien n'arrête dans la nouvelle voie.
+
+TouTerois, même dans la seconde période de la musique harmonique, c'est-à-dire à l’époque du déchant, le rhythme n’est pas partout mesuré : suxé cantus non ubique mensurafi. (Jérome de Moravie.) Musica dicitur PARTIM MENSURABILIS, 60 guod non in omni parte sua tempore mensuratur. (Anon. Mus. britann.)
+
+QuanT au plain-chant lui-même, il conserve dans l'usage ordinaire son allure primitive, du moins en droit; car en fait, dans les Eglises conquises par le déchant, les saines traditions du chant grégorien pur sont, on le conçoit, tombées facilement en oubli. Les théoriciens se préoccupent surtout du nouvel art de l'harmonisation et de la mesure à donner au chant.  Pour ce qui concerne la mesure, ils ont une théorie suffisamment abstraite et pratiquement impossible, mais cependant curieuse à connaître, ne serait-ce que comme fait historique et peinture de mœurs.
+
+LEUR premier principe, point de départ de tout le système, est celui-ci : la perfection est dans le nombre trois : le mystère de la Très-Sainte Trinité en est la preuve; d'où découle logiquement cette conséquence immédiate, c'est que le rhythme parfait est celui qui repose sur le nombre trois. Second principe : le moins précède le plus; par conséquent, dans la subdivision du nombre trois, il faudra dire 1 et 2, et non pas 2 et 1. Nous sommes ici, on le voit, en pleine scolastique : mais poursuivons.
+
+L'unrré de durée est ce que l'on appelle, dans la mesure musicale, un temps, {empus; trois unités ou trois temps feront une mesure, ou ce qu'au moyen âge on nomme un mode, modus, Le mode parfait, d'après le principe posé plus haut, sera de trois temps; et si l’on a seulement deux sons pour un mode, le premier son, d'après le second principe, durera un temps; le second, deux temps. Si maintenant, au lieu d'additionner les temps, on les subdivise, le fraétionnement ne pourra se faire que par tiers; un temps se partagera donc en trois tiers de temps; la subdivision du temps s’appellera une fro/ation. De la sorte, trois prolations feront un femps, trois {emps feront un #04.
+
+Les signes servant à noter la musique ainsi mesurée, ne sont autres que les signes traditionnels du chant grégorien. Sans chercher à en inventer qui répondent aux exigences de la théorie, on saura, au moyen des principes que nous avons commencé à expliquer, déterminer la valeur des notes, qui sera souvent toute autre pour l'esprit que pour les yeux.
+
+LA notation traditionnelle du plain chant, dont nous avons vu l'origine et la signification, présente des signes de formes différentes; il y a la note simplement carrée a, il y a la note caudée , il y a la note losange +. C'est un fait matériel, qui dans le rhythme grégorien ne tient pas direétement à la question du rhythme, encore moins à celle de la mesure; nos musiciens mensuralistes, sans s'inquiéter du véritable sens de la note caudée ou losange, utiliseront ces particularités séméiographiques et s'en serviront pour la mesure du chant. Ils appelleront lon gue, la note caudée 4; brève, la note carrée a; semi-brève, la losange +. Pour compléter la série, ils doubleront la caudée qu'ils appelleront maxime, et ajouteront une queue à la losange Ÿ qui deviendra la #zin#ime. (Voir plus loin le tableau des figures appartenant à la musique mesurée du moyen âge.)
+
+OUTRE la note isolée, il y a les groupes ou formules qu'ils nomment /gatures. La ligature, comme la note simple, est empruntée à l'écriture traditionnelle du chant grégorien; mais avant d'expliquer l'usage que les mensuralistes font du fodatus, de la chvis, du forculus, etc. voyons quelle mesure ils donnent à la maxime, à la caudée, à la carrée, à la losange et à la minime.
+
+RaPPELONs-nous le principe : trois est le nombre parfait; par conséquent, une note dont la mesure est parfaite devra nous représenter une valeur ternaire. La maxime prise toute seule vaudra trois modes ou neuf temps; la cawdée, un mode ou trois temps; la carrée, un temps ou le tiers d’un mode; la losange, une prolation ou le tiers d’un temps; la #2mime, le tiers d'une prolation ou le neuvième d’un temps.
+
+Mais supposons plusieurs notes de suite; leur valeur devra se modifier en plus ou en moins, selon les circonstances : telle note perdra, telle autre, au contraire, gagnera la moitié de sa valeur normale; mais toujours conformément aux deux principes de ferfettion dont nous avons donné la formule.
+
+EN vertu de ces principes, deux caudées 11 vaudront chacune trois temps; mais il en faudrait une troisième, ou sa valeur, pour arriver à la perfection des neuf temps : 11. Deux carrées prises ensemble devront faire trois temps, et pour cela la seconde recevra un temps en plus de sa valeur normale : , à. Une carrée et une caudée donneront le même résultat : aa. Il suit de là que deux notes ayant la même forme peuvent avoir des valeurs différentes : ainsi la carrée a tantôt un temps, tantôt deux; la caudée, tantôt deux et tantôt trois. D'un autre côté, deux notes de forme différente peuvent avoir la même valeur : nous avons en effet de simples carrées à deux temps et des caudées n'ayant également que deux temps.
+
+Deux losanges vaudront la première # et la seconde # de temps.
+
+TRoIs carrées a a a vaudront chacune un temps.  QUATRE carrées vaudront alternativement un temps et deux temps':anse
+
+CINQ carrées pourront se partager de deux manières: an owbien sans
+
+LE point placé ici entre les notes est un point de vision, servant à lever tout doute sur le partage des modes. Après la seconde note, comme dans l'exemple précédent, son effet indirect est d'ajouter à la valeur de cette note : il est alors un point dit de perfection.
+
+On se rendra facilement compte, si l'on se rappelle ce que nous venons d'exposer, de la légitimité des chiffres que nous plaçons dans la série suivante, au-dessus de chaque note, pour
+
+en indiquer la valeur temporaire.
+
+12 12 1212 442 R A na \ .. Ra. \ 00m Les mêmes principes s'appliquent aux ligatures.
+
+UK E ligature ou formule de deux notes aura invariablement, pour la perfection du rhythme, un temps et deux temps :
+
+Exemples : f Ps,
+
+Une ligature de trois notes vaudra un temps, deux temps
+
+et trois temps. 13
+
+Exemples : . a ; Ni
+
+Dans les exemples que nous venons de donner, les groupes ont la forme traditionnelle; mais supposons que le fodafus commence par une note caudée 8, et la c/vis par une carrée #; ces deux ligatures n'ont plus alors la forme qui leur est fropre : elles sont par conséquent sixe proprietate; tandis qu'auparavant elles étaient cum proprietate. On voit ici que le mot propriété a un sens abstrait, conformément aux habitudes d'esprit qu'on avait à l’époque dont nous étudions les théories.
+
+PLus tard, passant de l'abstrait au concret, on a appelé £ropriété la queue de la clivis; et lorsque cette queue, au lieu de descendre au-dessous de la note à la manière ordinaire fe, était au dessus «,, on la nommait propriété opposée.  ON voit que dans les ligatures, comme dans les séries de notes simples, le même signe n'a pas toujours le même sens : ainsi la note commençant par une queue est brève en descendant, longue en montant; la carrée, au contraire, est brève en montant, longue en descendant.
+
+LA dernière note du groupe complète régulièrement le rhythme, et le perfettionne; car c’est sur cette dernière note que l'on arrive au ternaire obligé, et qu'ainsi l'on atteint la ferfettion; c'est pourquoi un groupe qui finit d’une façon normale est un groupe parfait, #0/4 CUM PERFECTIONE; Si on modifie la forme de la dernière note pour lui donner moins de valeur, le groupe est dit #of4 SINE PERFECTIONE; il faudra alors ajouter d'autres notes pour parfaire le nombre trois, perfectionner le groupe qui par lui-même est si#e perfeétione. Ainsi ce groupe f'e est sine perfectione; pour le perfectionner il faudra faire entrer
+
+. 1 1 en ligne de compte d’autres notes; exemple : fox on total : 3.
+
+LE groupe imparfait que nous venons de donner présente beaucoup d'analogie avec la plique des mensuralistes; seulement, dans celle-ci le son bref qui termine le groupe, au lieu d’être représenté par une losange, l’est par une simple queue; de plus, sa valeur est prise sur celle du son précédent.
+
+Toure ligature finissant par une caudée est une ligature pliquée ; sf; "a: M: %; L etc.
+
+LA plique de deux sons a deux queues, dont l’une est plus courte que l'autre. Lorsque c’est la première qui est plus courte, la note a la valeur de la carrée, c’est-à-dire qu’elle est brève si la voix doit monter, et longue si la voix doit descendre. Lorsque c'est le contraire, la valeur de la note est celle de la caudée : brève en descendant, longue en montant.
+
+1 2 ! PLIQUES LONGUES : L , A PLIQUES BRÈVES : ‘, F 2 ! # #
+
+ON voit que comme figures de notes la plique ascendante dérive de l'epzfhonus, et la plique ascendante du cephalicus : mais, comme nous l'avons fait remarquer déjà, la signification des signes a complètement changé.
+
+Le tableau suivant résume la théorie des mensuralistes.  Maxime, Longue. Brève, =
+
+FIGURES DU CHANT MESURÉ :
+
+Semibrève. Minime,
+
+nu è Ÿ 333 12 12 3 11:11: 111 12 111 1 2 11° A" a a À CC Aa A4 Aa an an s s + + 3 + 3 111 4% 4H 1 HHH HHKh HA AM HA RAR 48 0 nm + 0 0 000 0m ++ 0 @ © mue” D, dun __ V= D: 3 3 3 hhK 'h 6h H KM K KR hi HK MK tie pe tt + tt so tet to ttt tt NS 7 # # # _/
+
+33 33
+
+117
+
+ET II an an
+
+.r
+
+4" " M Le
+
+HA AN .…
+
+"TN A
+
+"1 nn A an FO TL
+
+312 312 312 312
+
+den FR r
+
+LI11 111 111 111 RAR ARR AR AAA
+
+RNA
+
+j"" j"" \"" "°° un ne de Le
+
+HH2 42H A2 M2
+
+°°° °°°:
+
+M, A 4 fe
+
+1113 1113 1113 1113 ans nes sn "en
+
+NO Ar
+
+pepe que ques NAN ln
+
+LILILLIILI ILITI 1111 ANA AGAR ARR AA
+
+We A S
+
+CCE CECE LLCE LLC
+
+PL UE"
+
+HA33 4AH11 HH23 HH11 en del del en  La mesure parfaite ou ternaire n'était pourtant pas la seule employée; on chantait aussi dans la mesure binaire. Pour indiquer d’après quel rhythme on avait à calculer les temps, sans avoir rien à changer dans la notation, on inscrivait au commencement de la ligne de chant un cercle O pour la mesure parfaite, et un demi-cercle € pour la mesure imparfaite; le cercle étant, d’après les philosophes, le symbole de la perfection. Le cercle imparfait C est resté en usage dans la musique pour indiquer la mesure binaire.
+
+PARFOIS aussi dans un même chant, la mesure binaire et la mesure ternaire se trouvaient mélangées : dans ce cas on chan:geait la couleur des notes. Quand le copiste n’avait pas d’encre rouge à sa disposition il se contentait de limiter la note sans la remplir : de là est venu dans la musique l'usage des noires et des blanches.
+
+PLus on avance vers l’époque moderne, plus on voit la valeur des notes se subdiviser; on ne se contente plus de la semz-brève, on invente la #z#12".e; bientôt on subdivise encore celle-ci, et l'on a les crochkes, double-croches, etc. Même sans changer dans la pratique la mesure du chant, on substitue dans la notation les semzi-brèves aux brèves, les minimes aux semi-brèves, les croches aux minimes; il suffisait, pour la mesure, que ces notes conservassent entre elles les mêmes relations.
+
+Dans l'écriture cursive, la note carrée ordinaire demeura carrée, mais la losange devint une ronde, la minime ou losange caudée rouge devint la 6lanche de la. musique moderne, et la minime notre fut la noire; on eut de la même façon les croches simples, doubles, triples, et quadruples. La valeur de ces notes, qui d’abord variait selon la position, fut: peu à peu fixée d'une manière plus absolue. Le point, qui en divisant les modes ajoutait indireétement à la valeur de certaines notes, se retrouve également dans la notation moderne. Celle-ci, comme on le voit, est dérivée de celle du moyen âge.
+
+Nous sommes loin d’avoir dit tout ce qu'il serait nécessaire d'expliquer, pour faire comprendre dans tous leurs détails les règles très-nombreuses par lesquelles les auteurs mensuralistes veulent apprendre à discerner la valeur des notes; on s'aperçoit facilement en lisant ces auteurs que souvent ils s'embrouillent  eux-mêmes, en oubliant parfois leurs propres principes, mais surtout en passant, sans s'en apercevoir, de l'abstrait au concret, ou du concret à l’abstrait. C'est du reste, dans les théories scientifiques et philosophiques, un écueil que le théologien luimême n'a pas toujours su éviter; nous ne devons pas nous étonner si les musiciens s'y sont heurtés plus d'une fois.
+
+Ainsi donc, sans songer à inventer une notation propre à exprimer les prolations, les femps et les modes, les musiciens du moyen âge se sont ingéniés à les représenter au moyen des figures ordinaires du plain-chant; ce n’est qu'à la fin qu'ils se hasardent à modifier quelques-unes de ces figures. Il est facile de voir que les règles toutes scolastiques qu'ils donnent ne pouvaient guère être, même en germe, dans la théorie ou la pratique musicale de S. Grégoire. La nature de ces règles, la manière dont elles sont formulées, les raisons philosophiques, étymologiques, mystiques sur lesquelles on les appuie : tout cela reflète à merveille le génie de l’époque où elles ont paru; mais de supposer qu'elles expriment un rhythme subsistant depuis longtemps par tradition, de dire qu’elles reproduisent la méthode grégorienne, est-ce en vérité possible ? Si l’on avait observé, dès le temps de S. Grégoire, les règles qui se sont formulées du douzième siècle au quatorzième siècle, pourquoi ces tâtonnements, ces changements qui, remarquons-le bien, ne portent pas seulement sur la manière de formuler les règles, mais aussi sur la manière d'exécuter le chant? L'étude des auteurs du moyen âge est très-intéressante à certains points de vue, pour connaître le génie de cette époque, ses habitudes et ses aptitudes pour la logique, la philosophie et la mystique; mais en ce qui concerne l'art musical, nous assistons alors à l’enfantement d'un art nouveau, celui de la musique moderne avec son rhythme, sa tonalité et son harmonie. Grâces soient donc rendues, pour la part qu'ils y ont prise, aux deux Francons, à Jean de Garlande, à Jerôme de Moravie, et aux autres; mais, lorsqu'il s'agit de chant grégorien, ce ne sont pas là les maitres auxquels nous irons en demander le secret.
+
+CE n'est pas qu'alors ce secret fut perdu; car en même temps que les musiciens à la mode se livrent à des essais plus ou moins heureux de combinaisons rhythmiques ou harmoni ques, on continue de chanter au chœur les Antiennes et les Répons de S. Grégoire à l'ancienne manière, sans s'inquiéter des temps ou des prolations, des modes parfaits ou imparfaits. En citant dans leurs traités des exemples de plain-chant, les mensuralistes n'entendent pas pour cela soumettre à leur système de rhythme les mélodies grégoriennes; le plain-chant dont ils parlent est celui dont ils font ordinairement la partie de basse dans leurs motets. Là, ils donnent régulièrement à chaque note une valeur de trois temps : ce qui n'a rien de grégorien. Mais ce qui l’est moins encore, c'est d'accoupler, comme ils le font, à des phrases de plain-chant des chansons profanes, souvent très peu décentes. Nous le répétons, à côté de ce plain-chant travesti, subsistait le vrai grégorien avec son rhythme libre et naturel. Nous devons ajouter qu'il existait également alors une autre sorte de musique mesurée, celle dont nous avons parlé à propos des hymnes. Nous allons, pour clore ce chapitre, donner une Séquence qui nous prouvera qu’au moyen. âge l'inspiration musicale n'était pas éteinte. Nous y verrons les deux sortes de rhythmes admis dans la liturgie : dans les premières strophes, le rhythme fondé sur la symétrie des phrases, et aux deux dernières, le rhythme mesuré.
+
+SÉQUENCE POUR LE TEMPS DE NOEL.
+
+nn ps AS :
+
+ns LL
+
+à
+
+Lætabündus exsûltet fildé-lis chorus, alle-lû- ia. Regem
+
+Lee
+
+re-gum intâctæ profüdit thorus : res mir4ndal Ange- lus à —$—. + 2 Fe 2 Et consfi-li= 1 natus est de Virgi- ne : sol destella. Sol occésum
+
+Tr
+
+l
+
+nésci- ens : stella semper rûti- lans, semper clara. Sicut 
+
+- é | ——————— "+ 2 Le ° Le si- dus rädi- um, profert Virgo fili- um, pari forma. Ne - +
+
+è
+
+que si-dus rädi- o, neque mater fili- o fit corrüpta. CeEt te ie, RTE
+
+è " a, drus al-ta Libani conformäturhyssopo, valle nostra. Verbum
+
+Dirt, pe ie — { L ï T 4, en Altissi-mi, corpo-râ-li passum est carne sumpta.
+
+28 = 2; Ça
+
+« Le É—e—a— fa — s
+
+Isa- f-as cé-cinit, Synagôga mémi- nit, nunquam tamen A
+
+a
+
+&- a FT Fe + Ts 4; AT 4.
+
+dé-sinit esse cæca. Si non su- is vâ-tibus credat vel gen C—« ñ a—| e a
+
+: — a— | ” CE
+
+tf- li= bus sybil-linis vérsibus hæc præ-dicta : Infélix prô
+
+F ï : An 8 An A An 4 Es 4 HT TT, pera crede vel vétera cur damnäberis, gens misera. Quem È fr A ] — + — 2 fa = IC
+
+Tv n T —2— a_ TT” A 1
+
+docet littera natum considera ipsum génu- it pu- érpera.
+
+8"
+
+Alle- 1û- ia.
+
+

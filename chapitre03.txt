@@ -1,0 +1,145 @@
+les anciens une écriture musicale complète, une
+
+notation armée de toutes pièces, exprimant tous
+
+les sons qui composent une mélodie avec le degré
+
+respectif d’intonation, de durée et de force qui appartient à chaque son, tout ce qui détermine en un mot les intervalles, le rhythme et au besoin la mesure du chant. La parolé précède l'écriture, et le chant la notation; ceci est surtout vrai pour les mélodies populaires dont la plupart, spécialement chez les anciens, n'ont jamais été écrites ou ne l'ont été que tardivement, presque toujours lorsque déjà le goût commençait à s'en perdre et l'exécution traditionnelle à s’altérer. C'est à la mémoire et à la tradition que le chant grégorien, lui aussi, a été d'abord confié, et nous verrons plus bas, en étudiant la nature et le perfeétionnement successif des signes qui ont servi à en fixer par écrit les formules traditionnelles, comment ces signes à l’origine ne fournissaient en réalité que des indications abrégées, suffisantes pour rappeler les mélodies à la mémoire, mais ne pouvant suppléer par elles-mêmes à la tradition.
+
+Du reste, c’est là le caraétère de ce que les anciens appelaient proprement #ofa, note. La note, en grammaire, la #0/4 des notarii, est un signe d'écriture plus expéditif, exprimant par une lettre ou deux non seulement une syllabe, mais au besoin tout un mot, quelquefois toute une phrase; la note en musique est un signe : lettre, point, accent ou marque quelconque, dont le but est d'exprimer soit un son, soit même toute une formule mélodique.
+
+IL y a eu de tout temps, et il existe même encore aujourd’ hui, de ces signes musicaux purement mnémotéchniques qui, malgré leur forme essentiellement abbréviative, suffisent aux chantres. C'est ainsi par exemple que les Hébreux, pour noter leur chant, se sont contentés et se contentent encore d'une espèce de ponctuation servant à marquer dans le texte les endroits où telle inflexion de voix connue d'avance, telle modulation déterminée
+
+| (: ne devons pas nous attendre à trouver chez  pour chaque circonstance, doit se produire régulièrement, et venir suspendre un instant la récitation, ou la reposer plus _ pleinement. Chez nous, la division des psaumes en versets et le partage des versets par les flèxes ou les astérisques sont une notation de même nature, et cette notation complétée par l'indication, également abrégée, du ton et de la terminaison, 1g, ‘2D,3a,4E, etc., peut suffire, toujours en supposant que les divers tons des Psaumes avec la médiante et les terminaisons de chacun sont connus d'avance.
+
+Tour en se servant pour la musique d'une écriture plus ou moins sommaire, dans le genre des notes ou sigles dont nous venons de parler ou des neumes que nous étudierons bientôt, les anciens n'étaient pas pour cela dépourvus de moyens propres à représenter aux yeux les sons de la voix, avec tout ce qui les distingue les uns des autres. Seulement ils ne nous ont laissé aucun répertoire musical, comme nous avons nos Graduels et nos Antiphonaires. Ce que nous trouvons de musique, soit sacrée soit profane, dans toute la période de l'antiquité grecque ou romaine, n'existe que par fragments et en manière d'exemples chez les théoriciens, et encore ces fragments et ces exemples sont-ils peu nombreux.
+
+LA notation que nous voyons en usage dans les ouvrages didactiques, consiste presque exclusivement dans l'emploi des lettres de l'alphabet, ainsi que nous allons l’exposer.
+
+Les théoriciens, dans leur étude de la musique, procédant d'abord par disseétion, pour aller ensuite de l'analyse à la synthèse, ont rapporté les intonations diverses que peut produire la voix à plusieurs échelles tétracordales, et de l'ensemble des tétracordes reliés par conjonction ou juxtaposition ils ont construit une seule échelle assez grande pour les renfermer tous.
+
+Nous la donnons plus loin dans sa forme classique.
+
+CETTE échelle, plus théorique que pratique, plus faite pour la science que pour l’art, une fois établie avec ses divisions mar _quées sur la ligne du monocorde, * il fallait en distinguer les
+
+1 On sait que les anciens, pour mesurer la gravité ou l’acuité relative des sons, se servaient d’un instrument qu'ils appelaient #o#ocorde, et sur lequel en effet n’était tendue qu'une seule eorde. Cette corde unique pouvait cependant donner des sons multiples au moyen d’un chevalet que l’on faisait courir le long de l'instrument, sur  degrés, les numéroter. Or la numération, chez les anciens, se faisait au moyen des lettres de l'alphabet, qui sont les chiffres de ce temps-là. À chaque son ou degré de l'échelle, correspondait une lettre qui devenait ainsi note musicale.
+
+Nous n'avons pas ici à expliquer comment les Grecs, les premiers, ont disposé l’ordre des sons et celui des lettres servant à les numéroter; remarquons seulement qu'ils avaient pour cela deux systèmes. L'un consistait à appliquer la série de leurs lettres aux diverses cordes de leurs instruments, dans l’ordre de l'importance relative de ces cordes, ou de leur admission successive sut les instruments, c'est-à-dire à peu près dans l’ordre de la génération des sons par oétave, par quinte ou par quarte : cette notation est spécialement propre à la musique instrumentale. L'autre système, plus récent, suppose déjà une théorie complète des sons; il consiste à prendre les lettres, telles qu'elles se succèdent dans l'alphabet, et à les disposer ainsi sur les degrés diatoniques de l'échelle, sauf à modifier la forme ou la position de ces lettres pour les intervalles non diatoniques: cette seconde notation est réservée à la musique vocale.'
+
+LA notation alphabétique des Grecs a passé comme de plein droit, avec leurs théories musicales elles-mêmes, aux Latins, qui ‘pendant longtemps n'en connurent pas d’autres: car nous ne voyons les lettres de l'alphabet latin se substituer qu’assez tard, sur l'échelle musicale, aux caractères grecs. Le son le plus grave de cette échelle, telle qu'elle avait été constituée, se trouvait être la note que maïntenant nous appelons / * à l'octave au-dessous de la mèse des anciens, c’est-à-dire du son moyen de la voix. Ce degré initial fut donc, chez les Latins, marqué de leur première lettre À, le second de la lettre B, et ainsi de suite en
+
+une ligne divisée en parties égales. En appliquant le chevalet sur la corde à Pune des divisions de la ligne, on pouvait ne mettre en vibration qu’une longueur de corde déterminée, dont la proportion indiquait celle du son lui-même.
+
+1 Bien que la musique vocale, dans Pordre Chronologique, ait précédé naturellement la musique instrumentale ; celle-ci cependant a été notée avant celle-là : sans doute parce que c’est d’abord sur les instruments eux-mêmes, que les notes ont dû être écrites pour servir de guide à la main du joueur encore inexpérimenté, tandis que pour la voix on a pu se passer longtemps de signes: le ton,.ou l’air à chanter se reproduisait simplement après l'avoir écouté et retenu de mémoire.
+
+3 Nous ne voulons pas prétendre que cette note fût en réalité en rapport avec
+
+notre diapason.  montant, et en poursuivant l’ordre des lettres jusqu’à P, qui se rapportait au son le plus aigu de l'échelle, le quinzième de la série, c'est-à-dire l'oétave au-dessus de la mèse, la double ottave au dessus de la première note.
+
+D'AUTRES théoriciens, considérant qu'anrès les sept premiers degrés, les sons se reproduisent dans le même ordre de tons et de demi-tons, se contentèrent des sept premières lettres de l'alphabet, de À jusqu'à G, et les répétèrent à partir de la huitième; et pour éviter de confondre les sons de l'oétave grave avec les sons correspondants de l’oétave aiguë, marqués des mêmes lettres, ils distinguent les sept degrés inférieurs par des lettres majuscules, À. B.C.D.E.F.G. et les sept suivantes par des minuscules, a. b. c.d.e.f.g. qu'ils doublent ensuite pour la troisième octave, aa. bb. etc. De plus, comme dans le répertoire grégorien, certaines pièces présentent une note plus grave que celle qui commence la série des quinze degrés de la théorie primitive, cette nouvelle note, à laquelle Gui d'Arezzo conserve la désignation de moderne, bien que l'usage en fût déjà de son temps vieux de plusieurs siècles, placée sous la note À ou / à une ottave au-dessous de G ou so/, a été désignée par le Gamma des Grecs [”, d'où plus tard est venue à l'échelle des sons que nous décrivons, puis par extension à toutes les autres, le nom de Gamme; tout ainsi, remarque avec justesse Dom Jumilhac (part. 2. ch. r1.), que la série ordinaire des lettres a été nommée a/phabet, des deux lettres par lesquelles elle commence, alpha beta.
+
+LE tableau suivant représente la gamme complète d'où les gammes partielles, constitutives des modes grégoriens, ont été tirées. L’échelle, comme on voit, est divisée en plusieurs tétracordes. Chaque tétracorde se compose d'une suite de quatre notes ou de trois intervalles. Ceux-ci, en allant de l'aigu au grave, comme procédaient les anciens, sont ainsi ordonnés : un ton, un ton, puis un-demi-ton, et tous uniformément de la sorte. Le principal est celui qui part du son moyen, # so/ fa m1. En reprenant à #7 pour redescendre de nouveau un ton, un ton et un demi-ton, on a #4 ré sf si, et pour finir l’oétave on ajoute 4. Le s0/ qui vient plus bas est, comme nous l'avons vu, le résultat d'une nouvelle adjonétion : nous n'en tenons pas compte en  ce moment. Si l'on veut former dans le milieu de l'échelle une série de huit notes dans le même ordre qu’en haut et qu'en bas, il faudra que le tétracorde venant du 11° degré r# se reposer sur le 8° /z, se joigne avec le tétracorde partant de cette même corde; pour cela le 5 devra être abaissé d'un demi-ton et l'on aura 7e wf À /a sol fa mi; gamme semblable, pour les intervalles, à celle que nous avions en double : /a sol fa mi re ut st la.
+
+ECHELLE GÉNÉRALE DES SONS.
+
+U)
+
+Tétracordes des notes à
+
+È inferieures, ‘es RTE plus élevées. & E à — —5 + F a b c d —— #2 — "
+
+pub ee ip hs iii à m—n—0  —p—,,
+
+T—A—B—C—D—E— F—G —a— b—ÿ—e—à —e  —{—ç— à — bb lat — pt re mi fol là — où sir — mia —a0l — ia — à
+
+O—1—2— à à — s— é _7— 8 — gt —rO— 1 — 12—13—14— 15 — 0
+
+Nous indiquons dans notre tableau le rapport des lettres dont il a été question avec le nom actuel des notes et avec leur place relative sur les portées; puis nous ajoutons en chiffres les numéros d'ordre qui servent communément aux auteurs du moyen âge pour désigner les notes, quand ces auteurs n'emploient pas les lettres. :
+
+IL faut bien se garder de confondre les lettres de la notation alphabétique avec les lettres dites Sigwz#catives dont nous parlerons plus loin. Les unes et les autres n'ont également aucun rapport avec les voyelles que l’on trouve quelquefois placées en marge, à la tête des antiennes, dans d'anciens manuscrits, dans ceux de S. Gall en particulier, et jusque dans des manuscrits allemands du treizième et du quatorzième siècle, pour
+
+À I] faut savoir, en effet, que dans le langage de S. Odon, par exemple, vo2'sexfa signifie la note F ou fa; #0ona prima le B molle; nona secunda le B quadratum, etc.  désigner le ton ou le mode sur lequel doit se chanter le psaume correspondant à chaque antienne. À ces voyelles, qui sont pour le premier ton &, pour le deuxième +, pour le troisième z, pour le quatrième o, pour le cinquième z, pour le sixième n, pour le septième v, et pour le huitième «, se trouvent jointes certaines consonnes destinées à distinguer la terminaison psalmodique qu'il convient de choisir, parmi celles du mode indiqué. |
+
+LA méthode de notation par les sept ou les quinze premières lettres de l'alphabet est une véritable notation chiffrée, principalement propre aux ouvrages didactiques. Et de fait, nous ne voyons pas que l’on en ait fait usage autrement que dans les écoles ou pour les écoles. S. Odon semble avoir appliqué ce système à tout l'Antiphonaire : il en obtint, pour l’enseignement, des résultats dont lui-même s’applaudit; mais malheureusement il ne nous est rien resté de son travail. En dehors de certains fragments de musique assez rares, et de quelques Offices spéciaux, on ne cite, parmi les nombreux manuscrits conservés dans les bibliothèques publiques ou privées, qu'un seul exemple de livre de chant noté en lettres : c’est le fameux manuscrit de Montpellier; et encore faut-il remarquer que ce document offre, conjointement avec la notation alphabétique, les signes de la notation usuelle ou neumatique. De plus, les morceaux de chant y sont rangés, non dans l’ordre des Offices, mais selon celui des Modes; ce qui nous oblige à considérer l’Antiphonaire de Montpellier comme un livre, non de chœur, mais d'école. La notation alphabétique est donc bien, comme nous le disions, une notation proprement et exclusivement didactique. Elle n’a pas été créée pour remplacer les neumes, pas plus que les neumes n'ont été inventés pour lui être substitués : ce sont deux manières différentes de traduire les sons musicaux, qui ont existé simultanément, chacune avec son caractère propre et son but spécial; elles ont pu utilement se compléter l’une par l'autre, comme nous le voyons dans le manuscrit bilingue dont nous venons de parler.
+
+L’ANTIPHONAIRE de Montpellier offre, dans sa notation alphabétique, une particularité remarquable, dont nous devons dire un mot en passant. Parmi les lettres qui ont été ajoutées aux  neumes pour en déterminer l’intonation, se rencontre çà et là un signe qui n'est pas une lettre, mais remplace une lettre dans des cas spéciaux que nous allons expliquer. Ce signe que l’on a nommé #isème, c'est-à-dire signe supplémentaire, consiste en deux petits traits droits diversement juxtaposés; l’un vertical, l’autre horizontal. Celui-ci est tantôt à gauche tantôt à droite de l’autre, soit en bas, soit au sommet, soit au milieu. Avec le trait vertical sur le milieu et à droite du trait horizontalt-., l'épisème remplace le B ou sz de l'oétave inférieure; également au milieu, mais à gauche -1, c'est l'E ou #7 de cette même oétave; sur le sommet à droite [, c’est le /z du milieu de l'échelle, mais avec l'emploi du B mol; sur le sommet à gauche -, c'est le 53 naturel; enfin si le trait horizontal est tracé à la partie inférieure de l’autre et à gauche _}, l'épisème tient lieu du #7 de l’oétave supérieure,
+
+La lettre, on l'aura facilement remarqué, disparaît seulement aux endroits où l'échelle présente un demi-ton. Nous verrons plus loin, lorsqu'il sera question de la notation neumatique, que certains signes offrent dans plusieurs manuscrits une forme spéciale, en rapport avec le fameux épisème du manuscrit de Montpellier. Celui-ci, croyons-nous, peut s'interpréter d'une façon naturelle, sans qu'il soit nécessaire, comme l'ont fait des savants de notre époque, de le prendre pour le quart de ton, et d'y voir un reste de la modulation enharmonique des anciens.
+
+Les auteurs du moyen âge mentionnent, il est vrai, le quart de ton, qu'ils nomment wiesis à la suite des Grecs; mais en reproduisant d’une façon quelconque la doctrine et les expressions des auteurs grecs, ils le font par pure tradition, sans toujours les comprendre et sans que cette doctrine et ces expressions soient toujours demeurées pratiques.’ Gui d’AÂrezzo lui-même, ainsi que les autres, parle du dzesis, et il le définit comme eux un intervalle qui est par rapport au demi-ton ce que le demi-ton est par rapport au ton. On voit qu'il s'agit bien dans cette définition du vrai quart de ton, et que dans Gui d'Arezzo
+
+1 Ceci #st une remarque importante, que M. Bourgault: Ducoudray a eu de son côté l’occasion de faire en lisant les théoriciens de la musique grecque moderne et qu’il ne faut pas oublier, si l’on veut ne pas s’égarer dans l'interprétation des théoriciens latins.  le diesis n'a rien de commun avec notre dièse; mais rien ne prouve que ce soit là autre chose que de la théorie; théorie qui, comme il'est arrivé souvent, a été copiée successivement par les auteurs, après avoir perdu depuis des siècles toute valeur. pratique.
+
+Si l'on veut considérer l'épisème comme une note qui tient le milieu entre deux cordes formant demi-ton, nous pensons que ceci doit s'entendre seulement en ce sens que l'épisème appartiendra à la gamme des quarts de ton usités dans le discours. Les variétés d’intonation que nous remarquons dans la parole ne peuvent se ramener à une échelle déterminée, bien que cependant cette échelle existe et que les tons divers de la voix dans la parole soient soumis en réalité aux lois de la proportion, puisqu'il y a de ces inflexions dans le simple langage que notre oreille réprouve, d'autres qui lui plaisent. Les anciens, dont les exigences grammaticales au sujet de l'euphonie nous montrent combien ils étaient appréciateurs délicats des sons, ont pu en connaître quelque chose, et peut-être le genre enharmonique dont ils parlent, et qui pour eux n'est guère à la fin qu'une fantaisie de mathématicien, répondait-il à l'origine à cette musique du discours ordinaire. Il peut de fait se rencontrer, dans le cours des mélodies les plus précises, des passages qui semblent se rapprocher du vague tonal du simple langage; passages où l’on peut voir les quarts de ton de la parole, sans que ce chant cesse d’appartenir au genre vraiment diatonique.
+
+Nous devons mentionner ici un genre d'écriture musicale qui a beaucoup d’analogie avec la notation alphabétique, et que l'on trouve employé dans quelques traités de musique, spécialement dans un Dialogue sur le chant qui a pour titre Ænchiriades;, communément attribué à Hucbald de SaintAmand, bien que nous l'ayons trouvé aussi avec le titre de ÆEnchiriades Oltonis, dans un manuscrit de la Bibliothèque de Wolfenbuüttel.® L'échelle des sons est considérée comme divisée
+
+1 Ce mot qui pent se traduire par MANUEL, a été pris à tort ou à raison par Sigebert de Gembloux (douzième siècle) pour le nom même de l’auteur du Dialogue.
+
+3 Saint Odon a composé un Dialogue publié par Gerbert (t. 2. p. 252) qui porte en certains manuscrits le titre d'Enchiridion, mais qui est différent de celui dont nous parlons.  en quatre tétracordes, dont chacun reproduit les mêmes signes dans le même ordre, avec une petite modification dans la forme ou la position de ces signes pour distinguer les tétracordes. En voici le tableau:
+
+GRAVES. FINALES. SUPERIEURES. EXCELLENTES.
+
+F 4
+
+re
+
+= C2
+
+ee
+
+J
+
+C a
+
++
+
+tt
+
+HE VW > 09 [ur 0 04 Mn Num los w EM ins MIN
+
+La troisième note ascendante des tétracordes est désignée ainsi dans le manuscrit de Wolfenbüttel :
+
+N inclinum. lota. N versum et inclinum. Iota transfixum. N / 1 /
+
+On voit, par l'explication qui vient d'être donnée de la 3° note de chaque tétracorde, que ces signes sont en réalité des lettres: nous y reconnaissons F, N et I. Il importe peu, du reste, de bien savoir pourquoi l’auteur de ce système a choisi ces lettres plutôt que d’autres, et s’il a voulu signifier par elles autre chose que les degrés des différents tétracordes, et le rapport de similitude qui existe entre eux.
+
+HucsaLp auquel on attribue, comme nous le disions, le traité de musique où nous voyons ces signes employés, s'est servi ailleurs des caractères de l'alphabet grec, ainsi que du système latin des quinze lettres.
+
+ HERMANN CoNTRACT, au milieu du onzième siècle, fit aussi usage des lettres, mais dans une pensée totalement différente, Ses lettres à lui déterminent, non les degrés de l'échelle, mais les intervalles que la voix doit franchir en allant d'une note à l’autre. D'après son système,
+
+E exprimait l'unisson.
+
+— l'intervalle d'un demi-ton, ou secoñhde mineure. — ‘le ton plein, ou la seconde majeure.
+
+— un ton et demi, ou tierce mineure.
+
+— deux tons pleins, ou tierce majeure.
+
+le diatessaron, c'est-à-dire la quarte.
+
+— le diapente, ou la quinte.
+
+— la quinte plus un demi-ton, ou sixte mineure. — la quinte plus un ton plein, ou sixte majeure.
+
+AD — la quinte plus la quarte, c'est-à-dire l’oétave.
+
+Ces lettres avec un point indiquaient que l'intervalle était descendant; sans point, qu'il était ascendant.
+
+LA notation d'Hermann Contraét vise au même but que celle dont les Grecs, depuis S. Jean Damascène, paratt-il, font encore actuellement usage dans leur liturgie; seulement celle-ci n'a rien d'alphabétique. Dans les livres de chant de l'Eglise grecque, il y a un signe, non pas directement pour chaque son, mais pour chaque intervalle; seulement ce signe, au lieu d’être une lettre, est un trait diversement tourné, une note qui varie.de forme, eu égard principalement à la distance de chaque son par rapport à la note-précédente, ou à un point de départ déterminé. En même temps sont indiquées diverses nuances d'expression par des formes, également diverses, propres à tel ou tel mouvement mélodique. Nous n'avons pas ici à expliquer cette notation; nous voulions seulement signaler le principe qui lui sert de base, et qui présente une certaine analogie avec celui d'Hermann Contratt, bien que le procédé soit tout différent.
+
+IL existait encore, chez les Latins, une autre manière d'indiquer les intervalles, manière très-simple et très-naturelle,
+
+RFO 41® |
+
+1 Voir dans l’ouvrage de Villoteau sur PEgypte, le Chapitre quatrième de la deuxième partie consacré à la musique des églises grecques. Voir surtout l'excellent résumé que donne du système M. Bourgault-Ducoudray dans ses remarquables Etudes sur la musique ecclésiastique grecque. (Paris, Hachette, 1877.)  presque semblable au système de la portée musicale, qui devait venir plus tard, et qui semble déjà poindre à l'horizon. Ce mode d'écriture consistait à échelonner les syllabes entre des lignes, de façon à donner à chacune la hauteur voulue pour en déterminer le ton. Au commencement de cette ligne se trouve S ou T, selon que l'intervalle est d'un demi-ton, ou d’un ton entier. Voici un exemple de cette notation :
+
+sd.
+
+tris sempiternus TON
+
+pa- fi/ li Tu us
+
+TITTIT f
+
+ON voit la différence entre cette méthode et celle de la portée : ici ce sont les syllabes, et non les notes, que l’on place sur l'échelle, en se servant seulement des interlignes : les lignes ne portent rien. Chaque chose doit venir en son temps, et ce n'est pas encore celui de la portée. Nous expliquerons plus loin l'ortgine de cette dernière. | 

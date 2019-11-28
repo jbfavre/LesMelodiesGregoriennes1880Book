@@ -1,0 +1,179 @@
+ES signes traditionnels en usage pour écrire le plain-chant sont sim9/es ou composés, suivant qu'ils servent à représenter un son unique, ou bien une suite de sons intimement unis.
+
+La note simple, c'est-à-dire celle qui se trouve seule sur une syllabe, conserve toujours la même forme; on peut lui donner la forme carrée comme en France, caudée comme en Italie, ou même losange comme en Espagne; ce qui importe, c'est qu’on se tienne invariablement à la forme adoptée. En supposant que l'on donne la préférence à la forme carrée #, il faudra réserver exclusivement la caudée 4 pour les cas où celle-ci entre comme élément constitutif dans une note composée.
+
+Nous verrons plus loin que la note simple n’a point de valeur par elle-même, mais qu'elle emprunte toute celle qu’elle peut avoir, à la syllabe à laquelle elle correspond. Les anciens l'avaient compris : c'est pourquoi ils n'ont pas un instant songé à varier la forme de la note simple pour représenter les diverses nuances dont les syllabes du texte sont susceptibles. Le texte, dans le chant syllabique, doit régler en souverain le mouvement du rhythme, et l'attention qui lui est due exclusivement ne pourrait, sans péril pour la bonne exécution du chant, être reportée sur la note, qui est là seulement pour marquer les intonations, nullement le rhythme.
+
+La note composée, appelée formule, figure ou neume, varie dans sa forme, suivant le nombre des éléments qui la composent, et la position respective de ces éléments sur la portée.
+
+Nous les avons déjà fait connaître, mais il faut ici les examiner de nouveau, pour mieux faire comprendre encore la raison, à la fois pratique et étymologique, qui donne à chaque groupe telle forme, plutôt que telle autre.
+
+1° Le fodatus ou pes se compose de deux sons qui se suivent en montant. C'est pour mieux marquer la liaison de ces deux  notes que, d'après la tradition, elles se superposent au lieu d'être écrites au moyen de deux carrées qui, surtout par intervalles conjoints, parattraient isolées. .
+
+SONS UNIS. SONS DÉTACHÉS. ii RE
+
+2° Le scandicus, comme le groupe qui précède, est ascendant; mais il se compose de trois sons, au lieu de deux.
+
+Pour l'écrire, on se sert du fodatus auquel on ajoute une note caudée #]. Celle-ci est la traduétion de la virga des neumes. Elle ne pourrait, dans le cas présent, être remplacée par la simple carrée s#" . Cette carrée culminante ne reposant que sur l'angle du fodafus ne parattrait pas suffisamment faire corps avec lui, et donnerait au groupe un aspect tronqué. L'œil serait inquiet de cette position mal assurée : il réclame un étai pour tenir la note en équilibre. C'est ici en quelque sorte une question d’architeéture. Mais c'est aussi une question de musique, vu l’importance qu'il y a, pour la bonne exécution du chant, à ce que les éléments qui composent chaque groupe de notes forment un tout parfait, et puissent être facilement embrassés d'un coup d'œil.
+
+TRoIs sons ascendants peuvent être écrits d'une autre manière : c'est-à-dire au moyen du fodatus qui, au lieu d’être comme tout à l'heure suivi d'une note caudée, se trouve précédé de la carrée B. Ainsi écrite, la formule est quelquefois appelée sa/icus, bien que dans le sa/icus proprement dit, la carrée soit à l'unisson de la première note du fodatus al .
+
+Les séries ascendantes qui comprennent un plus grand nombre de sons, s’écrivent également par le fodatus répété autant de fois que cela est nécessaire, et augmenté, s'il en ‘est besoin, ou du fu#élum ou de la vir7ga, comme on le voit plus loin, au bas de la page 91.
+
+3° La ffexa, autrement dite c/inis ou chuis, formule représentant deux sons dont le premier est plus élevé, le second plus grave, commence par une caudée et finit par une carrée fn La raison en est facile à comprendre d’après ce que nous avons dit : c’est ici encore, d'une part la tradition, d'autre part l'avan tage de bien asseoir [a formule, pour que l'œil y reconnaisse sans confusion possible un groupe à la fois distinét et indivisible : ce qui n'aurait pas lieu, si la formule était écrite en notes carrées.
+
+4° Dans le c/imacus et dans les séries descendantes qui comprennent un nombre de sons plus ou moins grand, les rhombes sont disposés dans la même direttion oblique, de manière à ce qu'ils soient tous subordonnés à la note caudée culminante :
+
+1, Le,
+
+Cette note caudée commande en quelque sorte toute la série des rhombes : ceux-ci avec la caudée elle-même sont embrassés d'un même coup d'œil, et forment ainsi un seul tout, bien qu'il n'y ait pas de lien matériel.
+
+5° Le éorculus ou pes flexus. Ce groupe figure trois sons dont le deuxième est plus aigu, quel que soit du reste l'intervalle qui les sépare.
+
+Exemples: a Je #
+
+À ceTTE formule se rattachent toutes celles qui, se composant de plus de trois sons, ont le deuxième, comme dans le forculus, plus élevé que les autres : ces formules s'écrivent au moyen du podatus suivi de plusieurs rhombes sur une même direétion descendante :
+
+de, le,
+
+Ces figures appelées subbipunéiis, subtripunélis etc. pourraient se traduire ainsi : um
+
+Mais ce mode d'écriture qui, à la rigueur, pourrait être accepté, lorsque les notes se suivent sur la portée par degrés conjoints, ne serait plus possible lorsque les degrés sont disjoints, car alors le groupe ne ferait plus pour l'œil un tout suffisamment compact. Avec les rhombes subordonnés au podafus, l'œil, au contraire, comme dans le s/macus, saisit facilement l'unité du  groupe, bien que les éléments qui le composent ne se touchent pas matériellement.
+
+MÉDIOCRE. MAUVAIS. BON.
+
+ne — A —s— ——4
+
+6° Le forretlus ou flexa resupina. Cette formule représente trois sons dont le deuxième est plus grave; c'est l'inverse du torculus. On figure le forrellus de cette sorte :
+
+7
+
+la sol la la fa sol sol mi sol
+
+LEs deux premières notes de chacun de ces groupes ont été fondues en un seul trait. Les formules entières comprennent chacune trois sons.
+
+LA manière dont nous les avons écrites est traditionnelle; mais en même temps qu'elle rappelle davantage les signes de la notation primitive ou neumatique, elle peint mieux à l'œil l'unité du groupe; c'est à ce double titre qu'elle doit être préférée.
+
+T° Scandicus flexus. Ce groupe est composé d'un fodatus suivi d’une céivis plus élevée.
+
+Exemple : = À =
+
+Ici on pourrait croire à la présence de deux formules séparées, mais il ne faut pas s'y tromper. Lorsque le fodatus et la chvrs sont rapprochés comme on vient de le voir, il faut les considérer comme ne constituant en réalité qu'un groupe unique. Il en serait autrement si ces mêmes formules étaient distancées davantage; comme, par exemple, de Ia sorte :
+
+nn
+
+Nous avons ici des formules totalement distinétes; ce n’est plus le scandicas flexus, mais un podatus indépendant, puis une chuis également indépendante.  8° Le pressus et les formules conjointes. Le pressus ou l'effet du prescus est produit par la réunion de deux formules en un seul groupe, lorsque la deuxième de ces formules commence sur le degré où termine la première, comme par exemple :
+
+PRESSUS. FORMULES CONJOINTES.
+
+CR
+
+Nous nommons pressus, nolœ presse, les deux notes qui dans chäcun de ces groupes se joignent sur le même degré de l'échelle. Si ces mêmes formules, au lieu d’être ainsi rapprochées l’une de l'autre, se trouvaient séparées par un espace, on devrait alors les considérer comme des formules tout à fait distinctes :
+
+f
+
+Dans ce cas, il n'y a ni fressus ni effet de pressus.
+
+9° Strophicus. Toutes les variétés du sérophicus, ainsi que toutes les formules qui lui sont analogues, ont leurs éléments unis par simple juxtaposition horizontale : apostropha %, distropha 4, tristropha 208, strophicus flexus "la ®®fe, flexa stroPhica où clivis cum orisco l'an, salicus où pes quassus n@, pes stratus 4,
+
+PLus loin, nous dirons un mot de deux autres formules, appelées, l'une gui/isma, l'autre semzivocalis.
+
+Les formules que nous venons de décrire sont les plus communes. Îl en est d’autres qui se présentent plus ou moins fréquemment; mais on ne remarquera rien de nouveau pour ce qui est de la inanière d’unir les éléments dont elles sont composées. Les explications que nous avons données suffront abondamment pour que l'on puisse sans peine se rendre compte de toute formule, quelle qu'elle soit; et discerner du premier coup d'œil quels sont les éléments qui font partie de telle formule, quels sont ceux qui appartiennent à telle autre : qualiter ipsi sont jungantur in unum, vel distinguantur ab invi cem. (Hucbald.)  Er c'est en effet à la manière dont les notes sont groupées qu'il faut, dans le chant grégorien, faire surtout attention : les figures diverses que peuvent affeéter ces notes, ne sont au fond qu'un moyen de peindre aux yeux l'unité de chaque groupe. Ce qui dans la forme des notes ne tend pas à ce but, doit être considéré, ou comme un agrément purement calligraphique, ou comme un souvenir des anciens neumes, dont la conformation extérieure s'est conservée par tradition.
+
+Quor qu'il en soit du nom et de la figure des diverses formules, toutes ont cela de commun qu'elles indiquent une suite de sons liés. Nous pouvons donc poser, comme principe général applicable à l'exécution de toutes les formules, la règle suivante :
+
+LES SONS QUI, DANS LA NOTATION TRADITIONNELLE DU CHANT GRÉGORIEN, SONT REPRÉSENTÉS PAR UN SEUL GROUPE DE NOTES, DOIVENT DANS LA PRATIQUE ÊTRE UNIS AUSSI ÉTROITEMENT QUE POSSIBLE.
+
+IL suffit dénoncer cette règle pour en démontrer la nécessité. L'application qu'il faut en faire aux différentes formules n'est possible qu’à certaines conditions.
+
+Pour mieux nous faire comprendre, nous nous servirons
+
+d’une formule particulière. tttlît
+
+EN A
+
+PRENONS par exemple le groupe ci-dessus N° 1, qui nous représente cinq notes /a, s0/, m1, fa, ré. Les cinq notes élémentaires de cette formule ont été liées dans l'écriture par les anciens, de manière à n'offrir à l'œil qu'un seul groupe, et même comme ils disent, une seule note : il est évident que pour être fidèle à la tradition, il faut également unir dans le chant les sons multiples que représente cette formule unique.
+
+OR, cette liaison des éléments de la formule n'existera pour l'oreille, qu'aux conditions suivantes :
+
+1° Il est d'abord évidemment nécessaire, pour qu'une formule ne se trouve pas, dans la pratique, divisée en plusieurs parties distinétes, qu’elle soit proférée tout entière d’une seule haleine.
+
+ Qui ne voit, en effet, qu'introduire une pause au milieu d’une formule, c'est faire entendre en réalité deux formules ?
+
+S1 dans le neume déjà cité, le chantre venait à respirer, par exemple, après le deuxième son, N° 2, bien que les notes se trouvent être les mêmes que dans la formule N° 1, la manière de les exprimer n’est plus la même, et le résultat mélodique est tout différent.
+
+2° Ce n'est pas seulement en respirant ainsi au milieu d’une formule, que l'on interrompt la suite des sons qui la composent. On briserait également, quoique d'une manière moins sensible, l'unité du groupe, si l’on appuyait sur l’une des notes médiaires de la formule en lui donnant un son d’une durée plus longue, lors même que cette pause ne serait pas suivie d’une respiration. Que l’on prolonge, par exemple, la seconde note de la formuledéjà proposée, N° 1; au lieu d’un groupe unique, l'oreille percevra deux formules distinétes, N° 3. Quoique proférées d’une seule haleine, celles-ci ne forment pas un seul tout, si en même temps elles ne sont émises d'un seul trait; car non seulement la respiration, mais toute suspension dans le mouvement mélodique détruit évidemment le sens de la formule et l'effet qu'elle doit produire.
+
+Nous verrons plus loin qu'il y a une restriction à faire au principe que nous venons de poser; car il existe des formules, telles que le fressus par exemple, offrant des notes redoublées à l'unisson et nécessitant ainsi une prolongation; ce qui semble contrevenir à la règle qui défend de prolonger le son dans le corps d'une formule, Cette exception confirme le principe; car dans le cas de la note double, on a en vue de produire un effet mélodique spécial, lequel repose précisément sur la prolongation du son exigé par la double note. On ne peut pas évidemment traiter de la même sorte les formules où cette double note ne se rencontre pas.
+
+3° Ce n’est pas encore assez pour bien rendre une formule, de la proférer toute entière d'une seule haleine et d’un seul trait, ainsi que nous l'avons dit; il faut en outre l’émettre, autant que possible, d'une seule impulsion de voix. Nous disons, autant que possible, car nous verrons qu'il existe des cas où une reprise légère du mouvement d'impulsion semble nécessaire.  Ainsi les cinq notes qui composent la formule N° 1, devront se proférer sans renouveler l'effort de la voix et, autant que possible, d'un seul mouvement. On ne pourrait reprendre à plusieurs fois le mouvement d’impulsion que dans le cas où ces mêmes notes se trouveraient groupées de l’une des manières indiquées aux N° 3 et 4; mais alors nous avons avec les mêmes notes autant de chants différents.
+
+CE que l'on doit éviter par-dessus tout dans l'exécution des formules, comme dans le reste du chant, c'est de marquer chaque son par un coup de gosier ou de peser lourdement sur chaque note. Cette manière de chanter, en brisant le lien qui doit unir les sons, détruit les formules et rend impossible toute mélodie; car des notes ainsi isolées, N° 5, ne pourront jamais produire qu’un effet barbare. |
+
+DE ce qui vient d'être dit, nous tirons cette conclusion pratique : DANS L'EXÉCUTION D'UNE FORMULE, ON DOIT ÉVITER D'EN DISJOINDRE LES ÉLÉMENTS, SOIT PAR UNE PAUSE DE RESPIRATION, SOIT PAR UNE PROLONGATION DU SON DANS LE COURS DE LA FORMULE, SOIT MÊME PAR UNE REPRISE DU MOUVEMENT D IMPULSION DONNÉ À LA VOIX. |
+
+Pour aider à bien appliquer aux différentes formules cette règle qui, comme nous l'avons dit, est commune à toutes, il sera bon de faire les remarques suivantes:
+
+1° C’est surtout lorsque la formule présente une série descendante qu'il importe de bien lier les sons. Exemples :
+
+ee
+
+LA virga ou note caudée qui occupe le sommet de ces groupes, a régulièrement plus d'intensité; la raison en est que de l'impulsion donnée à cette note culminante doivent, pour ainsi dire, naître les notes qui suivent en descendant. Celles-ci sont toujours faibles et obscures. On doit prendre garde d'en précipiter le mouvement, ou de les émettre par saccades; il faut également éviter en les proférant, ces petites secousses de la voix dont l'effet est, en quelque sorte, d'égrainer les notes; en un mot ces descentes de notes seront, pour nous servir de l'expres sion du Pape Jean XXII. toujours tempérées,. descensiones temperatæ (Bulla Dole sanélorum) ; ce qui ne doit ni en détruire la grâce, ni leur enlever une certaine légèreté qui tient le milieu entre la lourdeur et la précipitation. Dans tout cela, il faut tendre surtout à bien lier les sons.
+
+Mais comment y réussir quand la série descendante comprend un grand nombre de notes? Dans ce cas, la chose est en effet plus difficile que dans celui où il ne s’agit que d'unir deux ou trois sons. Pour arriver à bien unir les sons, même lorsque la formule en comprend plus de trois, on pourra se permettre une légère reprise du mouvement d’impulsion au milieu de la formule; mais alors il faut le faire sans respirer et sans prolonger aucune note. Donnons un exemple.
+
+— kNor 19, ve Nos fe ee
+
+ON trouve assez souvent ce groupe de cinq notes, N° r. D’après la règle, on doit l'émettre d’une seule haleine et d’un seul trait, en un mot d'une façon continue. Toutefois ce ne sera pas en interrompre la continuité que de renouveler légèrement, au troisième son par exemple, le mouvement d'impulsion donné à la voix. Ce mode d'exécution nous est insinué par la manière dont certains manuscrits, même très-anciens, traduisent la formule dont nous parlons; on la trouve en effet subdivisée soit comme au N° 2 soit comme au N° 3. Cette variété de notation n'indiquerait une différence sensible d'exécution que dans le cas où les cinq notes de la formule seraient partagées en deux groupes séparés, N°4. Mais si les groupes sont unis, ils ne constituent en réalité qu’une seule formule et devront se proférer d’un seul trait, comme il a été dit.
+
+2° Cette subdivision de formule, qui se fait sans pause de respiration ni de prolongation, a surtout lieu quand le groupe est ascendant. Ainsi les notes qui dans les anciens neumes formaient une série ascendante continue, se trouvent toujours dans la notation postérieure, distribuées en pétits groupes de cette façon:
+
+f\ ou À. fou fl fou fou etc.  C'EST surtout, en effet, quand la voix doit monter, qu'il lui est difficile de lier ensemble plus de deux ou trois sons. Il sera donc permis, pour faciliter l'ascension, de donner une légère impulsion de voix à chacune des subdivisions de la formule. Cette manière, du reste, ne manque pas d’une certaine grâce; tandis qu'une ascension trop impétueuse, ou même simplement trop rapide, a quelque chose de provoquant et d'audacieux qui blesse. Jean XXII. dit donc avec raison que les progressions ascendantes doivent être pudiques : ascensiones pudice. (Bulla Doëta santiorum.) En mettant en pratique ces légères subdivisions, il faut éviter de marquer la fin des groupes secondaires par un retard de la voix qui ferait de ces groupes autant de formules distinétes. Ainsi deux fodafus dans une progression ascendante de quatre notes écrite au moyen de ceux-ci, seront produits par deux impulsions de voix, mais d’un seul trait et sans discontinuité; il ne serait permis de les séparer par une suspension ou un retard de la voix, que dans le cas où, quoique se rapportant à la même syllabe, ils se trouveraient ainsi espacés :
+
+ir au lieu de Hr
+
+Nous verrons en effet plus loin que, dans ce cas, on doit faire sentir la division des formules, sinon toujours par une pause de respiration, du moins par une pause de prolongation à la fin de chacune d'elles.
+
+3° Lorsque plusieurs notes se rencontrent juxtaposées l'une à l’autre sur le même degré, elles se fondent en un seul son d'une durée proportionnelle au nombre des notes à exprimer. C'est le cas du pressus, du sérophicus et de l'oriscus. Donnons d'abord des exemples de ces trois sortes de formules, que nous avons déjà décrites plus haut :
+
+PRESSUS. STROPHICUS. ORISCUS.
+
+Sn Toutes ces notes redoublées, fressws, sérophicus ou ariscus, sont nommées simplement pressæs par beaucoup d'auteurs, spé
+
+Li
+
+ cialement par Jean de Muris. Nous avons vu cependant que dans les anciennes notations, ces signes étaient clairement distinéts les uns des autres, et marquaient une manière de chanter propre à chaque espèce. Ainsi le pressus était une note appuyée, l'oriscus une note qui servait à lier des groupes ou des syllabes, le s/rophicus une suite de sons légèrement répercutés, c'est-à-dire vibrés sur la même corde, ou se balançant à un demi-ton de distance.
+
+Nous devons mentionner ici un autre signe d'ornement qui avait complètement disparu de la notation carrée, mais dont les anciens parlent assez souvent. C'est le guz/isma. Ce signe n’était usité que dans les gradations ascendantes; il marquait un son trémulant : 7remula est neuma quam gradatum vel quilisma dicimus. (Aribo Scholasticus, Musica. Gerbert t. II, p. 215.) Aribon est ici d'accord avec Engelbert qui s'exprime de la sorte : Æsf vox tremula, sicuf est sonus flatus tube vel cornu,  designatur per neumam quæ vocatur quilisma. (Lib. IE. cap. 29.) Jean de Muris s'écarte encore ici de la tradition lorsqu'il donne le nom de gwi/isma au forculus et au porrellus. Nous avons ici représenté la note trémulante ou le gut/isma par ce signe #. Si nous étudions les manuscrits, nous reconnaîtrons que le son trémulant du gwz/isma servait ordinairement à relier deux notes distantes d’une tigrce mineure. |
+
+D Exemples : "sn | | Sursum corda. Sanctus.
+
+La manière de relier ici {4 et #{ ne paraît pas avoir consisté à émettre la note intermédiaire, c'est-à-dire 52, mais à donner à la voix un mouvement de circonvolution (gæt/isma, xvlw, volvo, nota volubtlis) consistant à rouler pour ainsi dire la voix autour du {4 avant de monter à l#/, en chantant {a st /a sol la ut ou simplement /a sol la ut.
+
+pourrait se tra- | Ainsi is duire de cette ST Ÿ— ‘ è . + Sursum corda maniere : Sur-sum corda.
+
+ IL est resté dans certaines Eglises un vestige de cette façon d'interpréter le gwz/isma. C'est à la finale du chant de l'Evangile :
+
+RE
+
+Qui habet aures audi-endi, audiat.
+
+En beaucoup de lieux, cette même finale s'exécute de la sorte :
+
+Qui habet aures audi-en- di,audiat.
+
+ON comprend pourquoi le gui/isma, dans la notation à points superposés, a une forme assez semblable à celle du forrecus. C'est peut-être aussi cette similitude des deux groupes qui a fait donner par Jean de Muris le nom de gwz/isma au porrellus.
+
+Quoique trémulante la note du guz/isma n'était cependant pas prolongée; elle demande, au contraire, une certaine légèreté de mouvement; autrement elle se trouverait transformée en un chevrotement désagréable. Le guz/isma, aussi bien que le strophicus, n'était pas d'une exécution facile; on le voit par les auteurs qui nous ont raconté l’histoire de l'introduction du chant romain dans la Gaule et la Germanie. Pour ce qui est du g#t/isma en particulier, on semble y avoir renoncé de bonne heure en plusieurs lieux, car nous le voyons dans un certain nombre de manuscrits, même anciens, ou tout-à-fait supprimé ou remplacé par une note ordinaire; et c'est ce qui a constamment lieu dans les livres à notation carrée.
+
+[IL serait à désirer que l'on püût rétablir dans le chant les signes d'ornement dont il vient d'être question. Leur suppression n'altère cependant pas la substance de la mélodie, et cette suppression est préférable à une exécution défectueuse de ces formules. Mieux vaut donc renoncer à la note trémulante du quilisma, aux sons vibrés du sérophicus, à l'ondulation de la voix marquée par Zoriscus, que de mal exprimer ces nuances délicates. Il suffit, pour le sérophicus et l'oriscus de prolonger le son, en proportion du nombre des notes qui se rencontrent, unies sur le même degré. Le gui/isma, par exemple dans s#rsm corda, peut se rendre ainsi : la voix appuie assez fortement sur  la note /4, à laquelle il convient en cette circonstance de donner du mordant; puis elle passe, aussi légèrement que possible mais sans secousse, sur le s? pour arriver à l’#é, qui a sa valeur ordinaire.
+
+REVENONS à notre sujet. Ce qu'il y a d’essentiel dans l’exécution des formules, c'est, comme nous l'avons dit, d’unir aussi étroitement que possible les éléments dont chacune d'elles est composée. Nous avons vu à quelles conditions on peut y parvenir. Toutefois on n'aurait rien fait encore si, en groupant les sons comme il est requis, on ne savait en même temps les émettre avec netteté et pureté. Qu'il nous soit donc ici permis de faire aux chantres, à ce propos, une recommandation de la plus haute importance. Qu'ils prennent garde, en allant d'une note à l'autre sur une même voyelle du texte, à ce que les organes de l'articulation, c'est-à-dire les lèvres, la langue, les dents, le palais, toute la bouche, demeurent dans l’immobilité la plus complète : la glotte seule doit être en mouvement; c'est elle qui articule chaque note; mais ce n’est pas le gosier, encore moins la poitrine. Distinguer les notes et les marquer toutes successivement par des coups de gosier et des mouvements de poitrine, nous l'avons dit et répété, ce n’est plus chanter. D'un autre côté, si l'on remue quelques-unes des parties de l'organe vocal pendant que l'on exprime plusieurs notes successives sur une même voyelle, celle-ci se trouve altérée et remplacée par des v40# ou d’autres sons en manière de diphtongues tout aussi peu à leur place. Quelquefois même il arrive que, par suite de la même négligence, on fait intervenir une consonne supplémentaire, comme /, {, m, ou #, d'un effet plus déplorable encore.
+
+QuAND on passe d’une syllabe à une autre, la rencontre de deux consonnes oblige à étouffer le son, comme nous l'avons vu à propos de la note liquescente; mais partout ailleurs le son doit rester plein et s'échapper aussi pur que possible. Quand arrive le moment de fermer la bouche, il est nécessaire d’attendre que le son soit complètement expiré, et il faut qu’elle soit de nouveau complètement ouverte lorsque le son recommence.
+
+Nous aurons l’occasion de revenir sur cette question essentiellement pratique. Dans ce qui précède, nous avons étudié  les formules en elles-mêmes et d’une façon absolue; mais il faut encore, pour les bien exprimer, tenir compte du rapport qu'elles ont avec les syllabes diverses auxquelles elles se trouvent jointes. C'est pourquoi nous allons rechercher dans ce qui va suivre, l'influence qu'exercent les paroles du texte sur la valeur des notes soit simples soit composées.
+
+Mais afin de pouvoir reconnaître Îles droits que le texte conserve dans le chant, nous devons d’abord savoir ce qui est exigé dans une simple leéture pour une prononciation correcte du latin.
+
+Nous avons plus d’une fois signalé l’affinité qui existe entre le langage et la musique. L'un et l’autre mettent en jeu les mêmes éléments, c'est-à-dire les sons diversement modifiés quant à l'intonation, la force ou la durée; et diversement combinés, pour former d’une part les divers membres du discours, d'autre part les différentes parties de la phrase musicale. Rien donc de surprenant que parmi les règles qui président à la combinaison et à l'émission des sons, beaucoup se trouvent être communes à la parole et au chant; et de fait, nous aurons souvent à emprunter à la grammaire les lois du chant grégorien. On sait du reste que plusieurs parties de l'office sont simplement récitées à haute voix, et que parmi celles qui sont chantées, plusieurs le sont sur un ton qui diffère peu de la simple lecture; et celles-là même qui sont pourvues des plus riches modulations, nécessitent encore, sinon l'application du moins la connaissance des règles de la bonne lecture. 

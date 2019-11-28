@@ -1,0 +1,247 @@
+L est facile de voir que dans la notation du chant grégorien, telle que la tradition nous l’a transmise, les signes sont loin d'avoir toujours une valeur fixe et absolue. Cette valeur, au contraire, varie suivant les circonstances; et pour la déterminer il est né cessaire d’avoir égard à la position diverse que les notes peuvent occuper par rapport à la phrase grammaticale ou à la phrase musicale.
+
+Ox ne peut nier qu'il n’en soit d’abord ainsi de la note Simple. Bien qu’elle soit toujours identique dans sa forme, il serait contraire aux lois les plus essentielles du chant de l'exprimer toujours de la même manière; elle a une valeur variable, une valeur déterminée, comme nous l'avons dit, par la nature de la syllabe à laquelle elle se rapporte.
+
+La formule, de son côté, s'exprime par des sons multiples, mais si intimement liés que les auteurs en parlent comme d’une note unique : flures chorde sonant dum una nota profertur. Pour eux, le fodatus est une note, la c/vis une note, le forculus, le porreltus, etc. chacun une note. La formule tient la place tantôt d'une note d'accent, tantôt d'une note de pause, tantôt d’une note ordinaire. L'expression que la note simple recevrait de la syllabe du texte passe et se fond dans la formule.
+
+— —— Ainsi —2 RE 5e chante comme A
+
+s’il y avait : Iste sanctus Iste sanctus,
+
+c'est-à-dire avec deux accents et deux pauses. Ici la première syllabe de chaque mot est, dans le chant syllabique, forte sans allongement; la seconde longue, mais faible. Que la voix en se reposant sur # s'incline jusqu'au /a, le caraétère du mouvement restera le même; qu'ensuite la voix au lieu d'attaquer directement le / donne, pour commencer sanélus, un so/ de préparation, ce s0/ recevra le coup de l'articulation au dépens  du #, qui sera moins fort et devra se lier au s0/ : l'accent se trouvera fondu dans le Sodatus, et la syllabe restera aussi bien accentuée dans un cas que dans l'autre, sans qu’il soit besoin d'arrêter le mouvement sur la note culminante du fodafus. Les syllabes Z5s et {#s conserveront la valeur qu'elles avaient auparavant. Nous trouvons les mêmes notes dans l'exemple suivant :
+
+te
+
+Lux æ-térna.
+
+Ici /«x possède à la fois l'accent et la petite pause de suspension; la cAvts suivante se compose de deux sons simplement liés, et coulés doucement sans nuance particulière. Le reste se chante comme saséus dans l'exemple que nous étudiions d'abord.
+
+CETTE liaison des sons de la formule, qui tend à l'identifier autant que possible à la note simple, est ce qui en fait le caractère essentiel. Pour le reste, la formule comme la note simple est soumise aux règles de position. On l’a remarqué avec raison, “ les règles théoriques, modifiant la signification apparente des signes, entraient si bien dans les procédés musicaux du moyen âge, que la notation proportionnelle, à son début, ayant à expliquer des combinaisons souvent compliquées, ne se mit pas en peine de chercher des signes nouveaux, et laissa à la théorie, aux règ4es de position, le soin de suggérer au chanteur souvent toute autre chose que le sens apparent des notes.”
+
+Ainsi, dans une formule, quelle qu’en soit la figure, le dernier son est tantôt long, tantôt bref : il est long à la fin d'une syllabe musicale, plus long après un neume, très-long lorsqu'il termine la distinction; il est bref, au contraire, avant une syllabe dans un mot déjà commencé. C'est là une première différence de valeur due à la différence de position; elle en entraine plusieurs autres : nous allons signaler les principales.
+
+1° Si la formule est composée de deux sons {clivis ou fodatus), elle est toute entière allongée avant les pauses.
+
+2° Si la formule comprend trois sons, elle n’est toute entière ralentie qu'avant un repos final. Mais quand elle termine seulement une phrase ou un membre de phrase, le dernier son seul est long, les autres brefs. Ailleurs le dernier son étant bref, le  premier peut être long, surtout s’il est culminant. Nous ne voulons pas dire qu'il faille mesurer le chant : les longues sont surtout les notes de pause; les brèves sont celles qui suivent le
+
+simple mouvement de récitation. Voyons les exemples : Torculus composé de trois notes brèves, 1 ; ou de deux brèves
+
+et d’une longue, 2 :
+
+I 3 un = : mundä- bor. Confortä- tus est.
+
+Climacus commençant par deux brèves et finissant par une longue, 3; ou commençant au contraire par une note longue et finissant par deux brèves, 4 :
+
+— 3 4
+
+= s = * a ne | a | Et rege e-0s. usque in ætér-num.
+
+Porreilus composé de deux notes brèves suivies d’une longue, 5; ou d'une longue suivie de deux brèves, 6 :
+
+5 EEs NÉ ——— #2 Omnes gen-tes. Vi= ta.
+
+Dans la formule de trois sons, le premier et le dernier ne doivent jamais être à Zz fois plus prolongés que le second.
+
+On doit surtout éviter de donner un mouvement saccadé à la note médiaire des formules dont il vient d’être question, surtout du clmacus où du scandicus.
+
+CETTE dernière formule suit la règle que nous avons donnée, c'est-à-dire que sa note finale est longue si elle coïncide avec une pause, brève si elle précède une syllabe dans le corps d'un mot. Dans ce dernier cas, on doit donner un léger mouvement d'impulsion à la voix sur la seconde note, sans toutefois la prolonger.
+
+C CR | fs
+
+Euge serve bo-ne.
+
+Exemple :
+
+ ON en agit ainsi pour. éviter d'amener l'effort de la voix sur la note qui précède immédiatement une syllabe dans un mot déjà commencé. Les exemples qui vont suivre montreront comment l'application du même principe peut introduire plusieurs nuances dans l'exécution d’une même formule.
+
+Exemple de séries descen- = 5,
+
+dantes de quatre notes : + seculérum amen.
+
+LA formule finale de cet exemple se chantera en donnant une légère impulsion de voix à la note /a sans la prolonger; dans cette formule, au reste, il y a deux notes longues, s0/ et ré; les deux autres, /& et #12 sont brèves; et si on voulait l'écrire en notes carrées et losanges ayant le sens que leur donnent les modernes, c’est ainsi qu'on devrait la traduire :
+
+A , ‘a
+
+La même formule s’interprétera autrement dans cet exemple :
+
+Er
+
+coœæ— li e-nâ4r- rant.
+
+Dans la formule #2, ré, ut, si, le premier son est fort, les autres faibles; le dernier est long. Il n’y a pas, comme dans l'exemple précédent, reprise du mouvement d'impulsion à Îa seconde note, maïs plutôt à la troisième; et encore faut-il que cette reprise, pour être acceptable, soit peu sensible. Elle pourrait être plus marquée, si la formule conduisait à une syllabe
+
+dans le même mot. RE
+
+Exemple : &
+
+Rex cœ- lestis.
+
+La formule qui se rapporte à la première syllabe du mot cœléstis se chantera comme si elle était écrite ainsi :
+
+Eh  Daxs l'exemple suivant la formule se subdivise aussi, dans l'exécution, après la deuxième note; elle pourrait, dans la notation, se partager en deux, comme nous l'indiquons en regard même de l'exemple :
+
+== ge
+
+Agnus De- i. Agnus De- i.
+
+GÉNÉRALEMENT pour les séries comprenant cinq notes, la reprise du mouvement d’impulsion se fait sur la troisième note; surtout si cette note est /z ou #/, parce que ces notes sont presque toujours modales.
+
+Nous avons déjà donné la manière d'exprimer les fodatus avec ou sans p##s/lum qui se suivent en montant, ainsi que le mouvement inverse indiqué par une suite de rhombes.
+
+Nous voyons ici une fois de plus combien est malheureuse, fausse et nuisible à la bonne exécution du chant grégorien, l'habitude que l'on a trop généralement de chercher dans la forme diverse des notes une valeur que cette différence de forme n'est nullement destinée à représenter. Sans doute il y a dans le plain-chant, tel qu'il doit être exécuté, des notes plus longues et d'autres plus brèves, des notes plus fortes et d’autres plus faibles; mais ce qu'il y a surtout, ce sont des notes liées et d'autres détachées. Les valeurs différentes, en ce qui concerne la durée ou l'intensité du son, dépendent entièrement de la position qu'occupe chaque note soit dans la formule du chant soit dans le mot du texte, comme nous l'avons expliqué. C'est pourquoi il arrive très-souvent, par exemple, qu'une note losange, mal à propos réputée brève par les modérnes, est de fait, en suivant le mode de chanter des anciens, plus longue qu'une note carrée, ou même qu'une note caudée.
+
+Nous voyons encore qu'il y a plusieurs sortes de longues, comme aussi plusieurs sortes de brèves; non-seulement en ce sens qu'une longue peut être plus ou moins longue, comme une brève être plus ou moins brève; mais en ce sens surtout que le carattère de la prolongation n’est pas le même pour toutes les longues, comme toutes les brèves non plus ne sont pas brèves de la même manière; et cela parce que la cause, soit de la  prolongation soit de l’abrégement n’est pas la même pour telle longue que pour telle autre longue, pour telle brève que pour telle autre brève. Il y a en effet, pour ce qui est des longues, la longue d'accené, qui est plutôt forte que longue; il y a la longue de pressus, celle-là a un caraétère également spécial; il y a principalement la longue de Pause, qui évidemment ne ressemble pas aux deux autres.
+
+Nous allons, dans un exemple, résumer tout ce que nous avons dit de la valeur des notes dans le chant grégorien. Pour plus de clarté, lorsqu'il y a reprise du mouvement d'impulsion sur la même voyelle, nous la répétons; en cela nous imitons ce que font les Grecs dans leurs livres de chant, où allant plus loin encore ils écrivent la voyelle, non-seulement autant de fois qu'il y a d’impulsions, mais autant de fois qu'il y a de notes :
+
+5 2 134 ,.$ 355$ 2. 35 6 7 6 8 9.
+
+Justus Déminus  etjusti-ti- am diléxl- 1  1- fi it;
+
+3 3166 5 10 , 6 8 1213 14 11 10 ss
+
+EN æquitâtem vi- dit vu- Itu- us e- jus.
+
+#  Demi-pause avec ou sans respiration.
+
+##* Pause complète avec respiration. *## Repos final. 1. Syllabe accentuée. 2. Syllabe faible avec temps vide ou retard : #07a ultime vocts. 3. Syllabe commune, n'ayant de valeur que ce qu'il lui en faut pour être nettement articulée. 4. Groupe proféré d'une seule impulsion de voix avec pause finale en manière de point d'orgue. 5. Groupe de sons liés, sans arrêt ni au milieu ni à la fin du groupe. 6. Groupe de sons liés avec temps vide ou retard de la voix sans silence.  7. Deux groupes de sons liés avec pressus à la jonction des groupes.
+
+8. Groupe commençant par deux sons unis à la manière des syncopes et finissant par un retard de la voix très-peu sensible.
+
+9. Groupe s'unissant au précédent et se proférant pour cela en manière de #orculus, c'est-à-dire légèrement.
+
+10. Groupe de sons liés et prolongés à cause du repos.
+
+11. Groupe de sons liés avec un léger accent sur la note culminante.
+
+12. Son appuyé pour préparer le guz/isma.
+
+13. Groupe de trois sons dont le premier est un trille, et si on le simplifie, il faut qu'il soit coulé très-légèrement sans secousse; le dernier reçoit du mordant pour préparer le second guz/isma.
+
+14. Groupe commençant par un trille et finissant par un léger retard de voix.
+
+CEs manières différentes d'exécuter soit la note simple, soit les formules elles-mêmes, sont presque toujours, on le voit, motivées par le texte. C'est le texte, en effet, qu'il s’agit d'exprimer et de faire valoir. Pour cela, il est nécessaire avant tout de sauvegarder d'une part l'unité du mot ainsi que le rapport mutuel que doivent avoir entre elles les diverses parties de la phrase, et d'éviter d'autre part la confusion des éléments qui composent soit les mots, soit les membres de phrase, soit les phrases. Relativement à l'unité du mot, nous avons vu que l'accent est l'élément condensateur appelé à la produire. Toutefois l'accent ici n'est qu'un moyen, moyen qui, à la vérité, est nécessaire dans le discours et dans le chant syllabique; mais qui, même là, n'existe pas pour lui-même : aussi dans le chant composé de formules, doit-il souvent dissimuler son action ou même disparaître complètement, lorsque le résultat qu’il produirait est obtenu par d'autres moyens.
+
+ComME nous le disions plus haut, souvent au lieu d'affeéter une note spéciale de la formule dans le chant, comme il affeéte une syllabe particulière dans le mot, l'accent se trouve comme renfermé et caché dans le groupe. Cette différence entre le mot et la formule, pour ce qui concerne l'accent, tient à ce que dans ce mot  les syllabes étant distinguées par l'articulation, sont unies moins intimement que ne le sont les éléments de la formule. Dans le mot, en effet, l'oreille distingue toujours la syllabe sur laquelle porte surtout l'effort de l'accent; dans la formule, la liaison des sons rendant moins sensible la transition de l’un à l'autre, empéche de faire la même distinction. C’est pourquoi l'accent, au lieu d'appartenir à telle ou telle note de la formule, se trouve comme fondu dans la formule.
+
+Exemple : —3 è Fe Te Deum laudgmus.
+
+L'accent de Déunt, n'a besoin ici d'être marqué ni sur le première
+
+note du fodatus, ni sur la deuxième; il est suffisamment exprimé
+
+par les deux sons liés de la formule; l'effort de la voix qui met trait en rélief la syllabe accentuée, si l'on chantait syllabiquement, at
+
+RS Te Déum.
+
+se trouve reparti sur les deux sons du poda{us remplaçant le so/, et contenu virtuellement dans la formule. Celle-ci simplement coulée et portant la voix de la première syllabe du mot à la dernière, sans arrêt nt renforcement, équivaut à la note simple s0/ de la modulation syllabique. Ce s0/, du reste, renferme implicitement le / de transition, et pour peu que l'on sache donner de l'aisance et du lié au chant, ce /, lors même qu'il ne serait pas écrit, se trouverait à moitié entendu; qu'on le laisse sortir, voilà le Sodatus, tel qu'on le doit exécuter dans l'exemple donné et dans les passages analogues.
+
+[IL y a des circonstances où le son qui termine soit le foda/us, soit le scandicus, a plus d'éclat que dans le cas précédent; c'est lorsque ce son final est culminant, comme au mot /audémus du Te Deum : on pourrait dire alors qu’il est accentué; il est inutile toutefois de marquer cet accent dans la notation; la note culminante, dans le cas dont nous parlons, reçoit sa force du mouvement même de la modulation, sans qu'il soit besoin d'inviter le chantre à appuyer davantage sur elle : l'accent, par  cela même qu'il ne peut se supprimer dans la pratique, n’a pas besoin d’être exprimé dans la notation; il se fera mieux s'il n’est pas marqué.
+
+LORSQUE la note culminante d'un groupe n'est pas liée à la précédente en manière de fodatus, il y a une légère reprise du mouvement d'impulsion, et par là même cette note est accentuée comme si elle était la première du groupe : ainsi dans les deux exemples suivants la note culminante, qui est caudée, sera forte ; non toutefois parce qu'elle est caudée, mais parce que n'étant pas liée à une note précédente, elle reçoit l'attaque de la voix.
+
+Sous prétexte de mieux accentuer les mots, on a quelquefois essayé, au mépris de la tradition, de décharger les syllabes non accentuées des notes qui leur appartenaient, pour les amasser sur la syllabe marquée de l’accent tonique et très-improprement dite syllabe longue. De ce que la voix se tient plus longtemps sur une syllabe ou lui donne plus de notes, il ne s'ensuit pas que cette syllabe soit mieux accentuée. C’est même assez souvent le contraire. Prenons pour exemple ce commencement d'Antienne :
+
+ee em nn
+
+Veni sponsa Christi  4ccipe co-rénam.
+
+Tous les mots sont ici parfaitement accentués; mais le mot corônam ne l'est pas moins bien que les autres; et les deux notes de la première syllabe, loin d'empiéter sur les droits de la syllabe suivante, imprime au contraire à la voix un élan dont l'accent bénéficiera. Le mouvement perdrait de sa force en même temps de sa grâce, et le mot serait beaucoup moins bien accentué, si la seconde note de la c/vss était reportée sur la syllabe suivante :
+
+âccipe coronam.
+
+ MErtrons maintenant en regard ces deux exemples :
+
+—— a — in æternum in æternum
+
+LE mot n'est-il pas aussi facile à accentuer dans le second que dans le premier? La voix qui dans un cas se repose sur la dernière note en la prolongeant quelque peu, comme le recommande Gui d’Arezzo, ondule légèrement dans l’autre sur cette même note; mais les autres syllabes s'exécutent dans les deux cas absolument de la même manière. Quoi de plus gracieux que le forculus final? quoi de plus lourd et de plus embarrassé que
+
+ce qui suit ? | se ———EE fi
+
+in æter- num
+
+La syllabe accentuée est, il est vrai, la syllabe principale du mot : elle est au mot ce que la tête est au corps, c’est-à-dire le centre du mouvement; mais, sauf dans les hydrocéphales, la tête n’est pas tout le corps. Laïssons donc à l'accent sa force et sa prépondérance, mais n'amaigrissons pas les mots jusqu’à leur enlever tout corps et toute consistance.
+
+Au sujet de Îa répartition des notes du chant sur les syllabes, il se présente une difficulté spéciale, facile à résoudre quand on tient à respecter les droits de la tradition, et disons-le aussi, ceux de la mélodie et du rhythme, mais difficile en face des préjugés actuels et des habitudes prises.
+
+Les anciens ne se sont pas fait scrupule de placer souvent plusieurs notes, non-seulement sur une syllabe non accentuée, mais sur la pénultième des mots qui ont l’accent à l'antépénultième, comme Déminus. Cette pratique est contraire aux idées modernes sur l'accent et la quantité; comment l'expliquer chez les anciens? Etait-ce ignorance ? était-ce mauvais goût ? était-ce négligence ? On a dit ou supposé tout cela. Examinons. Quant au fait, il ne peut être nié. Bien que l'on ait tenté parfois d’en détourner des yeux l'évidence, il est bien certain que non-seulement au moyen âge, mais même avant S. Grégoire, les pé nultièmes faibles recevaient, comme toutes les autres syllabes, selon les besoins de la mélodie, plusieurs notes, parfois en assez grand nombre. Sous ce rapport, nous n'apercevons pas la moindre divergence dans les manuscrits. Bien plus, cette pratique que l'on a voulu attribuer à des âges ignorants ou barbares, est suivie par les Grecs aussi bien que par les Latins. Qu'on ouvre un livre de chant, soit manuscrit soit imprimé, de la liturgie grecque, on trouvera tout aussi bien que dans les livres occidentaux Æyrte, par exemple, avec une série plus ou moins longue de notes sur la pénultième 77. Faut-il dire que les Grecs ignorent les conditions de prononciation de leur langue, lorsque même à une époque déjà tardive, ils l’écrivent avec une pureté toute classique? Pour la langue latine, bien qu'elle ait perdu avec le temps, plus que Île grec, quelque chose de sa forme antique, si l’on veut cependant trouver un beau latin, c’est encore dans les préfaces, les oraisons et les autres compositions liturgiques des Ambroise, des Léon, des Gelase, des Grégoire, qu’il faut aller le chercher; et l'on voudrait que la manière de prononcer et de chanter, adoptée par ces maitres de la parole comme de la doétrine, ne soit ni bonne ni acceptable! Nous nous offenserions des pénultièmes brèves chargées de notes, lorsque l'oreille des anciens, assurément plus délicate que la nôtre, non-seulement ne s’en offensait pas, mais disons la vérité, s’en délectait!
+
+ON parle d'accent et de quantité. Ecartons d’abord la ques. tion de quantité; car à ce point de vue Démine, par exemple, est composé de trois brèves, et il ne devrait pas plus être permis de mettre deux notes sur Do ou sur #e que sur #2. Mais l'accent? L'accent, nous le disions plus haut, n'est de sa nature ni long ni bref, et à l’origine il était plutôt bref que long. Les anciens n'ignoraient pas la valeur de l'accent, et quand c'est le cas de l’observer, c'est-à-dire dans la simple récitation ou dans les mélodies syllabiques, ils n'y manquent pas. Ainsi, par exemple, dans le chant des Psaumes, des Litanies, des Epitres, des Evangiles, ils savent parfaitement privilégier la syllabe accentuée, comme le prouvent les exemples suivants pris dans les manuscrits. Ils la mettent en relief, non pas en la prolongeant, mais en lui donnant l'élévation musicale qui  répond à la tendance naturelle que nous avons eu, plusieurs fois déjà, l’occasion de lui reconnaître.
+
+nn
+
+Ê—asnn ne a 0—0 00 02? 0 2 a”, s
+
+aperufisti peccäta eGrum. et plebs tua lætäbitur in te. (Processional de l’Abbaye de Ste Edith. XIIIe siècle.)
+
+es 3
+
+émnia peccâta erum lætébitur in te.
+
+et non pas :
+
+Et pour les Epitres : Dans ie _ +02 À =
+
+iterum dico gaudéte. et intelligenti-as vestras. (Missel de S. Denys de Nogent. XII° siècle. )
+
+a a et non Banane a a
+
+pas :
+
+fterum dico gaudéte. et intelligenti-as vestras.
+
+CE discernement des syllabes, qui est évident dans tous ces passages, et fait recourir, au besoin, à des anticipations assez longues, à des modifications de formule psalmodique, montre assez que nos pères, même aux plus bas siècles du moyen âge, si l'on veut s'exprimer ainsi, étaient loin d'ignorer qu'il y eut des syllabes privilégiées et des syllabes faibles.
+
+OR, dans ces mêmes manuscrits où l’accentuation est si scrupuleusement observée pour le chant syllabique, on trouve à chaque instant des passages tels que ceux-ci :
+
+Ç a — ; pet 5
+
+ST pa
+
+Démine quinque talénta. Kyrie e-lé-ison. Dômi- ne.
+
+Evidemment, il y a une raison à cette différence.
+
+LA raison principale, nous l'avons déjà insinuée, c’est qu'avant tout les syllabes de chaque mot doivent être unies, et que si dans le chant syllabique l'accent est le moyen nécessaire pour cela, dans le chant que nous appelons neumatique, il en va tout  autrement. L'observation de l’accent, lorsque le chant procède par neumes ou groupes de note, serait intempestive et produirait l'effet contraire à celui que l'on doit attendre. Dans le chant syllabique, il arrondit le mot et le moule, pour ainsi dire, de façon à n'en faire qu'un seul tout; dans le chant neumatique, c'est la formule qui relie les éléments du mot : l'accent les éparpillerait, l'accent briserait la cadence du mot. Dans le dernier exemple que nous donnions plus haut, et qui paraît le plus choquant, la voix tombe naturellement sur la dernière syllabe; pour en juger sans prévention, que l'on remplace si l'on veut Démine par festfna : on verra combien cette cadence est douce et naturelle; mais que l'on chante comme les modernes :
+
+_ des a M
+
+D6- mine.
+
+Il y a ici, avant d'arriver à la syllabe, un choc antirhythmique, le faux pas d’un homme qui trébuche. Pour l'oreille, les dernières syllabes mi#e ct les notes qui leur correspondent sont isolées de ce qui précède: le texte et la mélodie en souffrent à la fois. En voulant sauvegarder les droits de l'âccent, on est arrivé à un résultat opposé à celui-là même pour lequel l'accent existe, c'est-à-dire qu'au lieu de fondre les éléments du mot en un seul tout, on les a disjoints. Cette fusion est parfaite avec la forme mélodique ancienne; l'oreille au point de vue rhythmique se trouve, avec cette forme seule, pleinement satisfaite.
+
+Nous verrons bientôt ce que dit Gui d'Arezzo des conditions du rhythme, et comment ce grand maître exige que les formules dans le chant se répondent l’une à l’autre et se fassent équilibre. C'est là tout le secret de la marche facile des mélodies, parce que dans chaque pièce, la voix s'étant pliée dès l’abord à certaines coupures rhythmiques, suit librement et sûrement cette allure dans toute la suite du morceau. Or, tout cela est détruit, si dans le but de décharger une syllabe, on en surcharge une autre de plusieurs notes qui ne lui étaient point destinées. L'équilibre se trouve rompu, et au lieu d’un chant doux et facile, on a quelque chose d’inégal et de heurté. C'est ainsi qu'on  tombe dans le genre cahoteux, pour employer ici une expression de Lebeuf.
+
+Crrons pour exemple entre mille la phrase mélodique suivante : |
+
+A a
+
+Glôri- a in excélsis De=-o.
+
+CE thème aussi simple que naturel se retrouve jusqu’à sept fois dans ce G/ria, mais il n'a été conservé avec son allure facile et bien rhythmée, qu'à une seule phrase dans les livres modernes :
+
+es
+
+a a
+
+Qui sedes ad dexteram Patris.
+
+Aux autres phrases, il n’y a plus ni rhythme, ni grâce; mais une succession de notes et de syllabes qui se heurtent les unes contre les autres :
+
+a «a ( ER pion
+
+Gl6— ri-a G16- ri=a
+
+CES modifications, aussi embarrassées l’une que l'autre, sont :
+
+1° contraires à la tradition constatée par l'accord unanime des manuscrits;
+
+2° contraires aux lois du langage, car elles défigurent les mots;
+
+3° contraires au goût musical, car elles déforment les mélodies, aussi bien que le rhythme.
+
+Harons-nous d'ajouter que cette liberté d’allure dans le chant, incompatible avec les prétendues nécessités de l'accent, est tellement nécessaire aux compositeurs, que les plus grands musiciens depuis trois siècles, depuis le rewouvellemeut plus ou moins judicieux des études classiques, ont tenu à la conserver. Toutes les fois que dans leurs œuvres, ils ont trouvé bon de placer plusieurs notes sur une syllabe du texte, ils ont consulté uniquement l'allure de la mélodie, les besoins du rhythme, mais non ce que l’on appelle si improprement la quantité.  Disons donc avec S. Augustin : Wusiæ ratio, ad quam dimensio ipsa vocum rationabilis el numerositas pertinet, non curat nisi ut corripiatur vel producalur syllaba, que illo vel 1llo loco est secundum rationem mensurarum suarum. (De musica. lib. II. c. L.)
+
+BIEN qu'il y ait, ainsi qu'on le voit, des notes longues et des notes brèves dans le chant grégorien, comme il y en à dans toute parole, ce n’est pas sur cet objet que doit se porter principalement l'attention. Qui songe en parlant à scander ses mots ? il suffit que l’on ait soin de les bien prononcer et de bien les distribuer selon les divisions naturelles de la phrase. Ainsi en est-il dans l'exécution des mélodies liturgiques. Les notes y ont une valeur réelle et nullement arbitraire, mais naturelle, qui résulte comme spontanément d’une récitation bien divisée etbien phrasée; sans que cette valeur ait besoin d'être écrite. C'est pourquoi la notation traditionnelle de la musique grégorienne n'offre aucun signe pour exprimer direétement la brièveté ou la longueur relative des sons. Il suffit que l'on sache bien grouper soit les syllabes, soit les notes; et par là même, sans que l'on y songe, les longues et les brèves, les fortes et les faibles viendront à leur place et produiront le rhythme voulu.
+
+PossÉDANT ainsi tout ce qui est nécessaire pour donner pratiquement au chant grégorien le rhythme qui lui convient, nous pourrions nous dispenser d'en donner la définition. Si le rhythme est l'âme du chant, c’est la dévotion qui est l’âme du rhythme. Or, il vaut mieux sentir la dévotion que de la définir : ainsi en est-il du rhythme; il faut avant tout le sentir et l'exprimer, et pour cela s'inspirer des divisions du texte et des formules du chant, comme nous l'avons enseigné. Toutefois pour aider davantage à la pratique du rhythme, nous allons en exposer brièvement la théorie. 

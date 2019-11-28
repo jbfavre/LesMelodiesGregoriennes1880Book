@@ -1,0 +1,277 @@
+iN vain chercherait-on, soit au moyen des points superposés, soit au moyen des accenis combinés, à découvrir, comme plusieurs l'ont tenté, l'intervalle précis que doit franchir la voix en passant d'un son à un autre. Sous ce rapport, les neumes, quoi que l'on ait pu dire, n'offrent pas d'indication directe : ils ne peuvent suffire par eux-mêmes à déterminer exactement l'intervalle des sons qui composent la mélodie. Indirectement sans doute, la présence de certaines formules, et la manière dont telles ou telles de ces formules se succèdent, peuvent servir de points de repère, et comme de clef pour la leéture du chant. C'est ainsi que le s{rophicus, par exemple, correspondant presque toujours à la note #/ ou à la note /a; le guilisma, a un intervalle de tierce mineure; ces deux neumes font indireétement mais véritablement fonction de clef. Toutefois il est vrai de dire que les neumes n'ont pas ce but, et que rien dans ce qui les constitue essentiellement, ne peut servir à distinguer la distance tonale qui sépare dans chaque groupe tel son d'un autre.
+
+LA preuve évidente en est dans un fait aussi fréquent que facile à constater. On voit en effet, dans les manuscrits, des notes dont la forme est absolument identique et qui cependant expriment des intervalles totalement différents; c'est donc que la forme de ces notes n'indique pas les intervalles. Que l’onexamine, par exemple, dans un chant les différents fodatus qui s’y rencontrent, on trouvera toujours que cette formule correspond à deux sons dont le second est plus élevé que le premier : mais l'intervalle qui les sépare, est-il d'une seconde majeure ou mineure, d'une tierce, d'une quarte ou d’une quinte? rien ne l'indique, puisque ces podatus se ressemblent tous.
+
+LES anciens, qui faisaient usage de la notation neumatique, la nomment sswelle précisément parce que l'usage et la tradition étaient, sinon absolument le seul moyen, du moins le moyen principal pour l'interpréter.
+
+ HucsaLp, après avoir parlé de la notation alphabétique au moyen de laquelle on peut, comme il le dit, chanter une mélodie quelconque, ajoute qu'il n’en est pas ainsi de la notation usuelle. Celle-ci, dit-il, composée de signes qui affectent des formes différentes suivant différents pays, peut, il est vrai, rappeler à la mémoire une mélodie connue; mais elle ne peut servir à chanter, sans le secours d’un maître, une mélodie que l'on n’a pas apprise; car les indications qu'elle fournit sont, sous le rapport de l'intonation, vagues et incertaines; comme on le comprendra par l'exemple suivant :
+
+A 1 d / Alleluia.
+
+ON voit bien qu'ici la première note, qui est un accent aigu, suppose un son relativement plus élevé que le suivant : on pourrait toutefois lui donner plus ou moins d’acuité, sans contredire à ce qui est écrit. La seconde note, qui est un accent grave uni à l’aigu, indique par conséquent une dépression de la voix; mais faut-il baisser le ton d'un degré, de deux ou de trois ? il est impossible de savoir là-dessus l'intention du compositeur, si l'on n'entend quelqu'un chanter la note. Hucbald ajoute qu'il en est ainsi du reste; puis il indique la manière de fixer avec certitude la valeur tonale des sons pour suppléer à l'insuffisance des neumes. (Scriptores t. I. p. 117. Cf.t. II.
+
+. 258). è ou déterminer le degré précis de chaque note sur l'échelle, faciliter ainsi l'étude du chant, et garantir les mélodies grégoriennes des altérations qui allaient devenir de plus en plus imminentes, on a eu recours à divers moyens. Depuis longtemps déjà, mais dans une mesure très-restreinte, c'est-à-dire, presque exclusivement pour les exemples donnés dans les traités de musique, on s'était servi de la notation alphabétique soit seule, soit jointe aux neumes. Quelques mattres de chant, comme S. Odon, songèrent, dans un but spécialement didaétique, à appliquer ce procédé à toutes les pièces du Graduel et de l'Antiphonaire. C'est ainsi qu'a été écrit, et écrit pour les écoles, comme nous l’avons déjà remarqué, le manuscrit bilingue de Montpellier, dont l'heureuse découverte par M. Danjou, ne  nous laisse pas moins dans le regret pour la perte de l'Antiphonaire de S. Odon.
+
+PENDANT que Jon cherchait ainsi à faciliter la leéture des neumes, en leur adjoignant les lettres; dans le même but et peu à peu se formait et se perfectionnait une autre méthode, qui devait avoir un succès plus universel et plus durable.
+
+Pour indiquer d’une façon moins’ abstraite que par le secours des lettres, les intervalles que la voix doit parcourir en chantant, la pensée vint assez naturellement de disposer les neumes à des hauteurs diverses suivant la différence des intervalles. Cette manière fut d’abord appliquée à la notation à Points superposés; et cette notation en effet, par sa nature même, était déjà presque cela; il ne fallait que laisser suivre son cours à la pensée qui avait superposé les points pour arriver à faire éclore comme spontanément tout le système.
+
+NEANMOINS, même avec les points, il fallait au transcripteur un soin extrême pour bien les échelonner et les disposer à la hauteur convenable. Afin de mieux y réussir, le copiste traçait une ligne autour de laquelle chaque note trouvait sa place. Au commencement de la ligne était écrite la lettre correspondant à la note qui devait avoir sa place sur la ligne même; sinon, l'usage appreriait à connaître cette note.
+
+Surrosons que ce soit F (fa). Dans ce cas, les notes E (mi) et G (sol) se trouvaient tout près de Ia ligne, l’une audessous, l’autre au-dessus. Plus haut que le G (sol) venait À (la), et plus bas que E (mi) la note était D (re); et ainsi de suite, pour les autres notes, selon leur dégré respectif de gravité ou d’'acuité.
+
+La méthode était simple ; mais plus les points représentant les sons devaient être éloignés de la ligne, plus il était difficile au transcripteur de les placer à la distance voulue, et au chantre d'apprécier cette distance.  C'EST pourquoi il devenait nécessaire de tracer une seconde ligne qui, en fixant la place de la note distante d'une quinte de la première ligne, rendait certaine la leéture de cette note et de ses voisines.
+
+C s
+
+£ a. Ï  . re mi fa so la si ut re mi SANS cette seconde ligne, la distance de s7 et #/{ restait ambiguë; plus haut, celle de r# et #3 impossible à voir; mais avec les deux lignes, il devient plus facile de fixer tous les degrés de l'échelle; pourvu toutefois, en ce qui concerne la note /, que celle-ci soit bien au milieu des deux lignes; et aussi que le 74 grave ne monte pas trop près de la ligne du bas, et enfin que le mi aigu n'approche pas trop de la ligne supérieure. Si donc le copiste n'était pas guidé par un coup d'œil sûr, il y avait encore là matière à erreur; il ne restait plus, pour couper court à toute confusion et à tout embarras, que de tracer une ligne au milieu des deux autres, répondant à la note 2.
+
+C
+
+£
+
+L . Enfin, selon que le chant s'étend vers les sons graves ou vers les sons aigus, on ajoutait une quatrième ligne
+
+soitau C soit au : dessous + - dessus € nl def: 1! dec: #
+
+Ï
+
+Et c'est ainsi que se trouva inventée la portée actuelle de quatre lignes; et avec elle, les clefs : celle de C ou d’xé, celle de F ou de /a. L'on employait quelquefois simultanément ces deux clefs, comme nous l'avons écrit plus haut; mais plus souvent une seule suffisait; on trouve, selon le besoin,
+
+tantôtla € tantôt la £& clefd’uf: - clefde /a:
+
+ Quelquefois d’autres lettres, spécialement les lettres a, ou g, ou 6 font, elles aussi, fonétion de clef :
+
+S
+
+G
+
+Dans l'usage actuel, le # ne dispense pas de la clef d'#f. De son côté, le G n'est plus usité que pour la portée de cinq lignes dans la musique moderne.
+
+AFIN que l'œil pôt discerner plus promptement la ligne qui portait la lettre-clef, cette ligne fut distinguée par une couleur. Le rouge fut assigné généralement à la ligne du /z et le jaune à la ligne de l’#f. Quelquefois lorsque le /a, désigné par le minium, se trouvait occuper un interligne, on n'en traçait pas moins le trait rouge; cela du moins dans le cas où la note /z paraissait dans la mélodie; ce trait supplémentaire ne compte pas alors pour la portée, et n'en occupe pas toute la longueur.’
+
+C
+
+CE système constitue ce que l'on appelle la notation Gzidonienne, parce que Gui d'Arèzzo a, sinon inventé, du moins perfeétionné tout ce système, et l’a mis en pratique pour tout un Antiphonaire, qu'il offrit au Pape Jean XIX., ainsi noté avec les quatre lignes et les couleurs. Le Pontife fut émerveillé de ce genre de notation, par lequel était rendue si facile la lecture du chant. Dans un petit traité. De ignolo cantu, devant servir de prologue à son Antiphonaire, Gui expose lui-même les avantages de sa notation. Celle-ci toutefois ne parvint que bien à la longue à s'implanter partout; car jusqu'aux douzième et treizième siècles, on voit encore des livres notés à l’ancienne manière, c'est-à-dire avec les neumes sans lignes.
+
+L'usaer des lignes facilita beaucoup la leéture des neumes, mais n'en changea ni la forme ni la signification, du moins dans le principe.  PEU à peu cependant les neumes primitifs se trouvèrent modifiés, non dans leur forme essentielle comine groupe, mais dans leur forme graphique; et ceci sous l'influence de deux causes.
+
+D'ABORD, pour pouvoir être disposés sur les lignes, certains traits prirent plus de corps; on marqua d’un point carré la tête de la virga dont, sans cette précaution, la place sur la portée serait demeurée incertaine. Ce point devint bientôt la partie principale de la formule, et le trait qui constituait d'abord la z:rga se changea en une simple ligature.
+
+La seconde et principale cause des modifications graphiques apportées aux neumes primitifs, ce furent les changements que l'écriture en général eut elle-même à subir insensiblement. Mais au milieu de ces transformations graduelles et parallèles des neumes et des lettres, les neumes comme les lettres demeurèrent toujours faciles à reconnaître. Lorsque la plume eut élargi sa pointe, donnant aux lettres cette forme plus pleine et plus anguleuse qui carattérise l'écriture gothique, les neumes aussi prirent du corps et des angles; mais chaque groupe demeura ce qu'il était. Aïnsi le fodatus fut toujours un fodatus, le torculus un éorculu s;de même que dans le texte la lettre A fut toujours un À, le Run B, malgré les modifications propres à chaque genre d'écriture et à chaque époque.
+
+Pour nous y reconnaître plus facilement dans cette transformation graphique des neumes, nous devons distinguer comme deux courants : l’un qui se manifeste en Allemagne, l’autre en France et en Italie.
+
+L'ALLEMAGNE fut le pays privilégié du caractère gothique, qui y subsiste encore aujourd’hui; les neumes y furent écrits avec plus de rigueur, plus de logique et de tenacité que partout ailleurs, selon tous les principes de ce genre d'écriture. En France et en Italie, les livres du moyen âge sont aussi écrits en lettres gothiques, mais généralement avec plus de souplesse et de liberté : et en ce qui concerne les neumes, nous devons remarquer une différence dans la manière dont la plume est posée pour les tracer. En France et en Italie, comme en Allemagne, la plume a le bec élargi; mais en Allemagne, le bec de la plume 2 sa largeur posée obliquement, tandis qu’en France et  en Italie, il demeure dans la position verticale; ce qui donne de l'épaisseur aux traits horizontaux et un délié assez fin aux traits verticaux. Les tableaux que nous allons donner permettront de suivre les deux courants dont nous avons parlé. Nous étudierons d’abord la forme latine, puis la forme gothique des clefs; et ensuite celle des neumes, également dans les deux genres d'écriture.
+
+Les lettres, nous l'avons vu plus haut, n'ont commencé à être régulièrement en usage, comme clefs musicales, qu'avec les lignes de la portée; c'est pourquoi nous n’aurons pas à remonter plus haut que le onzième siècle, époque où apparait dans sa perfettion la notation guidonienne. Les lettres-clefs, quant à la forme, ne se distinguent pas alors des lettres ordinaires; ou s’il y a parfois, dans le même manuscrit, une différence, celle-ci tient à ce que la musique n'est pas de la même main que le texte, ou même se trouve être d'une époque postérieure.
+
+Quanp on s'éloigne de l'origine, on voit les clefs se transformer, en conservant le genre d'écriture propre à chaque époque; mais il n’y a plus entre la clef et la lettre correspondante qu'un rapport de similitude générale; l’une n’est plus, comme à l’époque primitive, la reproduction matérielle de l’autre. Ainsi dès les douzième et treizième siècles, mais surtout au quatorzième et au quinzième, on voit la clef de la musique et la lettre du texte conquérir, pour ainsi parler, chacune une existence propre et indépendante : soumises l'une et l’autre aux mêmes lois calligraphiques, chacune cependant se transforme à sa manière; mais toujours on reconnaît dans la clef d’uf la lettre C, dans la clef de fa la lettre F, dans la clef de s0/ la lettre G, dans le bémol et le bécarre la lettre B. C'est par altération que dans certains manuscrits le B guadratum ressemble à la lettre 4.
+
+IL est intéressant de voir ainsi les caraétères musicaux se transformer dans le cours des âges d’une façon presque insensible, et pour ainsi dire inconsciente. On remarque, dans ce développement graduel, une spontanéité qui fait contraste avec le besoin d'invention dont les esprits modernes sont si facilement tourmentés.
+
+Mais voyons les tableaux.  NOTATION LATINE.
+
+ÉPOQUES. CLEF DE /&. | CLEF DE sol. ° molle : durs rotundum. | quadrafum. XIe siècle. f G 4 b FE mèche, fF| Ç b h dde nn | G & H
+
+Mie mo Ib» |! NOTATION GOTHIQUE. XIe siècle. f f PF G L tb
+
+XIIe et XI11e siècles.
+
+p
+
+G
+
+a” ÿ b | — 761514
+
+ La lettre F est celle qui a subi les altérations les plus notables. Elle se compose régulièrement d’un trait vertical, d'où partent à droite deux barres horizontales : l’une au sommet, l’autre au milieu. Le trait vertical, surtout dans la notation latine, s'est arrondi, jusqu'à devenir le demi-cercle qui forme le corps de la clef de /a dans la musique moderne. Les deux barres horizontales, dans certains pays, se sont transformées en de simples points, losanges pour le plain-chant, et ronds pour la musique; ailleurs elles se sont au contraire liées, ou à la manière d’un C ou à la manière d'un 3. Celui-ci s'emploie également seul, sans le trait vertical, pour exprimer la clef de /z. La forme donnée à la clef de 50/ dans la musique, présente une analogie frappante avec le G gothique ornementé, que l'on voit dans le deuxième tableau de la page précédente.
+
+QUANT aux neumes, la forme que nous leur donnons est la plus régulière en même temps que la plus ordinaire : celle qui permet de lire plus facilement les différentes sortes de manuscrits appartenant au même genre d'écriture.
+
+Dans chaque genre de notation, il se présente en effet des particularités plus ou moins importantes qui distinguent tel ou tel manuscrit, ou du moins telle ou telle classe de manuscrits. Ces particularités consistent en ce que certains groupes sont écrits diversement, et souvent aussi en ce que certaines nuances d'exécution sont représentées par des neumes qui, non-seulement diffèrent pour le mode d'écriture, mais ne sont pas en réalité les mêmes. Ajoutons cependant tout de suite, pour que l'on ne croit pas qu'il y ait dans les manuscrits des variantes sérieuses, que ces neumes différents sont toujours analogues et donnent pour l'oreille un résultat presque identique.
+
+IL en est des formes de notation dans les manuscrits, comme des formes d'écriture; elles peuvent varier non-seulement selon les époques, mais aussi selon les habitudes et quelquefois le caprice des copistes. De plus, les neumes ne sont pas toujours transcrits par des copistes de profession, mais par des notateurs qui semblent avoir travaillé pour eux seuls. On les lit cependant, quand on est bien au fait des neumes et des mélodies, comme on lit un texte mal écrit quand on connaît bien Îa langue, parce que les lettres mieux formées font deviner lés autres.  Dans la série des signes qui commence au bas de cette page et se poursuit au sommet de la suivante, nous allons du plus simple au plus composé. La liste pourrait être plus complète; mais telle que nous la donnons, elle fera suffisamment comprendre la manière dont chaque signe va se modifiant dans le cours des siècles, sans altération substantielle, jusqu’à l'époque où les groupes se désagrégent et bientôt disparaissent, pour être remplacés par les notes du plain-chant moderne; où il n'y a plus trace de formules, mais des notes uniformément juxtaposées les unes à côté des autres. Nous ajoutons au bas de nos tableaux ces points carrés qui sont venus si malencontreusement se substituer, dans les livres actuels, aux beaux neumes grégoriens.
+
+NOTATION LATINE. Neumes ordinaires.
+
+un ë PUNCTUM.| VIRGA. | PUDATUS. CLIVIS. [TORCULUS.|PORRECTUS.
+
+ NOTATION LATINE,
+
+J SCANDICUS. | SALICUS. | CLIMACUS. SUBPUNCTIS, RRSUPINUS. n Va | / , IX e £ PAR J. f, s + 4? À /: fl /, /./ XIIe
+
+xiIte À ] À 1 A | À * 11 XIVe
+
+LV di Alt de, 1 Êz "= = a, =,
+
+s & Cu ss u ”: a,
+
+CoMME nous l'avons déjà remarqué, la tête ou point carré qui vient, à partir de l’époque guidonienne, surmonter la virga, et en est dès lors une partie intégrante et obligée, a été commandée par le besoin de déterminer avec netteté à quelle ligne ou à quel interligne correspondait cette note; car couvrant plusieurs degrés de l'échelle, elle serait demeurée dans le vague si, en la traçant, la plume n'avait appuyé sur le degré voulu.
+
+LES autres signes subissent une transformation analogue : les traits déliés des neumes primitifs se renflent en certains endroits, pour marquer la place de chacun des sons sur la portée. Il arrive alors que ce qui dans les figures était d’abord accidentel, devient la partie importante de chaque formule; et les traits, qui seuls constituaient originairement le neume, ne sont plus que de simples ligatures.  À l'époque guidonienne, le podatus a deux formes. Souvent ces deux formes paraissent l’une et l’autre dans le même manuscrit : dans ce cas le premier, qui est moins arrondi, indique des sons plus marqués; l’autre, des sons qui coulent plus légèrement. C'est un souvenir des signes Æomantens, dont nous aurons à nous occuper au chapitre suivant.
+
+Des deux formes du porrel?us, la première est la plus usitée : pour tracer cette formule, comme pour les rhombes du c/macus, le bec de la plume prend un instant la position oblique, qui est celle de l'écriture gothique; si la plume reste droite, les traits se renflent au bas et au sommet de la formule : c’est le second porrettus, qui ne diffère en rien du premier pour la valeur.
+
+Examinons maintenant les neumes gothiques.
+
+NOTATION GOTHIQUE. Neames ordinaires.
+
+ë PUNCTUM.| VIRGA.| PODATUS. CLIVIS.  [TORCULUS.| PORRECTUS.
+
+la |. l\7/1n71| 72 N
+
+IX°e
+
+se | lrdl ail na! W ml + lLIdOR IN NN #|* 14911 [0
+
+Jef) TT
+
+SL PO SJON + + +
+
+ NOTATION GOTHIQUE.
+
+Ë SCANDICUS. | SALICUS | CLIMACUS, SUBFUNCTIS. RESUPINUS. ml / l#4 4 ul sl ASS Al KR | Ar Sn 3 nl # j % J' ° f si
+
+XIVe à | t XVe @
+
+| É ‘
+
+>] #4 J it 2 ‘) Je, if
+
+Nous avons ici, comme dans la notation latine, un double podatus : Yun plus appuyé, l’autre plus coulant. Dans l'écriture gothique, la seconde forme du fodatus sert quelquefois à traduire l'piphonus. On trouve aussi, dans les manuscrits allemands, une sorte de fodafus, dont la courbe initiale est redoublée D . C'est le pes guassus. L'usage qui en est fait, et la valeur qu'on doit lui attribuer, varient selon les manuscrits : dans quelques-uns, le pes guassus équivaut, pour l'exécution, au sa/icus ; dans d’autres, au gwt/isma; mais plus ordinairement, au simple fodatus de la première espèce. Dans certaines compositions musicales du moyen âge, d’une faéture particulière et d’une exécution plus nuancée et plus expressive que ne le com porte le chant grégorien, le fes guassus apparaît plus fréquent et
+
+ demande un appui de la voix plus fort et plüs vibré, en rapport avec le genre de ces mélodies.
+
+Ox voit à la dernière ligne des deux tableaux qui précèdent, comment les traits constitutifs des formules se sont disjoints, de manière à rendre la leéture du chant très-difficile. Cette altération est analogue à la manière dont certains livres sont datés. En lettres gothiques, l'année 1500, par exemple, s'écrivait ainsi : M D; mais il n'est pas rare de voir les éléments des lettres M et D séparés de cette façon : CID I 9. Pour lire une date ainsi écrite, il faut rejoindre par la pensée ce qui a été disjoint : il en est de même des notes gothiques de la der nière période.
+
+UN certain nombre de manuscrits, particulièrement en Italie, présentent des figures de notes un peu différentes de celles que nous avons décrites, mais où l’on reconnaît cependant toujours les formules en usage partout. Ainsi dans ces manuscrits, comme on voit ci-après, la chuis est formée par la jonétion de deux traits; le premier horizontal, le second vertical; elle ressemble à la deuxième c/ivts gothique. Souvent aussi les traits servent simplement à relier les notes de chaque groupe, comme on le voit, par exemple, dans le scandicus.
+
+VIRGA. PODATUS. CLIVIS. TORCULUS. : SCANDICUS.
+
+[ST AN
+
+Pour ne pas s'exposer à faire fausse route dans la lecture des manuscrits, il est d’une extrême importance de bien voir d'abord à quel système d'écriture ils appartiennent, Il faut aussi se rendre exaétement compte des particularités que chacun d'eux peut offrir. Nous l'avons déjà dit : il y a plusieurs manières équivalentes pour le fond, mais différentes dans la forme, d'exprimer aux yeux un même effet mélodique. D'un autre côté, un signe absolument semblable extérieurement, peut avoir tel sens dans un manuscrit, et un sens totalement différent dans un autre. C'est ainsi, pour ne pas sortir du terrain où nous sommes, que le caractère d'écriture H qui, dans le latin, figure une consonne aspirée, est en grec une voyelle longue appelée #7. C'est le même signe, mais ce n’est pas la  me lettre. Il en est parfois ainsi dans les neumes : on ne doit s s’en tenir uniquement à l'aspect qu'ils peuvent présenter. Nous allons voir maintenant dans les signes d'ornement, partenant soit à l'écriture latine soit à la notation gothique, s modifications graphiques analogues à celles que nous avons édemment constatées dans les neumes ordinaires.
+
+NOTATION LATINE. Sigues d'orsement.
+
+EPIPHO- ICEPHALI- QUILIS NUS. | CUS MA, | PRESSUS.
+
+STROPHICUS.
+
+STIIYIS
+
+a lonml | IP |A
+
+IX°e
+
+4 |,n m d f BP | 4 re Pr
+
+XIe
+
+XIIe et XIIIe
+
+omlelp|ln lslnm
+
+‘ee. | «0 ons TREr M j "le
+
+FH sus, À A ‘u ‘ra, n° ass,
+
+Nous avons déjà dit ce que sont devenus chez les modèrnes sérophicus et le gui/isma.
+
+LE cephalicus et l'epiphonus, qui sont la fligue de la notation Zi rée, ont été diversement reproduits dans les derniers manu its, par conséquent aussi dans les premiers imprimés: on les
+
+raduits tantôt par une note à double queue | F, tantôt par  une caudée ordinaire 4J, tantôt par une simple carrée *. On est arrivé de la sorte à oublier que ces figures expriment toujours deux notes, et que, sans s'en apercevoir, on altérait les mélodies. Cette inintelligence et cet oubli expliquent plusieurs des fautes et des anomalies, dont aétuellement fourmillent les éditions de plain-chant.
+
+CE que nous venons de dire ne s'applique pas uniquement à la notation latine; c'est pourquoi, avant d'examiner les autres figures, il est bon d’avoir tout de suite sous les yeux le tableau général des transformations des signes d'ornement dans l'écri
+
+ture gothique. GOTHIQUE NOTATION LAINE, Signes d'ornement. P & | srroPui- |EPIPHO- | CEPHA- QUILIte CUS. nus. | Licus. |  ANCUS. sMA, | PRESSUS. pn
+
+| virre
+
+1Xe 9 99 229 UV P A? 7 / fr
+
+«| mmlvlri$r
+
+XIe
+
+bem |f|P# E |999#%9) + f fs 4" F sm) AE LA 4 [4
+
+L'ancus, qui est au c@halicus ce que le climacus est à la clivis, et ce qu'est l'efifkonus præpunélis au scandicus, n'a pas
+
+te | E | À R æ
+
+© et
+
+ toujours été mieux compris que ses congénères. La seconde forme de l'ancus présente avec celle de la chuis suivie de l’aposéroPha ou de l'oriscus, une similitude qui a parfois induit en erreur les copistes; il n’est pas rare en effet de rencontrer dans les manuscrits la c/vis strophica 1, mise pour l'ancus /. Cette confusion de formules a été quelquefois aussi le résultat d’une simple négligence : dans la notation du quatorzième siècle surtout, la dernière partie de l'excus, semblable au cephalicus, s'est trouvée facilement séparée de la première qui ressemble à la c/zvss; il est alors arrivé que des trois sons qui composent l'axcus, le second s'est trouvé redoublé comme dans le #ressus. On a donc eu :
+
+Île et même fins ou encore f|,,
+
+au lieu defà qui équivaut à cette formule +,
+
+LA notation à points superposés, à laquelle il est temps d'arriver, a subi les mêmes phases que l’autre, en demeurant toutefois plus fidèle aux formes primitives; les différences graphiques n'ont guère ici consisteÿ que dans le plus ou moins de grosseur donné aux notes, et dans l'usage de la portée. Celle-ci, comme nous l’avons remarqué, s'est trouvée équivalemment et de trèsbonne heure employée.dans ce système; car la superposition des points à des hauteurs relatives, rendues exactes par les lignes préalablement tracées à la pointe sèche sur le parchemin, pour régler à la fois l'écriture du texte et celle des notes, constituait la portée musicale, avant que celle-ci fût inventée.
+
+Nous donnons ci-après les modifications progressives que ce genre de notes a reçues, à l'instar de ce qui s’est opéré graphiquement dans la notation guidonienne. Nous suivons le même ordre et la même disposition que plus haut, et nous donnons aux formules le même nom.
+
+Ox sait déjà pourquoi la c/vrs, le torculus, le porrettus ont une double forme.
+
+Le forreilus de la secondé espèce pourrait se confondre avec le guilisma, mais on remarquera que celui-ci a la partie inférieure plus prolongée. Cette similitude de forme semble indiquer qu'il doit y avoir aussi une ressemblance d'exécution; et nous verrons plus loin qu’en effet cette ressemblance existe.  NOTATION A POINTS SUPERPOSÉS. Neumes ordinaires.
+
+ou
+
+ë POINT. PODATUS. CLIVIS. TORCULUS. |PORRECTUS. XIe
+
+xILe " £ : A ss ! sf M
+
+XIIIe F ? EL s. À M
+
+se À =! M
+
+2. >
+
+XIe u JL
+
+ua æ |scanpr-|.,1cusl CLIMA- | SRBPUNS | CLIMACUS | PORRECTUS. H | cus ‘| ous. Cris. | RESUPINUS.| PRÆPUNCTIS. XIe e e 9 XIIe # # ‘ ” s" W 4 a e e al 2434 lu | e a = | XIVe À an e sn sn nn e es =
+
+OUTRE les neumes ordinaires, qui servent à exprimer purement et simplement les sons de la voix, avec la manière dont ceux-ci sont groupés dans le chant, la notation à points super posés, comme nous l'avons vu, a aussi des formes spéciales de notes pour indiquer les sons liquescents, trémulants, appuyés, répercutés. En voici le tableau :
+
+NOTATION A POINTS SUPERPOSÉS. Signes d'ornement.
+
+STROPHI- EPIPHO- | CEPHALI CUS. NUS. CUS. ANCUS. |QUILISMA.| PRESSUS.
+
+“SATOYIS
+
+XIe et XIIe
+
+2 95|Ÿ |" |" xive|ssssm | @ 9 9 f D
+
+QUANT aux groupes de notes, sans lesquels il n’y a pas de chant grégorien, ils sont ici, comme dans l’autre système, fidèlement conservés.
+
+PLus nous remontons haut dans la chaîne des siècles, plus est exacte et partout uniforme la manière dont la suite des notes est divisée en formules. Mais à mesure que nous nous rappro: chons des âges modernes, bien que la série des notes soit toujours distribuée en formules, cette distribution devient plus arbitraire et moins fidèle à la tradition. Aux quatorzième et quinzième siècles, les amateurs de chant ont d’autres soucis : la composition des motets, et le calcul des temps parfaits et 1mparfaits absorbent tous leurs loisirs et toute leur attention; le déchant et la mesure ont envahi le sanétuaire; le plain-chant est abandonné à la routine, et s’il en sort, c'est pour recevoir l'empreinte d’un art musical nouveau. Cependant on écrit encore de belles notes sur le parchemin, on les enlumine merveilleusement;
+
+9°
+
+” | & XIIIe | ee es À pi
+
+ mais que font les notateurs? Pour eux les groupes de notes ne sont plus qu’une affaire de main et de plume : ils s’inquièteront peu d’attacher à un groupe une note qui auparavant appartenait à la formule voisine: ils coupent et tranchent sans merci, et recousent à leur guise les notes et les figures. Ainsi, par exemple, supposons que le calligraphe tombe vers la fin d'une ligne sur un groupe trop long pour ce qui lui reste d'espace : sans hésitation aucune et sans le moindre scrupule, il partagera la série des notes qui composent ce groupe, prenant ce qu'il lui faut matériellement pour achever la ligne, et rejetant le reste à la ligne suivante.
+
+IL ne s'écartera pas cependant pour cela des formes graphiques traditionnelles. Qu'il s'agisse, par exemple, d'un groupe de quatre notes descendantes, il les distribuera en deux groupes de deux notes chacun; mais celles-ci seront jointes comme le sont régulièrement deux notes dans le mouvement descendant, c'est-à-dire que le c/zmacus deviendra une double churs.
+
+CLIMACUS 1, DOUBLE CLIVIS L Le
+
+MAITRE souverain des destinées du chant, le notateur, par cela seul qu'il ne sera pas sorti des formes usitées, croira avoir satisfait à toutes les exigences. Souvent il se donnera pleine carrière, sans même avoir, comme dans le cas précédent, l’excuse d'une apparente nécessité. Citons un exemple des licences auxquelles il peut se laisser aller, même dans le cours de la ligne, et sans autre motif que son caprice. Le Répons Vos qui transituri estis du Lundi de la quatrième semaine de carême, présente sur le mot Domino une suite de {orculus d'une grande beauté, tant au point de vue du rhythme que de la modulation. Certains calligraphes ont cru sans doute plus simple de finir les groupes aux notes les plus graves.
+
+= ils ont Es jé de écrit
+
+mio. no.
+
+CHez un grand nombre, ce devient une habitude, presque un principe, de ne jamais finir un groupe, quand il y a encore  une ou plusieurs notes susceptibles d’être englobées dans la série des rhomboïdes qui font les délices de leur ca/amus. Jusque-là du moins, ils ne font que substituer un groupe à un autre, et ils demeurent encore fidèles aux formes régulières : ce n’est que plus tard et insensiblement que des figures insolites paraissent sous leur plume. Bientôt cependant, les formules se désorganisent et s'émiettent, comme on le voit à la dernière ligne des tableaux donnés ci-dessus, pour arriver enfin à la manière moderne, c'est-à-dire à la disparition entière des groupes, et par là à l'exécution martelée qui carattérise le plain-chant actuel.
+
+ARRIVONS à la conclusion pratique.
+
+IL ne peut exister de doute sur la notation qui convient au plain-chant. Cette notation n’est pas à inventer; nous la trouvons toute faite dans.les monuments de la tradition. Elle se compose de notes simples : virga ou funélum; et de notes composées ou ligatures : podatus, clives, torculus, etc. Voilà ce qu’il faut reproduire simplement; sans cela on ne peut espérer de restauration sérieuse du chant grégorien. Quand même on ne serait pas certain d'abord de posséder la clef de ces signes, on est sûr du moins, en les reproduisant, de reproduire le vrai chant grégorien, c'est-à-dire un chant noté d'une manière conforme aux vrais principes d'exécution, Il est évident qu’une méthode qui. ne pourrait cadrer avec cette notation traditionnelle devrait, pour cette raison seule, être condamnée sans appel. Ce n'est pas à dire cependant qu'une manière de chanter doive être jugée bonne, par cela seul qu'elle concorde avec la bonne notation, ou bien que l'effet en paraît agréable; car on peut évidemment, sans contredire la notation traditionnelle, comme aussi sans blesser l'oreille, moduler en se servant des mêmes notes que dans les livres grégoriens, d'une façon qui ne serait nullement celle de S. Grégoire. Toutefois, nous le répétons, il y a un grand pas de fait, lorsque l’on peut être certain d'avoir retrouvé la vraie notation, la notation vraiment traditionnelle et grégorienne. Nous disons retrouver, bien qu'elle n'ait été perdue que dans l'usage, et depuis un temps relativement court, lorsqu'on le compare à celui où cette notation s'est maintenue sans altération.
+
+OR la certitude de posséder la notation véritable, celle dont toute la tradition s’est servie pour écrire le plain-chant, résulte  clairement, croyons-nous, de tout ce qui précède. Nous avons suffisamment fait voir en effet, que la notation primitive et celle qui a précédé immédiatement les altérations dont nous avons parlé, sont une seule et même notation, qui s'est développée progressivement et régulièrement, comme se développe tout ce qui a vie, comme se développe une plante qui germe, s'épanouit, fleurit, pousse des fruits; mais qui, au milieu de ces transformations successives, est toujours la même plante.
+
+AFIN de mieux apprécier la raison archéologique en même temps que la portée pratique des signes de notation, tels que la tradition nous les a transmis en les perfettionnant, nous devons, au risque d'empiéter sur la question du rhythme que nous traiterons plus loin, écarter tout de suite certaines idées fausses ou inexactes qui pourraient empêcher de bien interpréter plusieurs de ces signes, particulièrement la virga. Ce
+
+qui nous conduira à parler des lettres dites sigmzfcatives, et des signes attribués à Romanus. 
